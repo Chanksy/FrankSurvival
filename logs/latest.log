@@ -1,81 +1,48 @@
-[01:55:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:55:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:55:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:55:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:55:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:55:19] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[01:55:19] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[01:55:19] [Server thread/INFO]: Loading properties
-[01:55:19] [Server thread/INFO]: Default game type: SURVIVAL
-[01:55:19] [Server thread/INFO]: Generating keypair
-[01:55:19] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_221]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_221]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_221]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_221]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
-	at uk$2.run(SourceFile:109) [server.jar:?]
-[01:55:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:55:19] [Server thread/INFO]: Using default channel type
-[01:55:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:55:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:55:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:55:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:55:22] [Server thread/INFO]: Preparing level "world"
-[01:55:22] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:55:23] [Server thread/INFO]: Loaded 6 recipes
-[01:55:24] [Server thread/INFO]: Loaded 811 advancements
-[01:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:27] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:28] [Server thread/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[01:55:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[01:55:35] [Server-Worker-2/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server thread/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server thread/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server-Worker-3/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server thread/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server thread/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server-Worker-2/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server thread/INFO]: Preparing spawn area: 99%
-[01:55:35] [Server thread/INFO]: Time elapsed: 10757 ms
-[01:55:35] [Server thread/INFO]: Done (13.053s)! For help, type "help"
-[01:55:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f9e4e1[id=<null>,name=Chanksy,properties={},legacy=false] (/127.0.0.1:64116) lost connection: Disconnected
-[01:55:38] [Server thread/INFO]: Chanksy[/127.0.0.1:64121] logged in with entity id 75 at (245.12154280372783, 79.0, 856.5086006092723)
-[01:55:38] [Server thread/INFO]: Chanksy joined the game
-[01:55:55] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[01:55:55] [Server thread/INFO]: Chanksy left the game
-[01:55:57] [Server thread/INFO]: Chanksy[/127.0.0.1:64129] logged in with entity id 288 at (245.69999998807907, 79.0, 856.3000000119209)
-[01:55:57] [Server thread/INFO]: Chanksy joined the game
-[01:56:01] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[01:56:01] [Server thread/INFO]: Chanksy left the game
-[01:56:08] [Server thread/INFO]: Stopping the server
-[01:56:08] [Server thread/INFO]: Stopping server
-[01:56:08] [Server thread/INFO]: Saving players
-[01:56:08] [Server thread/INFO]: Saving worlds
-[01:56:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:56:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:56:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:54:03] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[12:54:03] [Server thread/INFO]: Loading properties
+[12:54:03] [Server thread/INFO]: Default game type: SURVIVAL
+[12:54:03] [Server thread/INFO]: Generating keypair
+[12:54:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:54:04] [Server thread/INFO]: Using default channel type
+[12:54:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:54:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:54:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:54:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:54:04] [Server thread/INFO]: Preparing level "world"
+[12:54:04] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:54:10] [Server thread/INFO]: Loaded 6 recipes
+[12:54:10] [Server thread/INFO]: Loaded 811 advancements
+[12:54:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:54:11] [Server thread/INFO]: Preparing spawn area: 0%
+[12:54:11] [Server thread/INFO]: Preparing spawn area: 0%
+[12:54:12] [Server thread/INFO]: Preparing spawn area: 49%
+[12:54:13] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[12:54:13] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[12:54:13] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[12:54:14] [Server thread/INFO]: Preparing spawn area: 98%
+[12:54:14] [Server thread/INFO]: Time elapsed: 3183 ms
+[12:54:14] [Server thread/INFO]: Done (9.951s)! For help, type "help"
+[12:55:53] [Server thread/INFO]: Chanksy[/127.0.0.1:60076] logged in with entity id 75 at (245.29009892013656, 79.0, 856.399119341654)
+[12:55:53] [Server thread/INFO]: Chanksy joined the game
+[12:59:16] [Server thread/WARN]: Chanksy moved too quickly! 7.309034766878938,1.0,-7.075964807196556
+[12:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[13:02:44] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[13:02:44] [Server thread/INFO]: Chanksy left the game
+[13:02:53] [Server thread/INFO]: Stopping the server
+[13:02:53] [Server thread/INFO]: Stopping server
+[13:02:53] [Server thread/INFO]: Saving players
+[13:02:53] [Server thread/INFO]: Saving worlds
+[13:02:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:02:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:02:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:02:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:02:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:02:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:02:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:02:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:02:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
