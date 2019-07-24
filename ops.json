@@ -1,7 +1,31 @@
 [
   {
+    "uuid": "ec436333-76da-4cb7-830a-7c5a41eac9bc",
+    "name": "nabeus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b8e19905-8130-3951-aca7-8e5df16ac1ac",
+    "name": "Maneus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8d196124-82fe-3f46-aaba-996fb65e02e4",
+    "name": "Chanksy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "20f68d15-516d-341f-a714-91293be43388",
     "name": "RichkidRich",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "43e329ea-8799-33f6-8d14-94005f914290",
+    "name": "LazyPotatoJoe",
     "level": 4,
     "bypassesPlayerLimit": false
   }
