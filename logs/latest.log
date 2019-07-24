@@ -1,28 +1,165 @@
-[15:11:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:11:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:11:17] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[15:11:17] [Server thread/INFO]: Loading properties
-[15:11:17] [Server thread/INFO]: Default game type: SURVIVAL
-[15:11:17] [Server thread/INFO]: Generating keypair
-[15:11:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:11:17] [Server thread/INFO]: Using default channel type
-[15:11:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:11:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:11:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:11:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:11:17] [Server thread/INFO]: Preparing level "world"
-[15:11:17] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:11:23] [Server thread/INFO]: Loaded 6 recipes
-[15:11:24] [Server thread/INFO]: Loaded 811 advancements
-[15:11:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:11:25] [Server thread/INFO]: Preparing spawn area: 0%
-[15:11:25] [Server thread/INFO]: Preparing spawn area: 0%
-[15:11:27] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:11:27] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:11:27] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:11:27] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:11:27] [Server thread/INFO]: Time elapsed: 3011 ms
-[15:11:27] [Server thread/INFO]: Done (10.506s)! For help, type "help"
+[17:59:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:59:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:59:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:59:24] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[17:59:24] [Server thread/INFO]: Loading properties
+[17:59:24] [Server thread/INFO]: Default game type: SURVIVAL
+[17:59:24] [Server thread/INFO]: Generating keypair
+[17:59:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:59:24] [Server thread/INFO]: Using default channel type
+[17:59:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:59:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:59:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:59:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:59:25] [Server thread/INFO]: Preparing level "world"
+[17:59:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:59:27] [Server thread/INFO]: Loaded 6 recipes
+[17:59:28] [Server thread/INFO]: Loaded 811 advancements
+[17:59:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:59:43] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:43] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:59:44] [Server thread/INFO]: Preparing spawn area: 4%
+[17:59:51] [Server-Worker-2/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server thread/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[17:59:51] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[17:59:52] [Server thread/INFO]: Time elapsed: 22815 ms
+[17:59:52] [Server thread/INFO]: Done (26.836s)! For help, type "help"
+[18:02:49] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:50420] logged in with entity id 75 at (384.18046648493646, 93.5, 204.800367472659)
+[18:02:49] [Server thread/INFO]: LazyPotatoJoe joined the game
+[18:03:00] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[18:03:00] [Server thread/INFO]: LazyPotatoJoe left the game
+[18:03:08] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:50424] logged in with entity id 285 at (384.18046648493646, 93.5, 204.800367472659)
+[18:03:08] [Server thread/INFO]: LazyPotatoJoe joined the game
+[18:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
+[18:06:04] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Best Friends Forever]
+[18:06:14] [Server thread/INFO]: Maneus[/42.2.165.55:52948] logged in with entity id 668 at (375.2915328823048, 91.0, 207.1720706626937)
+[18:06:14] [Server thread/INFO]: Maneus joined the game
+[18:06:19] [Server thread/INFO]: <LazyPotatoJoe> hello
+[18:06:26] [Server thread/INFO]: <LazyPotatoJoe> I've just befriended a lamma
+[18:06:31] [Server thread/INFO]: <Maneus> oh what do you feed it?
+[18:06:39] [Server thread/INFO]: <LazyPotatoJoe> i just kept mounting it
+[18:06:58] [Server thread/INFO]: <Maneus> lol I'm surprised that works
+[18:07:07] [Server thread/INFO]: <LazyPotatoJoe> i got kicked off a few times
+[18:07:11] [Server thread/INFO]: <LazyPotatoJoe> i cant ride it thoguh
+[18:07:24] [Server thread/INFO]: <Maneus> ohh wait maybe we can use a saddle
+[18:12:46] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Ol' Betsy]
+[18:20:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
+[18:20:02] [Server thread/WARN]: LazyPotatoJoe moved wrongly!
+[18:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:23:38] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Take Aim]
+[18:24:05] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Not Today, Thank You]
+[18:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3807ms or 76 ticks behind
+[18:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:30:12] [Server thread/WARN]: Maneus moved too quickly! -0.2645855920856093,0.14168517272452164,-10.119306133932707
+[18:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[18:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[18:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[18:49:42] [Server thread/INFO]: LazyPotatoJoe was blown up by Creeper
+[18:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[18:50:02] [Server thread/INFO]: Teleported LazyPotatoJoe to Maneus
+[18:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5423ms or 108 ticks behind
+[18:51:49] [Server thread/INFO]: Maneus has made the advancement [Best Friends Forever]
+[18:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[18:53:28] [Server thread/WARN]: Horse moved wrongly!
+[18:53:28] [Server thread/WARN]: Horse moved wrongly!
+[18:53:28] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:29] [Server thread/WARN]: Horse moved wrongly!
+[18:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:34] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:35] [Server thread/WARN]: Horse moved wrongly!
+[18:53:45] [Server thread/WARN]: Horse moved wrongly!
+[18:53:45] [Server thread/WARN]: Horse moved wrongly!
+[18:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4005ms or 80 ticks behind
+[18:54:13] [Server thread/WARN]: Horse moved wrongly!
+[18:55:09] [Server thread/INFO]: Maneus lost connection: Disconnected
+[18:55:09] [Server thread/INFO]: Maneus left the game
+[18:55:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[18:56:07] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[18:56:07] [Server thread/INFO]: LazyPotatoJoe left the game
+[18:56:15] [Server thread/INFO]: Stopping the server
+[18:56:15] [Server thread/INFO]: Stopping server
+[18:56:15] [Server thread/INFO]: Saving players
+[18:56:15] [Server thread/INFO]: Saving worlds
+[18:56:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:56:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:56:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:56:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:56:15] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:56:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:56:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:56:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:56:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
