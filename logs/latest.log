@@ -1,42 +1,376 @@
-[11:40:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:40:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:40:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:40:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:40:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:40:00] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[11:40:00] [Server thread/INFO]: Loading properties
-[11:40:00] [Server thread/INFO]: Default game type: SURVIVAL
-[11:40:00] [Server thread/INFO]: Generating keypair
-[11:40:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:40:00] [Server thread/INFO]: Using default channel type
-[11:40:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:40:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:40:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:40:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:40:01] [Server thread/INFO]: Preparing level "world"
-[11:40:01] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:40:07] [Server thread/INFO]: Loaded 6 recipes
-[11:40:07] [Server thread/INFO]: Loaded 811 advancements
-[11:40:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:40:08] [Server thread/INFO]: Preparing spawn area: 0%
-[11:40:08] [Server thread/INFO]: Preparing spawn area: 0%
-[11:40:08] [Server thread/INFO]: Preparing spawn area: 39%
-[11:40:08] [Server thread/INFO]: Time elapsed: 1113 ms
-[11:40:08] [Server thread/INFO]: Done (7.798s)! For help, type "help"
-[11:41:26] [Server thread/INFO]: Chanksy[/127.0.0.1:62414] logged in with entity id 72 at (1121.8940325520741, 78.0, 588.3863785021516)
-[11:41:26] [Server thread/INFO]: Chanksy joined the game
-[12:26:27] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[12:26:27] [Server thread/INFO]: Chanksy left the game
-[12:26:33] [Server thread/INFO]: Stopping the server
-[12:26:33] [Server thread/INFO]: Stopping server
-[12:26:33] [Server thread/INFO]: Saving players
-[12:26:33] [Server thread/INFO]: Saving worlds
-[12:26:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[12:26:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:26:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[12:26:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:26:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:26:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:26:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:26:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:26:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:29:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:29:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:29:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:29:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:29:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:30:03] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[12:30:03] [Server thread/INFO]: Loading properties
+[12:30:03] [Server thread/INFO]: Default game type: SURVIVAL
+[12:30:03] [Server thread/INFO]: Generating keypair
+[12:30:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:30:03] [Server thread/INFO]: Using default channel type
+[12:30:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:30:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:30:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:30:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:30:03] [Server thread/INFO]: Preparing level "world"
+[12:30:04] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:30:04] [Server thread/INFO]: Loaded 6 recipes
+[12:30:05] [Server thread/INFO]: Loaded 811 advancements
+[12:30:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[12:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[12:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[12:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[12:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[12:30:17] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[12:30:18] [Server thread/INFO]: Preparing spawn area: 59%
+[12:30:18] [Server thread/INFO]: Time elapsed: 11198 ms
+[12:30:18] [Server thread/INFO]: Done (14.841s)! For help, type "help"
+[12:30:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ec6086b[id=<null>,name=Chanksy,properties={},legacy=false] (/59.149.117.196:49259) lost connection: Disconnected
+[12:30:20] [Server thread/INFO]: Chanksy[/59.149.117.196:49307] logged in with entity id 72 at (1120.0817683231787, 79.0, 603.8102296329258)
+[12:30:20] [Server thread/INFO]: Chanksy joined the game
+[12:30:24] [Server thread/INFO]: <Chanksy> hey friend
+[12:30:34] [Server thread/INFO]: [Server] hello
+[12:31:59] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:51510] logged in with entity id 500 at (1131.7541736550245, 79.0, 604.2417724612039)
+[12:31:59] [Server thread/INFO]: LazyPotatoJoe joined the game
+[12:32:13] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[12:32:13] [Server thread/INFO]: LazyPotatoJoe left the game
+[12:32:14] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:51516] logged in with entity id 524 at (1131.7541736550245, 79.0, 604.2417724612039)
+[12:32:14] [Server thread/INFO]: LazyPotatoJoe joined the game
+[12:32:27] [Server thread/INFO]: <LazyPotatoJoe> skype
+[12:32:31] [Server thread/INFO]: <LazyPotatoJoe> *facetime
+[12:32:34] [Server thread/INFO]: <Chanksy> lmao
+[12:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[12:35:26] [Server thread/WARN]: LazyPotatoJoe moved too quickly! 5.4417730962793485,0.0,-8.526191090928023
+[12:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[12:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[12:46:39] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[12:46:39] [Server thread/INFO]: Chanksy left the game
+[12:53:12] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[12:53:12] [Server thread/INFO]: LazyPotatoJoe left the game
+[13:02:47] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:51606] logged in with entity id 3780 at (1119.8913332718093, 79.0, 604.3082594544011)
+[13:02:47] [Server thread/INFO]: LazyPotatoJoe joined the game
+[13:04:46] [Server thread/INFO]: Chanksy[/59.149.117.196:51490] logged in with entity id 4220 at (1117.4447088038444, 79.875, 601.3000000119209)
+[13:04:46] [Server thread/INFO]: Chanksy joined the game
+[13:04:47] [Server thread/INFO]: <Chanksy> hello
+[13:04:53] [Server thread/INFO]: <LazyPotatoJoe> lmao
+[13:05:02] [Server thread/INFO]: <LazyPotatoJoe> have you go the spruce
+[13:05:08] [Server thread/INFO]: <LazyPotatoJoe> log
+[13:05:14] [Server thread/INFO]: <LazyPotatoJoe> can you repair the wall
+[13:05:17] [Server thread/INFO]: <Chanksy> uh
+[13:05:21] [Server thread/INFO]: <LazyPotatoJoe> i accidently stripped it
+[13:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[13:06:10] [Server thread/INFO]: <LazyPotatoJoe> fuck
+[13:06:17] [Server thread/INFO]: <Chanksy> don't even worry
+[13:10:23] [Server thread/INFO]: <LazyPotatoJoe> facetime?
+[13:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[13:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[13:35:38] [Server thread/WARN]: Chanksy moved too quickly! -7.6572708717767455,-1.766367993957516,6.231141344867865
+[13:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[13:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14:00:41] [Server thread/WARN]: Chanksy moved too quickly! 0.9466109370664526,1.1767592750642422,9.956335905712308
+[14:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[14:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5067ms or 101 ticks behind
+[14:05:50] [Server thread/WARN]: Chanksy moved too quickly! 6.192731017493543,-0.12129684053920187,-8.053966089890991
+[14:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3636ms or 72 ticks behind
+[14:10:54] [Server thread/WARN]: Chanksy moved too quickly! 10.044098563568468,-0.08000001311302185,0.7814825212657297
+[14:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3816ms or 76 ticks behind
+[14:15:56] [Server thread/WARN]: Chanksy moved wrongly!
+[14:19:26] [Server thread/WARN]: LazyPotatoJoe moved wrongly!
+[14:25:56] [Server thread/WARN]: Chanksy moved too quickly! -6.0327683507089205,1.8322033533667508,7.8421120884331685
+[14:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[14:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[14:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[14:31:08] [Server thread/WARN]: LazyPotatoJoe moved too quickly! 0.5290757442196536,0.0,10.002171925281573
+[14:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
+[14:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[14:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[14:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3794ms or 75 ticks behind
+[14:51:20] [Server thread/WARN]: Chanksy moved too quickly! -0.2792951295241437,-1.1661092609382138,10.067437974101722
+[14:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
+[15:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3654ms or 73 ticks behind
+[15:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[15:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[15:11:28] [Server thread/WARN]: LazyPotatoJoe moved wrongly!
+[15:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[15:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[15:16:01] [Server thread/INFO]: Chanksy has made the advancement [Ice Bucket Challenge]
+[15:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[15:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[15:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[15:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[15:26:47] [Server thread/WARN]: Chanksy moved wrongly!
+[15:31:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15:31:52] [Server thread/WARN]: LazyPotatoJoe moved too quickly! 6.423064621208368,1.0013359791121417,-7.678701808800042
+[15:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
+[15:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[15:36:57] [Server thread/WARN]: LazyPotatoJoe moved too quickly! 0.03758771343359513,0.0,-10.09106434201226
+[15:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
+[15:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:42:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
+[15:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[15:47:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[15:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[15:48:02] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/39199, l='world', x=1215.52, y=22.43, z=854.09]
+[15:48:27] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[15:48:27] [Server thread/INFO]: Chanksy left the game
+[15:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
+[15:59:51] [Server thread/INFO]: Chanksy[/59.149.117.196:62885] logged in with entity id 41003 at (1238.257716966836, 17.0, 834.1274640310331)
+[15:59:51] [Server thread/INFO]: Chanksy joined the game
+[15:59:52] [Server thread/INFO]: <Chanksy> hello
+[16:01:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16:02:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[16:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[16:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
+[16:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[16:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7046ms or 140 ticks behind
+[16:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[16:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[16:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
+[16:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[16:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[16:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3761ms or 75 ticks behind
+[16:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
+[16:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[16:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
+[16:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[16:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5826ms or 116 ticks behind
+[16:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[16:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[16:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[16:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
+[16:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[16:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[16:45:51] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:45:51] [Server thread/INFO]: Chanksy left the game
+[16:45:55] [Server thread/INFO]: <LazyPotatoJoe> hello
+[16:45:57] [Server thread/INFO]: Chanksy[/59.149.117.196:49415] logged in with entity id 53128 at (1144.7386641168077, 18.0, 809.9638502671186)
+[16:45:57] [Server thread/INFO]: Chanksy joined the game
+[16:46:01] [Server thread/INFO]: <LazyPotatoJoe> hello
+[16:46:08] [Server thread/INFO]: <Chanksy> lmao been here a while
+[16:46:09] [Server thread/INFO]: <Chanksy> hello
+[16:46:26] [Server thread/INFO]: <LazyPotatoJoe> soz you probably joined when i tabbed out hahaha
+[16:46:33] [Server thread/INFO]: <Chanksy> npnp
+[16:46:51] [Server thread/INFO]: <LazyPotatoJoe> what do we need in the house?
+[16:47:05] [Server thread/INFO]: <Chanksy> lots of storage
+[16:47:13] [Server thread/INFO]: <Chanksy> also where should i put the super smelter
+[16:47:36] [Server thread/INFO]: <LazyPotatoJoe> guess we need a smelting room?
+[16:47:47] [Server thread/INFO]: <Chanksy> ye
+[16:47:58] [Server thread/INFO]: <LazyPotatoJoe> can i get some help clearing the floor later
+[16:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[16:49:08] [Server thread/INFO]: <Chanksy> sure
+[16:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[16:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[17:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[17:06:05] [Server thread/INFO]: <LazyPotatoJoe> are you still exploring
+[17:06:19] [Server thread/INFO]: <Chanksy> yeah but i can probs leave soon
+[17:06:25] [Server thread/INFO]: <Chanksy> i have no plan to return home
+[17:06:35] [Server thread/INFO]: <LazyPotatoJoe> all g
+[17:06:36] [Server thread/INFO]: <Chanksy> but i suspect it'll be something to do with blind luck
+[17:06:38] [Server thread/INFO]: <Chanksy> or coordinates
+[17:07:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/58487, l='world', x=1160.69, y=9.66, z=802.55]
+[17:08:36] [Server thread/INFO]: <Chanksy> i now have 270 iron
+[17:08:39] [Server thread/INFO]: <Chanksy> 24 diamonds
+[17:08:42] [Server thread/INFO]: <LazyPotatoJoe> jebus
+[17:08:44] [Server thread/INFO]: <Chanksy> 50 gold
+[17:08:55] [Server thread/INFO]: <LazyPotatoJoe> sole cause of inflation
+[17:08:58] [Server thread/INFO]: <Chanksy> hahahah
+[17:09:23] [Server thread/INFO]: <Chanksy> oh and 400 redstone
+[17:11:07] [Server thread/INFO]: <LazyPotatoJoe> any chance you got wood?
+[17:11:14] [Server thread/INFO]: <Chanksy> yeah why
+[17:11:30] [Server thread/INFO]: <LazyPotatoJoe> i made 30 chests and i need 30 more
+[17:11:35] [Server thread/INFO]: <Chanksy> what the fuck
+[17:11:37] [Server thread/INFO]: <Chanksy> hahahah
+[17:11:40] [Server thread/INFO]: <LazyPotatoJoe> chest wall mk II is lit
+[17:11:48] [Server thread/INFO]: <Chanksy> are our storage chests empty?
+[17:12:04] [Server thread/INFO]: <LazyPotatoJoe> what do you mean?
+[17:14:50] [Server thread/INFO]: <LazyPotatoJoe> should i use the acacia?
+[17:17:01] [Server thread/INFO]: <Chanksy> like the stuff that we collected before
+[17:17:03] [Server thread/INFO]: <Chanksy> soz mum came in
+[17:17:06] [Server thread/INFO]: <Chanksy> yeah use acacia
+[17:17:06] [Server thread/INFO]: <LazyPotatoJoe> all g
+[17:17:16] [Server thread/INFO]: <LazyPotatoJoe> im going through them now
+[17:17:30] [Server thread/INFO]: <LazyPotatoJoe> ill incinerate the shulker boxes when im done?
+[17:17:37] [Server thread/INFO]: <Chanksy> lmao aight
+[17:17:44] [Server thread/INFO]: <LazyPotatoJoe> that was teh plan right?
+[17:17:49] [Server thread/INFO]: <Chanksy> yup
+[17:18:24] [Server thread/INFO]: <Chanksy> omg i'm retarded i could've had so much more space
+[17:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[17:18:35] [Server thread/INFO]: <LazyPotatoJoe> if you brought the box?
+[17:18:45] [Server thread/INFO]: <Chanksy> no if i made blocks with the ingots
+[17:18:50] [Server thread/INFO]: <Chanksy> 9:1 ratio
+[17:18:51] [Server thread/INFO]: <LazyPotatoJoe> lololol
+[17:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:18:54] [Server thread/INFO]: <Chanksy> eric stats
+[17:19:48] [Server thread/INFO]: <LazyPotatoJoe> did you explore the ship wreck already?
+[17:19:54] [Server thread/INFO]: <Chanksy> yeah very anus
+[17:20:02] [Server thread/INFO]: <LazyPotatoJoe> rip
+[17:20:18] [Server thread/INFO]: <Chanksy> that gave the map for the treasure that i couldn't find
+[17:20:28] [Server thread/INFO]: <LazyPotatoJoe> lmao gg
+[17:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[17:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[17:28:35] [Server thread/INFO]: <Chanksy> holy fuck half a heart
+[17:28:41] [Server thread/INFO]: <LazyPotatoJoe> DAMN SON
+[17:28:51] [Server thread/INFO]: <Chanksy> i actually had a heart attack
+[17:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4056ms or 81 ticks behind
+[17:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[17:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[17:31:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[17:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[17:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:32:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[17:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[17:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[17:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[17:35:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:35:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[17:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
+[17:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
+[17:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[17:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[17:50:22] [Server thread/INFO]: <Chanksy> what's your y coord?
+[17:54:30] [Server thread/INFO]: <Chanksy> I SEE THE SKY
+[17:54:38] [Server thread/INFO]: <LazyPotatoJoe> shit soz
+[17:54:38] [Server thread/INFO]: <Chanksy> HOLY FUYCKING SHIT IT'S BEEN LIKE 3 HOURS
+[17:54:44] [Server thread/INFO]: <Chanksy> ALL G
+[17:54:52] [Server thread/INFO]: <LazyPotatoJoe> how do i check the coordinate
+[17:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[17:55:59] [Server thread/INFO]: <Chanksy> HELLO
+[17:56:06] [Server thread/INFO]: <LazyPotatoJoe> HOLY SHIT
+[17:56:14] [Server thread/INFO]: <Chanksy> speaking of holy shit
+[17:56:16] [Server thread/INFO]: <LazyPotatoJoe> you
+[17:56:18] [Server thread/INFO]: <Chanksy> all that cobble hahahahah
+[17:56:18] [Server thread/INFO]: <LazyPotatoJoe> *how
+[17:56:23] [Server thread/INFO]: <LazyPotatoJoe> lmao yeh
+[17:56:23] [Server thread/INFO]: <Chanksy> memory
+[17:56:24] [Server thread/INFO]: <Chanksy> :)
+[17:56:53] [Server thread/INFO]: <LazyPotatoJoe> is the design alright?
+[17:57:04] [Server thread/INFO]: <Chanksy> yeee
+[17:57:34] [Server thread/INFO]: <LazyPotatoJoe> i need more wood hahaha
+[17:57:44] [Server thread/INFO]: <Chanksy> it's not much
+[17:57:50] [Server thread/INFO]: <LazyPotatoJoe> but its honest work
+[17:58:01] [Server thread/INFO]: <Chanksy> lmao
+[17:58:24] [Server thread/INFO]: <LazyPotatoJoe> im thinking one basement and one floor up for future expansion?
+[17:58:30] [Server thread/INFO]: <Chanksy> yes
+[17:58:47] [Server thread/INFO]: <LazyPotatoJoe> i have cabin fever lmao
+[17:58:54] [Server thread/INFO]: <Chanksy> hahahha
+[17:59:41] [Server thread/INFO]: <LazyPotatoJoe> do you think this will convince afrank and rich to drop their base
+[17:59:47] [Server thread/INFO]: <Chanksy> hahahaha
+[18:00:00] [Server thread/INFO]: <Chanksy> if we build the thing that sticks out, probably
+[18:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[18:00:09] [Server thread/INFO]: <Chanksy> what's on the right side of the big roo
+[18:00:11] [Server thread/INFO]: <Chanksy> ,m
+[18:00:20] [Server thread/INFO]: <LazyPotatoJoe> dunno
+[18:00:27] [Server thread/INFO]: <LazyPotatoJoe> but it cant exapnd any further
+[18:00:38] [Server thread/INFO]: <Chanksy> oh shit
+[18:00:46] [Server thread/INFO]: <Chanksy> wait what about stables then
+[18:00:53] [Server thread/INFO]: <Chanksy> if it opens up to the outside
+[18:01:03] [Server thread/INFO]: <LazyPotatoJoe> yes that is an excellent idea
+[18:01:13] [Server thread/INFO]: <Chanksy> also
+[18:01:15] [Server thread/INFO]: <Chanksy> for dinner
+[18:01:20] [Server thread/INFO]: <Chanksy> teawood or takoyaki
+[18:01:21] [Server thread/INFO]: <Chanksy> lmao
+[18:01:24] [Server thread/INFO]: <LazyPotatoJoe> teawood
+[18:01:44] [Server thread/INFO]: <LazyPotatoJoe> they have new risotto/pasta things that are pretty lit imo
+[18:01:48] [Server thread/INFO]: <Chanksy> oh shit
+[18:01:49] [Server thread/INFO]: <Chanksy> aight
+[18:01:57] [Server thread/INFO]: <LazyPotatoJoe> try the curry risotto
+[18:02:02] [Server thread/INFO]: <LazyPotatoJoe> comes with fried chicken
+[18:02:05] [Server thread/INFO]: <LazyPotatoJoe> absolute fire
+[18:02:09] [Server thread/INFO]: <LazyPotatoJoe> brb
+[18:03:21] [Server thread/INFO]: <LazyPotatoJoe> i have returned
+[18:03:24] [Server thread/INFO]: <Chanksy> wb
+[18:04:19] [Server thread/INFO]: <LazyPotatoJoe> oh shit the anvil has durability?
+[18:04:25] [Server thread/INFO]: <Chanksy> lmao yeah
+[18:05:21] [Server thread/INFO]: <Chanksy> hello
+[18:05:22] [Server thread/INFO]: <Chanksy> come here
+[18:05:24] [Server thread/INFO]: <LazyPotatoJoe> oh shit
+[18:05:33] [Server thread/INFO]: <Chanksy> see what enchants there are
+[18:05:35] [Server thread/INFO]: <LazyPotatoJoe> for me???
+[18:05:39] [Server thread/INFO]: <Chanksy> depends
+[18:05:46] [Server thread/INFO]: <Chanksy> if it has mending on any of them, do it
+[18:05:48] [Server thread/INFO]: <Chanksy> otherwise idk
+[18:06:06] [Server thread/INFO]: <LazyPotatoJoe> its all efficiency
+[18:06:12] [Server thread/INFO]: <Chanksy> aids
+[18:07:43] [Server thread/INFO]: Chanksy has made the advancement [Enchanter]
+[18:07:59] [Server thread/INFO]: <LazyPotatoJoe> noice
+[18:08:26] [Server thread/INFO]: <LazyPotatoJoe> sleep please
+[18:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:12:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5560ms or 111 ticks behind
+[18:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5125ms or 102 ticks behind
+[18:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7169ms or 143 ticks behind
+[18:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4064ms or 81 ticks behind
+[18:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:15:28] [Server thread/INFO]: <Chanksy> how is there a grand total of absolutely fucking zero cows
+[18:15:33] [Server thread/WARN]: Chanksy moved too quickly! -2.1586487308643427,-1.8622826671866903,-9.650814523314466
+[18:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[18:15:42] [Server thread/INFO]: <LazyPotatoJoe> lmao i thought we would find more here
+[18:15:49] [Server thread/INFO]: <Chanksy> as did i
+[18:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[18:17:57] [Server thread/INFO]: <LazyPotatoJoe> what was that
+[18:18:08] [Server thread/INFO]: <Chanksy> what
+[18:18:17] [Server thread/INFO]: <LazyPotatoJoe> oh was that an enchantment sound
+[18:20:39] [Server thread/WARN]: Chanksy moved too quickly! -10.065856242540121,-0.20326439933128881,-1.292232105904759
+[18:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3728ms or 74 ticks behind
+[18:24:50] [Server thread/INFO]: <Chanksy> do i bring my laptop?
+[18:24:54] [Server thread/INFO]: <LazyPotatoJoe> yeh
+[18:25:41] [Server thread/INFO]: <Chanksy> aight packing now
+[18:25:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[18:25:48] [Server thread/INFO]: <Chanksy> probs gonna catch the 48 bus if that's aight
+[18:26:20] [Server thread/INFO]: <Chanksy> order the curry risotto for me if yall get there first and wanna order lmao
+[18:26:24] [Server thread/INFO]: <Chanksy> ty <3
+[18:26:51] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[18:26:51] [Server thread/INFO]: Chanksy left the game
+[18:47:19] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[18:47:19] [Server thread/INFO]: LazyPotatoJoe left the game
+[18:47:36] [Server thread/INFO]: Stopping the server
+[18:47:36] [Server thread/INFO]: Stopping server
+[18:47:36] [Server thread/INFO]: Saving players
+[18:47:36] [Server thread/INFO]: Saving worlds
+[18:47:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:47:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:47:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
