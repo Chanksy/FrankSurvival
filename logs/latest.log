@@ -1,178 +1,400 @@
-[19:57:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:57:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:57:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:57:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:57:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:57:33] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[19:57:33] [Server thread/INFO]: Loading properties
-[19:57:33] [Server thread/INFO]: Default game type: SURVIVAL
-[19:57:33] [Server thread/INFO]: Generating keypair
-[19:57:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:57:34] [Server thread/INFO]: Using default channel type
-[19:57:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:57:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:57:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:57:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:57:35] [Server thread/INFO]: Preparing level "world"
-[19:57:36] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:58:21] [Server thread/INFO]: Loaded 6 recipes
-[19:58:21] [Server thread/INFO]: Loaded 811 advancements
-[19:58:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:25] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:26] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:26] [Server thread/INFO]: Preparing spawn area: 27%
-[19:58:27] [Server thread/INFO]: Preparing spawn area: 47%
-[19:58:27] [Server thread/INFO]: Time elapsed: 5283 ms
-[19:58:27] [Server thread/INFO]: Done (52.119s)! For help, type "help"
-[19:59:59] [Server thread/INFO]: RichkidRich[/192.168.1.1:54903] logged in with entity id 67 at (1137.2939529618193, 77.0, 676.1968540129127)
-[19:59:59] [Server thread/INFO]: RichkidRich joined the game
-[20:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[20:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25248ms or 504 ticks behind
-[20:01:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25401ms or 508 ticks behind
-[20:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13422ms or 268 ticks behind
-[20:02:14] [Server thread/INFO]: Maneus[/42.2.165.55:56802] logged in with entity id 413 at (1148.139602758647, 79.0, 609.8246719486027)
-[20:02:14] [Server thread/INFO]: Maneus joined the game
-[20:02:19] [Server thread/INFO]: <RichkidRich> hello
-[20:02:22] [Server thread/INFO]: <Maneus> are you at the castle?
-[20:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11434ms or 228 ticks behind
-[20:02:25] [Server thread/INFO]: <Maneus> or the other house?
-[20:02:29] [Server thread/INFO]: <RichkidRich> other house
-[20:02:34] [Server thread/INFO]: <Maneus> oh so am I
-[20:02:35] [Server thread/INFO]: <RichkidRich> i ran out of cobble stone
-[20:02:39] [Server thread/INFO]: <Maneus> there is tons here
-[20:02:42] [Server thread/INFO]: <RichkidRich> so i ran to the old house
-[20:02:46] [Server thread/INFO]: <RichkidRich> and that took 20 mins
-[20:02:50] [Server thread/INFO]: <RichkidRich> so i jsut came here instead haha
-[20:02:51] [Server thread/INFO]: <Maneus> whaat 20 mins?
-[20:02:54] [Server thread/INFO]: <RichkidRich> yeah
-[20:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21136ms or 422 ticks behind
-[20:03:00] [Server thread/INFO]: <Maneus> that's insane
-[20:03:07] [Server thread/INFO]: <RichkidRich> did you teleport
-[20:03:11] [Server thread/INFO]: <Maneus> yes to joe
-[20:03:18] [Server thread/INFO]: <Maneus> and then I slep here by mistake
-[20:03:20] [Server thread/INFO]: <Maneus> slept
-[20:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14267ms or 285 ticks behind
-[20:03:31] [Server thread/INFO]: <RichkidRich> i think well go back eventually
-[20:03:38] [Server thread/INFO]: <Maneus> are you at the original house?
-[20:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12790ms or 255 ticks behind
-[20:04:10] [Server thread/INFO]: <RichkidRich> no im at the new main base
-[20:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7704ms or 154 ticks behind
-[20:04:18] [Server thread/INFO]: <Maneus> oh hi
-[20:04:22] [Server thread/INFO]: <RichkidRich> henlo
-[20:04:26] [Server thread/INFO]: <RichkidRich> i want to make an exp farm
-[20:04:32] [Server thread/INFO]: <Maneus> what's the concept?
-[20:04:32] [Server thread/INFO]: <RichkidRich> but i need sticky pistons
-[20:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5703ms or 114 ticks behind
-[20:04:47] [Server thread/INFO]: <Maneus> oh lets find slimes then
-[20:04:49] [Server thread/INFO]: <RichkidRich> i watched a vid
-[20:04:55] [Server thread/INFO]: <RichkidRich> it grows a lot of bamboo and cactus
-[20:04:59] [Server thread/INFO]: <RichkidRich> and then it smelts it
-[20:05:04] [Server thread/INFO]: <RichkidRich> and the exp is stored in the furnace
-[20:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10913ms or 218 ticks behind
-[20:05:10] [Server thread/INFO]: <Maneus> ohh I see
-[20:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13804ms or 276 ticks behind
-[20:05:53] [Server thread/INFO]: <Maneus> how do we get slimes though?
-[20:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9714ms or 194 ticks behind
-[20:06:11] [Server thread/INFO]: <RichkidRich> idk :(
-[20:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12802ms or 256 ticks behind
-[20:07:01] [Server thread/INFO]: <Maneus> I'm going to dig a mine
-[20:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21346ms or 426 ticks behind
-[20:07:17] [Server thread/INFO]: <RichkidRich> alrighty
-[20:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13395ms or 267 ticks behind
-[20:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12975ms or 259 ticks behind
-[20:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13461ms or 269 ticks behind
-[20:08:27] [Server thread/INFO]: <RichkidRich> do you have any eggs
-[20:08:31] [Server thread/INFO]: <Maneus> not on me
-[20:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18438ms or 368 ticks behind
-[20:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13556ms or 271 ticks behind
-[20:09:31] [Server thread/INFO]: <RichkidRich> sleep
-[20:09:37] [Server thread/INFO]: [Maneus: Teleported Maneus to RichkidRich]
-[20:09:40] [Server thread/INFO]: <RichkidRich> yay
-[20:09:43] [Server thread/INFO]: <Maneus> :)
-[20:09:55] [Server thread/INFO]: <Maneus> it's taking a while
-[20:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12742ms or 254 ticks behind
-[20:10:07] [Server thread/INFO]: <RichkidRich> oh i thought it finished
-[20:10:08] [Server thread/INFO]: <Maneus> ?
-[20:10:10] [Server thread/INFO]: <Maneus> lol...
-[20:10:17] [Server thread/INFO]: <RichkidRich> hahaha
-[20:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6171ms or 123 ticks behind
-[20:10:28] [Server thread/INFO]: <Maneus> check out out balcony
-[20:10:33] [Server thread/INFO]: <Maneus> you can see the sinrise
-[20:10:35] [Server thread/INFO]: <Maneus> sunrise
-[20:10:40] [Server thread/INFO]: <RichkidRich> where
-[20:10:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10519ms or 210 ticks behind
-[20:10:49] [Server thread/INFO]: <Maneus> fromthe main room
-[20:10:59] [Server thread/INFO]: <RichkidRich> oh wow
-[20:11:03] [Server thread/INFO]: <RichkidRich> woah thats so cool
-[20:11:06] [Server thread/INFO]: <Maneus> right!?
-[20:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9933ms or 198 ticks behind
-[20:11:14] [Server thread/INFO]: <Maneus> it took us so long to make it
-[20:11:23] [Server thread/INFO]: <RichkidRich> i imagine haha
-[20:11:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7851ms or 157 ticks behind
-[20:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10175ms or 203 ticks behind
-[20:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11390ms or 227 ticks behind
-[20:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14098ms or 281 ticks behind
-[20:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11729ms or 234 ticks behind
-[20:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9030ms or 180 ticks behind
-[20:14:03] [Server thread/INFO]: <RichkidRich> lets find some slime
-[20:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6922ms or 138 ticks behind
-[20:14:18] [Server thread/INFO]: <Maneus> yeah
-[20:14:22] [Server thread/INFO]: <Maneus> that's why I'm making a mine
-[20:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8695ms or 173 ticks behind
-[20:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9538ms or 190 ticks behind
-[20:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9146ms or 182 ticks behind
-[20:15:17] [Server thread/INFO]: <RichkidRich> apparantly they also spawn in swamp biomes
-[20:15:21] [Server thread/INFO]: <RichkidRich> ill go have a look
-[20:15:21] [Server thread/INFO]: <Maneus> ohh
-[20:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12501ms or 250 ticks behind
-[20:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10236ms or 204 ticks behind
-[20:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13913ms or 278 ticks behind
-[20:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16981ms or 339 ticks behind
-[20:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15350ms or 307 ticks behind
-[20:17:49] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/2044, l='world', x=1107.27, y=72.00, z=696.88]
-[20:18:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25831ms or 516 ticks behind
-[20:18:23] [Server thread/INFO]: <RichkidRich> oh i found the shipwreck
-[20:18:25] [Server thread/INFO]: <Maneus> ohh
-[20:18:33] [Server thread/INFO]: <RichkidRich> did jason ever find the buried treasure
-[20:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37237ms or 744 ticks behind
-[20:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31310ms or 626 ticks behind
-[20:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24632ms or 492 ticks behind
-[20:20:54] [Server thread/INFO]: <RichkidRich> oh wow abandoned mines
-[20:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35290ms or 705 ticks behind
-[20:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35450ms or 709 ticks behind
-[20:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29032ms or 580 ticks behind
-[20:23:25] [Server thread/INFO]: <RichkidRich> franklin have you eaten dinner yet
-[20:23:28] [Server thread/INFO]: <Maneus> yeah
-[20:23:33] [Server thread/INFO]: <Maneus> I usually eat earlier
-[20:23:35] [Server thread/INFO]: <RichkidRich> do you want me to push
-[20:23:36] [Server thread/INFO]: <Maneus> likt 5-6
-[20:23:38] [Server thread/INFO]: <RichkidRich> and then you can run the server
-[20:23:41] [Server thread/INFO]: <Maneus> oh ok yeah
-[20:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24464ms or 489 ticks behind
-[20:23:48] [Server thread/INFO]: <Maneus> are you eating now?
-[20:23:49] [Server thread/INFO]: <RichkidRich> i can still play i just dont know when dinner is haha
-[20:24:00] [Server thread/INFO]: <Maneus> and I'm also lagging a lot actually
-[20:24:00] [Server thread/INFO]: RichkidRich lost connection: Disconnected
-[20:24:00] [Server thread/INFO]: RichkidRich left the game
-[20:24:02] [Server thread/INFO]: Maneus lost connection: Disconnected
-[20:24:02] [Server thread/INFO]: Maneus left the game
-[20:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4969ms or 99 ticks behind
-[20:24:09] [Server thread/INFO]: Stopping the server
-[20:24:09] [Server thread/INFO]: Stopping server
-[20:24:09] [Server thread/INFO]: Saving players
-[20:24:09] [Server thread/INFO]: Saving worlds
-[20:24:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:24:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:24:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:25:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:25:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:25:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:25:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:25:51] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:25:51] [Server thread/INFO]: Loading properties
+[20:25:51] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:51] [Server thread/INFO]: Generating keypair
+[20:25:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:51] [Server thread/INFO]: Using default channel type
+[20:25:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:25:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:25:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:25:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:25:51] [Server thread/INFO]: Preparing level "world"
+[20:25:51] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:25:55] [Server thread/INFO]: Loaded 6 recipes
+[20:25:59] [Server thread/INFO]: Loaded 811 advancements
+[20:25:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:26:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:26:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:26:00] [Server thread/INFO]: Time elapsed: 1000 ms
+[20:26:00] [Server thread/INFO]: Done (9.142s)! For help, type "help"
+[20:26:11] [Server thread/INFO]: Maneus[/192.168.1.1:56828] logged in with entity id 67 at (1106.0333309142022, 71.0, 692.6427719723854)
+[20:26:11] [Server thread/INFO]: Maneus joined the game
+[20:26:39] [Server thread/INFO]: RichkidRich[/42.3.172.248:55080] logged in with entity id 348 at (1156.984999267173, 31.0, 815.2679479002392)
+[20:26:39] [Server thread/INFO]: RichkidRich joined the game
+[20:26:46] [Server thread/INFO]: <Maneus> this whole push thing was a great idea
+[20:26:49] [Server thread/INFO]: <RichkidRich> ikr
+[20:27:11] [Server thread/INFO]: <RichkidRich> i feel like im in danger
+[20:27:13] [Server thread/INFO]: <Maneus> ?
+[20:27:21] [Server thread/INFO]: <RichkidRich> oh i was
+[20:27:27] [Server thread/INFO]: <Maneus> how so?
+[20:27:31] [Server thread/INFO]: <RichkidRich> lots of mobs haha
+[20:27:34] [Server thread/INFO]: <Maneus> ohh ok
+[20:27:37] [Server thread/INFO]: <Maneus> are you in a cave?
+[20:27:43] [Server thread/INFO]: <RichkidRich> wtf 5
+[20:28:10] [Server thread/INFO]: <RichkidRich> was that a spawner??
+[20:28:19] [Server thread/INFO]: <Maneus> 5 zombies?
+[20:28:26] [Server thread/INFO]: <RichkidRich> like 7
+[20:28:31] [Server thread/INFO]: <Maneus> yeah sounds like one
+[20:28:56] [Server thread/INFO]: <RichkidRich> holy shit so much obsidian
+[20:29:03] [Server thread/INFO]: <RichkidRich> its just a pit
+[20:29:06] [Server thread/INFO]: <Maneus> oh I hope you find diamonds
+[20:29:33] [Server thread/INFO]: <RichkidRich> i actually really want to find a portal room haha
+[20:29:44] [Server thread/INFO]: <Maneus> yeah same
+[20:31:18] [Server thread/INFO]: <RichkidRich> i see how eric got lost in here
+[20:34:32] [Server thread/INFO]: <RichkidRich> wtf a witch in a cave
+[20:34:37] [Server thread/INFO]: <Maneus> woah
+[20:35:47] [Server thread/INFO]: <RichkidRich> gold!
+[20:35:50] [Server thread/INFO]: <Maneus> yay!
+[20:38:36] [Server thread/INFO]: <RichkidRich> i am completely lost
+[20:39:28] [Server thread/INFO]: <RichkidRich> oh a minecart chest?
+[20:39:32] [Server thread/INFO]: <Maneus> oh nice!
+[20:40:56] [Server thread/INFO]: <RichkidRich> hows your cave
+[20:41:01] [Server thread/INFO]: <Maneus> goin good
+[20:41:09] [Server thread/INFO]: <Maneus> no cave but I'm just making an efficient way to travel down
+[20:41:48] [Server thread/INFO]: <RichkidRich> wtf are these sounds
+[20:41:52] [Server thread/INFO]: <RichkidRich> its like a zombie
+[20:41:55] [Server thread/INFO]: <RichkidRich> but like an old zombie
+[20:41:58] [Server thread/INFO]: <Maneus> hmm
+[20:42:50] [Server thread/INFO]: <RichkidRich> ah quite the contrary
+[20:42:53] [Server thread/INFO]: <RichkidRich> it was an infant zombie
+[20:42:55] [Server thread/INFO]: <Maneus> ahh
+[20:51:45] [Server thread/INFO]: <Maneus> any slimes?
+[20:51:52] [Server thread/INFO]: <RichkidRich> nope :(
+[20:51:58] [Server thread/INFO]: <Maneus> :(
+[20:52:50] [Server thread/INFO]: <RichkidRich> no diamonds either
+[20:52:53] [Server thread/INFO]: <Maneus> hmm
+[20:52:53] [Server thread/INFO]: <RichkidRich> its just a really big cave
+[20:52:57] [Server thread/INFO]: <RichkidRich> *mine
+[20:53:05] [Server thread/INFO]: <Maneus> are you low enough?
+[20:53:08] [Server thread/INFO]: <RichkidRich> yeah 11
+[20:53:13] [Server thread/INFO]: <Maneus> damn
+[20:54:47] [Server thread/INFO]: <RichkidRich> o brb dinner
+[20:54:50] [Server thread/INFO]: <Maneus> yup
+[20:54:54] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[20:54:54] [Server thread/INFO]: RichkidRich left the game
+[22:06:35] [Server thread/INFO]: RichkidRich[/42.3.172.248:55754] logged in with entity id 18396 at (1166.9129356289313, 11.0, 811.6364656806894)
+[22:06:35] [Server thread/INFO]: RichkidRich joined the game
+[22:06:42] [Server thread/INFO]: <Maneus> hello
+[22:06:50] [Server thread/INFO]: <RichkidRich> annyeonghaseyo
+[22:07:00] [Server thread/INFO]: <Maneus> :)
+[22:07:10] [Server thread/INFO]: <Maneus> the mine is complete!
+[22:07:13] [Server thread/INFO]: <RichkidRich> what has thou been up to
+[22:07:17] [Server thread/INFO]: <RichkidRich> nice!
+[22:07:20] [Server thread/INFO]: <Maneus> we can look for diamonds more easily now
+[22:08:04] [Server thread/INFO]: <RichkidRich> Ooo ill try come up
+[22:08:24] [Server thread/INFO]: <Maneus> do you know how many times you can use an anvil?
+[22:09:15] [Server thread/INFO]: <RichkidRich> no clue
+[22:09:31] [Server thread/INFO]: <Maneus> also, will one block of water save your life?
+[22:09:35] [Server thread/INFO]: <Maneus> like if it is one block deep
+[22:09:39] [Server thread/INFO]: <RichkidRich> yup
+[22:09:42] [Server thread/INFO]: <Maneus> nice ty
+[22:10:47] [Server thread/INFO]: <RichkidRich> let me just get this last bit of iron
+[22:14:25] [Server thread/INFO]: <RichkidRich> one sec trying to find the way out haha
+[22:14:29] [Server thread/INFO]: <Maneus> lol
+[22:21:03] [Server thread/INFO]: <RichkidRich> im so lost
+[22:21:07] [Server thread/INFO]: <Maneus> haha
+[22:21:07] [Server thread/INFO]: <RichkidRich> but im finding so much stuff
+[22:21:15] [Server thread/INFO]: <Maneus> like iron and stuff?
+[22:22:53] [Server thread/INFO]: <RichkidRich> oh wow an enchanted book
+[22:23:14] [Server thread/INFO]: <Maneus> wats the enchantment?
+[22:23:56] [Server thread/INFO]: LazyPotatoJoe[/123.202.73.69:50624] logged in with entity id 23096 at (1125.855346350102, 78.0625, 611.9308479164351)
+[22:23:56] [Server thread/INFO]: LazyPotatoJoe joined the game
+[22:24:02] [Server thread/INFO]: <RichkidRich> sup
+[22:24:06] [Server thread/INFO]: <LazyPotatoJoe> heylo
+[22:24:10] [Server thread/INFO]: <Maneus> hey
+[22:25:32] [Server thread/INFO]: <Maneus> richard I really want your exp farm
+[22:26:32] [Server thread/INFO]: <RichkidRich> i really want friends to protect me from these mobs
+[22:26:39] [Server thread/INFO]: <Maneus> haha
+[22:26:45] [Server thread/INFO]: <RichkidRich> i found an entire section jason and eric missed
+[22:26:51] [Server thread/INFO]: <Maneus> you ahve to find friends first
+[22:26:59] [Server thread/INFO]: <Maneus> oh they explored it too?
+[22:26:59] [Server thread/INFO]: <RichkidRich> oof
+[22:28:17] [Server thread/INFO]: <RichkidRich> yas
+[22:28:21] [Server thread/INFO]: <Maneus> you found the exit?
+[22:28:28] [Server thread/INFO]: <RichkidRich> diamonds
+[22:28:32] [Server thread/INFO]: <Maneus> ooo nice
+[22:28:48] [Server thread/INFO]: <RichkidRich> actually that wasnt very accurate
+[22:28:50] [Server thread/INFO]: <RichkidRich> *diamond
+[22:28:52] [Server thread/INFO]: <Maneus> ah
+[22:28:54] [Server thread/INFO]: <RichkidRich> singular
+[22:29:54] [Server thread/INFO]: <LazyPotatoJoe> omg i just realised i can make a basement floor thats connected to the water as a dock
+[22:30:01] [Server thread/INFO]: <Maneus> ohh yes!
+[22:30:04] [Server thread/INFO]: <Maneus> that's nice
+[22:30:11] [Server thread/INFO]: <Maneus> are you going to work on that now?
+[22:30:48] [Server thread/INFO]: <LazyPotatoJoe> nah still have to finish off the expansion hahaha
+[22:31:26] [Server thread/INFO]: <LazyPotatoJoe> brb
+[22:31:27] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[22:31:27] [Server thread/INFO]: LazyPotatoJoe left the game
+[22:37:32] [Server thread/INFO]: <RichkidRich> omg i owe this bat my life
+[22:37:45] [Server thread/INFO]: <RichkidRich> a skeleton tried to shoot me
+[22:37:49] [Server thread/INFO]: <RichkidRich> and the bat flew in the way
+[22:37:54] [Server thread/INFO]: <Maneus> haha
+[22:38:20] [Server thread/INFO]: <RichkidRich> i hear flying dragon things
+[22:42:55] [Server thread/INFO]: <RichkidRich> i found aravine
+[22:42:57] [Server thread/INFO]: <Maneus> richard where are you?
+[22:42:58] [Server thread/INFO]: <RichkidRich> but under ground
+[22:42:59] [Server thread/INFO]: <Maneus> oh
+[22:43:03] [Server thread/INFO]: <RichkidRich> but also mineshaft
+[22:43:29] [Server thread/INFO]: <RichkidRich> would you like to come and help
+[22:43:36] [Server thread/INFO]: <Maneus> yeah
+[22:43:39] [Server thread/INFO]: <Maneus> hold on
+[22:43:41] [Server thread/INFO]: <RichkidRich> im approaching my 4th stack of iron
+[22:43:43] [Server thread/INFO]: <Maneus> let me prep my inventory
+[22:43:44] [Server thread/INFO]: <Maneus> woah
+[22:44:17] [Server thread/INFO]: <RichkidRich> another minecart chest
+[22:44:25] [Server thread/INFO]: <RichkidRich> powered rail!
+[22:44:32] [Server thread/INFO]: <Maneus> ohh
+[22:44:38] [Server thread/INFO]: <Maneus> ok is it safe to teleport?
+[22:44:39] [Server thread/INFO]: <RichkidRich> WITHC
+[22:44:42] [Server thread/INFO]: <RichkidRich> yes
+[22:44:47] [Server thread/INFO]: [RichkidRich: Teleported Maneus to RichkidRich]
+[22:44:47] [Server thread/WARN]: Maneus moved too quickly! 103.32534234821969,-49.0,45.92837015895623
+[22:44:50] [Server thread/INFO]: <Maneus> ty
+[22:45:00] [Server thread/INFO]: <RichkidRich> can you take the golden apple
+[22:45:04] [Server thread/INFO]: <Maneus> yeah
+[22:45:07] [Server thread/INFO]: <Maneus> I have a lot of space
+[22:45:08] [Server thread/INFO]: <RichkidRich> you hear the witch right
+[22:45:12] [Server thread/INFO]: <Maneus> yeah
+[22:45:51] [Server thread/INFO]: <Maneus> oh
+[22:45:53] [Server thread/INFO]: <RichkidRich> whats that
+[22:46:06] [Server thread/INFO]: <RichkidRich> AHHHH
+[22:47:39] [Server thread/INFO]: <RichkidRich> left and down
+[22:47:48] [Server thread/INFO]: <RichkidRich> wait wait
+[22:47:51] [Server thread/INFO]: <Maneus> ?
+[22:47:55] [Server thread/INFO]: <Maneus> oh
+[22:48:04] [Server thread/INFO]: <RichkidRich> theres stuff here
+[22:48:15] [Server thread/INFO]: <Maneus> it leads somewhere
+[22:48:21] [Server thread/INFO]: <Maneus> if you keep swimming
+[22:48:29] [Server thread/INFO]: <Maneus> um
+[22:48:35] [Server thread/INFO]: <Maneus> are you drowning?
+[22:48:40] [Server thread/INFO]: <RichkidRich> ALMOST AHAA
+[22:48:41] [Server thread/INFO]: <Maneus> haha
+[22:48:45] [Server thread/INFO]: <RichkidRich> IM ON HALF A HEART
+[22:48:50] [Server thread/INFO]: <RichkidRich> DONT TOUCH MY DOOR
+[22:48:54] [Server thread/INFO]: <Maneus> XD
+[22:51:27] [Server thread/INFO]: <RichkidRich> oh ive lost you
+[22:51:37] [Server thread/INFO]: <Maneus> hmm
+[22:51:39] [Server thread/INFO]: <Maneus> i went down
+[22:51:44] [Server thread/INFO]: <Maneus> I want to go deeper
+[22:52:06] [Server thread/INFO]: LazyPotatoJoe[/123.202.73.69:50664] logged in with entity id 29609 at (1126.9134319086215, 78.0625, 605.420338875482)
+[22:52:06] [Server thread/INFO]: LazyPotatoJoe joined the game
+[22:52:11] [Server thread/INFO]: <LazyPotatoJoe> hello
+[22:52:15] [Server thread/INFO]: <Maneus> hey
+[22:53:14] [Server thread/INFO]: <RichkidRich> another minecart chest...
+[22:54:13] [Server thread/INFO]: <LazyPotatoJoe> are you guys at your other base
+[22:54:15] [Server thread/INFO]: <Maneus> i can't find you richard
+[22:54:20] [Server thread/INFO]: <RichkidRich> im in a cave
+[22:54:21] [Server thread/INFO]: <Maneus> no
+[22:54:26] [Server thread/INFO]: <Maneus> we're in a cave near the cabin
+[22:54:33] [Server thread/INFO]: <LazyPotatoJoe> sweet
+[22:54:44] [Server thread/INFO]: <Maneus> oh this minecart chest had 2 diamonds
+[22:55:12] [Server thread/INFO]: <RichkidRich> niceee
+[22:56:03] [Server thread/INFO]: <RichkidRich> wow another
+[22:56:08] [Server thread/INFO]: <RichkidRich> 1 diamond
+[22:57:09] [Server thread/INFO]: <RichkidRich> bruh i jsut want to leave
+[22:57:38] [Server thread/INFO]: <Maneus> we can teleport to joe
+[22:57:45] [Server thread/INFO]: <LazyPotatoJoe> yes please
+[22:57:45] [Server thread/INFO]: <RichkidRich> but i keep finding new places
+[22:57:49] [Server thread/INFO]: <LazyPotatoJoe> its night and scary
+[22:57:51] [Server thread/INFO]: <Maneus> lol\
+[22:57:53] [Server thread/INFO]: <LazyPotatoJoe> anyone want to call?
+[22:58:01] [Server thread/INFO]: <LazyPotatoJoe> ive been ambushed by a tiny zombie
+[22:58:02] [Server thread/INFO]: <Maneus> I can
+[22:59:54] [Server thread/INFO]: <LazyPotatoJoe> call me when youre ready?
+[23:00:01] [Server thread/INFO]: <Maneus> yeah its just laoding
+[23:00:25] [Server thread/INFO]: <Maneus> oh richard I heard that
+[23:00:47] [Server thread/INFO]: <RichkidRich> yeah haha
+[23:01:51] [Server thread/INFO]: <Maneus> I'm getting out of this mineshaft
+[23:01:57] [Server thread/INFO]: [Maneus: Teleported Maneus to LazyPotatoJoe]
+[23:01:57] [Server thread/WARN]: Maneus moved too quickly! -129.5848649290624,42.0,-110.13968444411898
+[23:06:10] [Server thread/INFO]: RichkidRich burned to death
+[23:06:14] [Server thread/INFO]: <Maneus> noo!
+[23:06:15] [Server thread/INFO]: <Maneus> lava?
+[23:06:16] [Server thread/INFO]: <LazyPotatoJoe> nooooooo
+[23:06:16] [Server thread/INFO]: <RichkidRich> fuck
+[23:06:18] [Server thread/INFO]: <RichkidRich> yeah
+[23:06:22] [Server thread/INFO]: <LazyPotatoJoe> rip
+[23:06:23] [Server thread/INFO]: <Maneus> all that iron...
+[23:06:31] [Server thread/INFO]: <RichkidRich> and diamond
+[23:06:40] [Server thread/INFO]: <RichkidRich> fook
+[23:06:47] [Server thread/INFO]: <RichkidRich> i was trying to tp
+[23:06:51] [Server thread/INFO]: <RichkidRich> so i coudl at least die in the house
+[23:06:51] [Server thread/INFO]: <Maneus> lol
+[23:07:02] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[23:07:02] [Server thread/WARN]: RichkidRich moved too quickly! 1034.8285949554534,5.0,580.9657241658253
+[23:07:02] [Server thread/WARN]: RichkidRich moved too quickly! 1034.8285949554534,5.0,580.9657241658253
+[23:07:07] [Server thread/INFO]: <RichkidRich> i feel sad now
+[23:09:02] [Server thread/INFO]: <RichkidRich> yooooo im tilting
+[23:09:08] [Server thread/INFO]: <Maneus> ?
+[23:09:29] [Server thread/INFO]: <RichkidRich> im really mad haha
+[23:09:47] [Server thread/INFO]: <LazyPotatoJoe> i can imagine hahaha
+[23:09:51] [Server thread/INFO]: <RichkidRich> joe you guys explored the shipwreck already right
+[23:09:56] [Server thread/INFO]: <LazyPotatoJoe> jason did
+[23:12:03] [Server thread/INFO]: <RichkidRich> did he find the buried treasure
+[23:12:36] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[23:12:36] [Server thread/WARN]: RichkidRich moved too quickly! -149.49522841903763,15.0,-21.039240553364266
+[23:12:54] [Server thread/INFO]: <RichkidRich> this helmet is stcuk
+[23:13:01] [Server thread/INFO]: <Maneus> haha
+[23:13:09] [Server thread/INFO]: <RichkidRich> can i get some armour haha
+[23:15:38] [Server thread/INFO]: <RichkidRich> off to find the buried treasure see yall
+[23:16:23] [Server thread/INFO]: <RichkidRich> can we sleep
+[23:22:39] [Server thread/INFO]: <RichkidRich> is there any trick to finding the buried treasure
+[23:22:44] [Server thread/INFO]: <Maneus> dig wide not deep
+[23:22:56] [Server thread/INFO]: <RichkidRich> i mean i need to get to the spot on the map first
+[23:23:00] [Server thread/INFO]: <Maneus> yes
+[23:23:12] [Server thread/INFO]: <Maneus> and it's usually not directly at the cross but somewhere around it
+[23:24:12] [Server thread/INFO]: <RichkidRich> does the player show up on the map when hes in the area
+[23:25:17] [Server thread/INFO]: <RichkidRich> HOLD UP
+[23:25:23] [Server thread/INFO]: <RichkidRich> WHAT THE FUCK IS THIS
+[23:25:30] [Server thread/INFO]: <LazyPotatoJoe> ?
+[23:25:32] [Server thread/INFO]: <RichkidRich> whos free to teleport
+[23:25:35] [Server thread/INFO]: <Maneus> i can
+[23:25:39] [Server thread/INFO]: [Maneus: Teleported Maneus to RichkidRich]
+[23:25:39] [Server thread/WARN]: Maneus moved too quickly! 401.4145088587418,-6.0,-419.56654233768853
+[23:25:45] [Server thread/INFO]: <Maneus> ?
+[23:25:47] [Server thread/INFO]: <RichkidRich> do you see that
+[23:25:50] [Server thread/INFO]: <Maneus> oh
+[23:25:51] [Server thread/INFO]: <Maneus> lol
+[23:25:56] [Server thread/INFO]: <Maneus> that's a pillager place
+[23:26:02] [Server thread/INFO]: <Maneus> lets get it
+[23:26:02] [Server thread/INFO]: <RichkidRich> lets go
+[23:26:28] [Server thread/INFO]: <RichkidRich> i fell into a ravine
+[23:27:05] [Server thread/INFO]: <Maneus> richard where are you?
+[23:27:09] [Server thread/INFO]: <RichkidRich> going in
+[23:28:16] [Server thread/INFO]: <Maneus> ohh experience points up here
+[23:28:29] [Server thread/INFO]: <RichkidRich> niceee
+[23:28:35] [Server thread/INFO]: <Maneus> but I think this is it basically
+[23:28:48] [Server thread/INFO]: <RichkidRich> this aint no buried treasure
+[23:28:53] [Server thread/INFO]: <Maneus> can I see the map?
+[23:29:12] [Server thread/INFO]: <Maneus> richard?
+[23:29:21] [Server thread/INFO]: <Maneus> we're no where near it
+[23:29:38] [Server thread/INFO]: <RichkidRich> yeah i know the little arrow isnt there
+[23:29:52] [Server thread/INFO]: <Maneus> yeah lets just go to the ocean for now
+[23:30:35] [Server thread/INFO]: <RichkidRich> fuck haha
+[23:30:37] [Server thread/INFO]: <Maneus> oh I know the way
+[23:31:07] [Server thread/INFO]: RichkidRich was shot by Pillager
+[23:31:16] [Server thread/INFO]: <Maneus> tp tp!
+[23:31:20] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[23:31:20] [Server thread/WARN]: RichkidRich moved too quickly! 1502.5405436152444,10.0,47.155502809551834
+[23:31:20] [Server thread/WARN]: RichkidRich moved too quickly! 1502.5405436152444,10.0,47.155502809551834
+[23:32:09] [Server thread/INFO]: <Maneus> here this way
+[23:32:17] [Server thread/INFO]: <RichkidRich> wheres here
+[23:32:19] [Server thread/INFO]: <RichkidRich> oh
+[23:33:35] [Server thread/INFO]: <Maneus> where are you?
+[23:33:40] [Server thread/INFO]: <RichkidRich> coastline
+[23:33:52] [Server thread/INFO]: <Maneus> come to the rocky place
+[23:33:55] [Server thread/INFO]: <Maneus> up
+[23:33:59] [Server thread/INFO]: <Maneus> by the sea
+[23:34:04] [Server thread/INFO]: <RichkidRich> are you above the mountain
+[23:34:07] [Server thread/INFO]: <RichkidRich> im at the bottom
+[23:34:10] [Server thread/INFO]: <Maneus> oh
+[23:34:28] [Server thread/INFO]: <RichkidRich> behind
+[23:34:33] [Server thread/INFO]: <Maneus> ah
+[23:35:24] [Server thread/INFO]: <RichkidRich> how do you know where youre going
+[23:35:27] [Server thread/INFO]: <Maneus> maybe
+[23:35:43] [Server thread/INFO]: <Maneus> its 50/50
+[23:36:03] [Server thread/WARN]: Maneus moved too quickly! 9.767119138342878,1.0,2.775898711416005
+[23:36:03] [Server thread/WARN]: RichkidRich moved too quickly! 9.802163379131343,0.0,-2.857792136095128
+[23:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[23:37:08] [Server thread/INFO]: <Maneus> hmm
+[23:37:11] [Server thread/INFO]: <Maneus> probably the wrong way
+[23:37:18] [Server thread/INFO]: <RichkidRich> what makes you think that
+[23:37:28] [Server thread/INFO]: <Maneus> it just seems to be taking so long
+[23:37:47] [Server thread/INFO]: <Maneus> and I think jason found the site
+[23:37:52] [Server thread/INFO]: <Maneus> so it couldn't be toooo far
+[23:37:54] [Server thread/INFO]: <RichkidRich> joe did he?
+[23:38:34] [Server thread/INFO]: [Maneus: Teleported Maneus to LazyPotatoJoe]
+[23:38:34] [Server thread/WARN]: Maneus moved too quickly! -1438.2497940666801,9.0,533.8745689341614
+[23:38:41] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[23:38:41] [Server thread/WARN]: RichkidRich moved too quickly! -1439.1581454437317,7.0,535.345099388482
+[23:38:54] [Server thread/INFO]: <RichkidRich> we should make copies
+[23:39:48] [Server thread/INFO]: <RichkidRich> how do you make a map
+[23:40:08] [Server thread/INFO]: <Maneus> not sure...
+[23:40:14] [Server thread/INFO]: <RichkidRich> wheres the cartography table
+[23:40:29] [Server thread/INFO]: <LazyPotatoJoe> in one of the chests
+[23:42:02] [Server thread/INFO]: <RichkidRich> ive done a bad
+[23:42:07] [Server thread/INFO]: <Maneus> ?
+[23:42:15] [Server thread/INFO]: <Maneus> ah
+[23:42:16] [Server thread/INFO]: <Maneus> lol
+[23:42:19] [Server thread/INFO]: <Maneus> what
+[23:43:29] [Server thread/INFO]: [Maneus: Teleported Maneus to LazyPotatoJoe]
+[23:43:47] [Server thread/INFO]: <RichkidRich> where do we find the woodland mansion
+[23:43:59] [Server thread/INFO]: <Maneus> not sure
+[23:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3524ms or 70 ticks behind
+[23:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[23:50:06] [Server thread/INFO]: <RichkidRich> found jasons boat
+[23:51:02] [Server thread/INFO]: <RichkidRich> LMAO
+[23:51:05] [Server thread/INFO]: <Maneus> ?
+[23:51:08] [Server thread/INFO]: <RichkidRich> JASON MISSED IT BY ONE BLOCK
+[23:51:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[23:51:12] [Server thread/INFO]: <RichkidRich> LITERALLY ONE SAND BLOCK
+[23:51:16] [Server thread/INFO]: <Maneus> lol...
+[23:51:56] [Server thread/INFO]: <Maneus> what's in the chest?
+[23:52:17] [Server thread/INFO]: <Maneus> woah it's actually pretty good
+[23:52:25] [Server thread/INFO]: Chanksy[/59.149.117.196:64992] logged in with entity id 49337 at (1132.207638613751, 74.0, 627.5124999880791)
+[23:52:25] [Server thread/INFO]: Chanksy joined the game
+[23:52:28] [Server thread/INFO]: [Maneus: Teleported Maneus to RichkidRich]
+[23:52:28] [Server thread/WARN]: Maneus moved too quickly! 309.5604093784309,-12.0625,-519.6226314601564
+[23:52:28] [Server thread/WARN]: Maneus moved too quickly! 309.5604093784309,-12.0625,-519.6226314601564
+[23:53:01] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[23:53:01] [Server thread/WARN]: Chanksy moved too quickly! 218.76164962498842,-16.926735878521782,-478.19309981327666
+[23:53:13] [Server thread/INFO]: <Maneus> where was it?
+[23:53:19] [Server thread/INFO]: <RichkidRich> you were standing next to it
+[23:53:19] [Server thread/INFO]: [Chanksy: Teleported Chanksy to LazyPotatoJoe]
+[23:53:19] [Server thread/WARN]: Chanksy moved too quickly! -200.1628251162051,19.83984383567968,471.8932187316823
+[23:53:19] [Server thread/WARN]: Chanksy moved too quickly! -200.1628251162051,19.83984383567968,471.8932187316823
+[23:53:26] [Server thread/INFO]: <RichkidRich> and then a creeper blew us up
+[23:53:32] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[23:53:32] [Server thread/WARN]: RichkidRich moved too quickly! 89.36852347069976,2.9267358785217823,-129.7256295015632
+[23:53:34] [Server thread/INFO]: <Maneus> oh lol
+[23:53:44] [Server thread/INFO]: <Chanksy> hly shit is this your balcony
+[23:53:47] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to LazyPotatoJoe]
+[23:53:47] [Server thread/WARN]: RichkidRich moved too quickly! -300.0786029044268,13.5,519.867985732649
+[23:53:52] [Server thread/INFO]: [Maneus: Teleported Maneus to LazyPotatoJoe]
+[23:53:55] [Server thread/INFO]: <RichkidRich> the heart of the sea
+[23:53:59] [Server thread/INFO]: <RichkidRich> i wield it
+[23:54:05] [Server thread/INFO]: <RichkidRich> what does it do lol
+[23:54:09] [Server thread/INFO]: <Maneus> not much
+[23:54:18] [Server thread/INFO]: <Maneus> it can be used for something to do with the ocean
+[23:54:32] [Server thread/INFO]: <RichkidRich> oh i must depart
+[23:54:37] [Server thread/INFO]: <RichkidRich> ill see you guys tomorrow
+[23:54:40] [Server thread/INFO]: <Maneus> same actually
+[23:54:55] [Server thread/INFO]: <Maneus> goodnight
+[23:54:56] [Server thread/INFO]: <RichkidRich> if anyone wants to explore a desert pyramid
+[23:55:01] [Server thread/INFO]: <Maneus> oh I do
+[23:55:04] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[23:55:04] [Server thread/INFO]: LazyPotatoJoe left the game
+[23:55:07] [Server thread/INFO]: Maneus lost connection: Disconnected
+[23:55:07] [Server thread/INFO]: Maneus left the game
+[23:55:09] [Server thread/INFO]: <RichkidRich> 176, something, -432
+[23:55:16] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[23:55:16] [Server thread/WARN]: Chanksy moved too quickly! -37.02322418352787,17.819445682064504,17.017516697635187
+[23:56:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[23:56:20] [Server thread/INFO]: [Server] god shall end this world
+[23:56:26] [Server thread/INFO]: <Chanksy> lmao
+[23:56:27] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[23:56:27] [Server thread/INFO]: Chanksy left the game
+[23:56:28] [Server thread/INFO]: [Server] and then push the data to github
+[23:56:31] [Server thread/INFO]: <RichkidRich> locate is powerful haha
+[23:56:40] [Server thread/INFO]: <RichkidRich> oh right you have the server
+[23:56:42] [Server thread/INFO]: <RichkidRich> goodbye
+[23:56:47] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[23:56:47] [Server thread/INFO]: RichkidRich left the game
+[23:56:47] [Server thread/INFO]: [Server] goodnight
+[23:56:50] [Server thread/INFO]: Stopping server
+[23:56:50] [Server thread/INFO]: Saving players
+[23:56:50] [Server thread/INFO]: Saving worlds
+[23:56:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:56:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:56:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:56:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:56:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:56:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:56:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:56:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:56:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
