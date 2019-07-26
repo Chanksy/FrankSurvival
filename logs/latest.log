@@ -1,109 +1,171 @@
-[11:30:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:30:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:30:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:30:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:30:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:30:58] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[11:30:58] [Server thread/INFO]: Loading properties
-[11:30:58] [Server thread/INFO]: Default game type: SURVIVAL
-[11:30:58] [Server thread/INFO]: Generating keypair
-[11:30:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:30:59] [Server thread/INFO]: Using default channel type
-[11:30:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:30:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:30:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:30:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:30:59] [Server thread/INFO]: Preparing level "world"
-[11:30:59] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:31:00] [Server thread/INFO]: Loaded 6 recipes
-[11:31:01] [Server thread/INFO]: Loaded 811 advancements
-[11:31:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:21] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:22] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:22] [Server thread/INFO]: Preparing spawn area: 0%
-[11:31:23] [Server thread/INFO]: Preparing spawn area: 36%
-[11:31:23] [Server thread/INFO]: Preparing spawn area: 66%
-[11:31:26] [Server thread/INFO]: Time elapsed: 8157 ms
-[11:31:26] [Server thread/INFO]: Done (27.200s)! For help, type "help"
-[11:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[11:32:32] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:49597] logged in with entity id 68 at (1125.1512918059718, 79.0, 635.9246735353065)
-[11:32:32] [Server thread/INFO]: LazyPotatoJoe joined the game
-[11:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[11:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
-[11:37:08] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
-[11:37:08] [Server thread/INFO]: LazyPotatoJoe left the game
-[11:48:04] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:49639] logged in with entity id 857 at (1128.6141619375114, 79.0, 629.3668965574968)
-[11:48:04] [Server thread/INFO]: LazyPotatoJoe joined the game
-[11:48:20] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
-[11:48:20] [Server thread/INFO]: LazyPotatoJoe left the game
-[11:48:20] [Server thread/WARN]: handleDisconnection() called twice
-[11:48:22] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:49641] logged in with entity id 1101 at (1128.6141619375114, 79.0, 629.3668965574968)
-[11:48:23] [Server thread/INFO]: LazyPotatoJoe joined the game
-[11:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
-[11:54:23] [Server thread/INFO]: LazyPotatoJoe was killed by Witch using magic
-[11:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
-[11:56:42] [Server thread/WARN]: LazyPotatoJoe moved too quickly! 6.587742836704535,-1.0,7.5576083382351555
-[12:01:45] [Server thread/WARN]: LazyPotatoJoe moved too quickly! 2.0571968643257605,0.0,9.875946396625864
-[12:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
-[12:02:21] [Server thread/INFO]: Chanksy[/59.149.117.196:49290] logged in with entity id 5026 at (1132.2781885063737, 77.0, 688.2791832043334)
-[12:02:21] [Server thread/INFO]: Chanksy joined the game
-[12:02:28] [Server thread/INFO]: <Chanksy> hey friend
-[12:02:35] [Server thread/INFO]: <LazyPotatoJoe> lmao i just got back to base
-[12:03:05] [Server thread/INFO]: <LazyPotatoJoe> where you
-[12:03:19] [Server thread/INFO]: <Chanksy> 0-chicken chicken farm
-[12:03:40] [Server thread/INFO]: <LazyPotatoJoe> come sleep/slay this withc with me
-[12:03:58] [Server thread/INFO]: <Chanksy> one sec clearing inv
-[12:04:01] [Server thread/INFO]: <LazyPotatoJoe> same
-[12:05:39] [Server thread/INFO]: <LazyPotatoJoe> do we need podzol
-[12:05:52] [Server thread/INFO]: <Chanksy> wat
-[12:06:08] [Server thread/INFO]: <LazyPotatoJoe> random trader boi up stairs
-[12:06:36] [Server thread/INFO]: <Chanksy> no
-[12:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
-[12:06:57] [Server thread/INFO]: <LazyPotatoJoe> i lost a lead
-[12:11:49] [Server thread/WARN]: Chanksy moved too quickly! -9.947066321624789,-1.8322033533667508,0.5464974768918864
-[12:13:56] [Server thread/INFO]: <LazyPotatoJoe> brb
-[12:13:58] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
-[12:13:58] [Server thread/INFO]: LazyPotatoJoe left the game
-[12:16:49] [Server thread/WARN]: Chanksy moved too quickly! -9.330476443328962,-1.7531999805212024,3.8524321467677964
-[12:19:39] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:49692] logged in with entity id 7809 at (1129.4634011563362, 79.0, 640.6999999880791)
-[12:19:39] [Server thread/INFO]: LazyPotatoJoe joined the game
-[12:19:48] [Server thread/INFO]: <LazyPotatoJoe> i have returned
-[12:21:33] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[12:21:33] [Server thread/INFO]: Chanksy left the game
-[12:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
-[12:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
-[12:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[12:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[12:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[12:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[13:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[13:00:33] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
-[13:00:33] [Server thread/INFO]: LazyPotatoJoe left the game
-[13:06:43] [Server thread/INFO]: LazyPotatoJoe[/127.0.0.1:49806] logged in with entity id 13269 at (1124.4163405578117, 79.0, 621.0397429380778)
-[13:06:43] [Server thread/INFO]: LazyPotatoJoe joined the game
-[13:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[13:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
-[13:07:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[13:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[13:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[13:10:42] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
-[13:10:42] [Server thread/INFO]: LazyPotatoJoe left the game
-[13:19:04] [Server thread/INFO]: Stopping the server
-[13:19:04] [Server thread/INFO]: Stopping server
-[13:19:04] [Server thread/INFO]: Saving players
-[13:19:04] [Server thread/INFO]: Saving worlds
-[13:19:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[13:19:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:19:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:19:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:19:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[13:19:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:19:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:19:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:19:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:51:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:51:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:51:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:51:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:51:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:51:12] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[14:51:12] [Server thread/INFO]: Loading properties
+[14:51:12] [Server thread/INFO]: Default game type: SURVIVAL
+[14:51:12] [Server thread/INFO]: Generating keypair
+[14:51:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:51:12] [Server thread/INFO]: Using default channel type
+[14:51:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:51:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:51:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:51:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:51:13] [Server thread/INFO]: Preparing level "world"
+[14:51:13] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:51:20] [Server thread/INFO]: Loaded 6 recipes
+[14:51:20] [Server thread/INFO]: Loaded 811 advancements
+[14:51:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[14:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[14:51:21] [Server thread/INFO]: Preparing spawn area: 83%
+[14:51:22] [Server thread/INFO]: Time elapsed: 1672 ms
+[14:51:22] [Server thread/INFO]: Done (8.999s)! For help, type "help"
+[14:52:08] [Server thread/INFO]: LazyPotatoJoe[/123.202.73.69:50028] logged in with entity id 67 at (1123.9354297003727, 79.0, 622.6022195314048)
+[14:52:08] [Server thread/INFO]: LazyPotatoJoe joined the game
+[14:53:23] [Server thread/INFO]: Maneus[/192.168.1.1:56227] logged in with entity id 406 at (-558.8296720394225, 101.0, 2194.7535464301304)
+[14:53:23] [Server thread/INFO]: Maneus joined the game
+[14:53:59] [Server thread/INFO]: Chanksy[/59.149.117.196:60704] logged in with entity id 690 at (1082.5026722859823, 76.0, 659.2875316146219)
+[14:53:59] [Server thread/INFO]: Chanksy joined the game
+[14:54:02] [Server thread/INFO]: <Chanksy> hello friends
+[14:54:05] [Server thread/INFO]: <Maneus> hello
+[14:54:09] [Server thread/INFO]: <Maneus> what are you guys working on?
+[14:54:19] [Server thread/INFO]: <Chanksy> collecting wood for the lower floor
+[14:54:52] [Server thread/INFO]: <LazyPotatoJoe> call?
+[14:55:01] [Server thread/INFO]: <Maneus> yeah
+[14:55:38] [Server thread/INFO]: [Maneus: Teleported Maneus to Chanksy]
+[14:55:38] [Server thread/WARN]: Maneus moved too quickly! 1650.1935552045707,-28.0,-1518.8420967363072
+[14:55:38] [Server thread/WARN]: Maneus moved too quickly! 1650.1935552045707,-28.0,-1518.8420967363072
+[14:56:02] [Server thread/INFO]: <Chanksy> oh shit you haven't been to our house have you
+[14:59:24] [Server thread/INFO]: Maneus lost connection: Disconnected
+[14:59:24] [Server thread/INFO]: Maneus left the game
+[14:59:46] [Server thread/INFO]: <LazyPotatoJoe> lets sleep jason
+[15:00:24] [Server thread/INFO]: Maneus[/192.168.1.1:56265] logged in with entity id 2148 at (1124.1479954447154, 79.0, 582.797300038231)
+[15:00:24] [Server thread/INFO]: Maneus joined the game
+[15:04:40] [Server thread/INFO]: <Maneus> jason how much wood do we need?
+[15:06:51] [Server thread/INFO]: <LazyPotatoJoe> noice
+[15:06:57] [Server thread/INFO]: <LazyPotatoJoe> need help?
+[15:06:58] [Server thread/INFO]: <Chanksy> this pattern
+[15:06:59] [Server thread/INFO]: <Chanksy> is insane
+[15:07:07] [Server thread/INFO]: <Chanksy> uh yeah need to clear the walls
+[15:07:13] [Server thread/INFO]: <Chanksy> rn this is 12x12
+[15:07:13] [Server thread/INFO]: <LazyPotatoJoe> lol insane good or bad
+[15:07:17] [Server thread/INFO]: <Chanksy> both
+[15:07:25] [Server thread/INFO]: <Chanksy> good looking bad to build bc i'm inept
+[15:07:36] [Server thread/INFO]: <LazyPotatoJoe> wait
+[15:07:44] [Server thread/INFO]: <LazyPotatoJoe> clear the top and bottom first
+[15:08:03] [Server thread/INFO]: <LazyPotatoJoe> actually lol it doesnt matter
+[15:08:21] [Server thread/INFO]: <LazyPotatoJoe> cause theres a ceiling to orient the logs anyway
+[15:08:37] [Server thread/INFO]: <LazyPotatoJoe> do you want the space to be bigger?
+[15:08:47] [Server thread/INFO]: <Chanksy> depends on how big you want the smelter
+[15:09:04] [Server thread/INFO]: <Chanksy> size will be x-4
+[15:09:28] [Server thread/INFO]: <LazyPotatoJoe> wait soz i didn't get the size bit
+[15:09:44] [Server thread/INFO]: <Chanksy> so the room is x units wide
+[15:10:14] [Server thread/INFO]: <LazyPotatoJoe> this is 12 x 16 btw
+[15:11:15] [Server thread/INFO]: <Chanksy> so max number of smelters is 12
+[15:11:31] [Server thread/INFO]: <Chanksy> there are 4 blocks worth of extra stuff
+[15:11:46] [Server thread/INFO]: <LazyPotatoJoe> ill let you handle it hahaha
+[15:11:50] [Server thread/INFO]: <Chanksy> lmao aight
+[15:11:54] [Server thread/INFO]: <Chanksy> can i just make it as big as i want
+[15:12:01] [Server thread/INFO]: <LazyPotatoJoe> yeh
+[15:12:02] [Server thread/INFO]: <Chanksy> also what else goes in that room?
+[15:12:10] [Server thread/INFO]: <LazyPotatoJoe> the bottom floor?
+[15:12:52] [Server thread/INFO]: <LazyPotatoJoe> also can we sleep
+[15:13:17] [Server thread/INFO]: Maneus lost connection: Disconnected
+[15:13:17] [Server thread/INFO]: Maneus left the game
+[15:13:40] [Server thread/INFO]: Maneus[/192.168.1.1:56292] logged in with entity id 4703 at (1265.8645596955816, 66.0, 778.2596101930822)
+[15:13:40] [Server thread/INFO]: Maneus joined the game
+[15:14:49] [Server thread/INFO]: <LazyPotatoJoe> can we sleep
+[15:14:55] [Server thread/INFO]: Maneus lost connection: Disconnected
+[15:14:55] [Server thread/INFO]: Maneus left the game
+[15:15:01] [Server thread/INFO]: Maneus[/192.168.1.1:56303] logged in with entity id 5174 at (1186.7510871551447, 65.0, 863.9903055951161)
+[15:15:01] [Server thread/INFO]: Maneus joined the game
+[15:15:04] [Server thread/INFO]: <Chanksy> yes the bottom floor
+[15:15:21] [Server thread/INFO]: <LazyPotatoJoe> theres nothign else planned
+[15:17:56] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Voluntary Exile]
+[15:17:56] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Who's the Pillager Now?]
+[15:19:40] [Server thread/INFO]: <Chanksy> omg eric stole all my fucking hoppers
+[15:19:46] [Server thread/INFO]: <LazyPotatoJoe> hahahahah
+[15:19:59] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[15:19:59] [Server thread/INFO]: LazyPotatoJoe left the game
+[15:26:17] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[15:26:17] [Server thread/INFO]: Chanksy left the game
+[15:26:19] [Server thread/INFO]: LazyPotatoJoe[/123.202.73.69:50065] logged in with entity id 8562 at (1125.8025687299598, 78.0, 604.6891980556647)
+[15:26:19] [Server thread/INFO]: LazyPotatoJoe joined the game
+[15:26:41] [Server thread/INFO]: Maneus lost connection: Disconnected
+[15:26:41] [Server thread/INFO]: Maneus left the game
+[15:26:46] [Server thread/INFO]: Maneus[/192.168.1.1:56334] logged in with entity id 8817 at (1038.474951401814, 69.0, 1033.5071935017752)
+[15:26:46] [Server thread/INFO]: Maneus joined the game
+[15:32:49] [Server thread/INFO]: Maneus has made the advancement [The Parrots and the Bats]
+[15:35:53] [Server thread/INFO]: Chanksy[/59.149.117.196:64204] logged in with entity id 10953 at (1125.530075247123, 74.0, 619.6895929867966)
+[15:35:53] [Server thread/INFO]: Chanksy joined the game
+[15:36:38] [Server thread/INFO]: <Chanksy> are we having any personal chests?
+[15:37:02] [Server thread/INFO]: <LazyPotatoJoe> yeah thats fine
+[15:37:16] [Server thread/INFO]: <LazyPotatoJoe> im thinking we can make the top floor room?
+[15:38:10] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[15:38:10] [Server thread/INFO]: LazyPotatoJoe left the game
+[15:40:38] [Server thread/INFO]: Maneus was blown up by Creeper
+[15:40:41] [Server thread/INFO]: <Chanksy> RIP
+[15:40:45] [Server thread/INFO]: <Maneus> lol
+[15:40:50] [Server thread/INFO]: [Maneus: Teleported Maneus to Chanksy]
+[15:40:50] [Server thread/WARN]: Maneus moved too quickly! 1056.2189842872926,9.0,555.059229015431
+[15:41:36] [Server thread/INFO]: <Maneus> I was trying to get a record
+[16:01:40] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:01:40] [Server thread/INFO]: Chanksy left the game
+[16:05:05] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[16:10:49] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[16:23:35] [Server thread/INFO]: LazyPotatoJoe[/123.202.73.69:50164] logged in with entity id 17929 at (1126.8642277945341, 78.0625, 605.319185283228)
+[16:23:35] [Server thread/INFO]: LazyPotatoJoe joined the game
+[16:23:38] [Server thread/INFO]: <Maneus> hello
+[16:23:40] [Server thread/INFO]: <LazyPotatoJoe> hello
+[16:24:48] [Server thread/INFO]: <LazyPotatoJoe> what are you up to?
+[16:24:51] [Server thread/INFO]: <Maneus> mining
+[16:24:55] [Server thread/INFO]: <Maneus> looking for diamonds!
+[16:25:02] [Server thread/INFO]: <LazyPotatoJoe> where did jason go?
+[16:25:05] [Server thread/INFO]: <Maneus> not sure
+[16:26:30] [Server thread/INFO]: <LazyPotatoJoe> there are creepers roming everywhere around teh house
+[16:26:34] [Server thread/INFO]: <Maneus> ahh
+[16:26:37] [Server thread/INFO]: <LazyPotatoJoe> thunderstorms are not fun
+[16:31:44] [Server thread/INFO]: <LazyPotatoJoe> careful when you come back
+[16:31:54] [Server thread/INFO]: <LazyPotatoJoe> an army of skeletons and skeleton horses spawns
+[16:31:58] [Server thread/INFO]: <LazyPotatoJoe> *spawned
+[16:32:00] [Server thread/INFO]: <Maneus> woah
+[16:32:03] [Server thread/INFO]: <Maneus> skeleton horses?
+[16:32:11] [Server thread/INFO]: <Maneus> that sounds interesting
+[16:33:28] [Server thread/INFO]: <Maneus> I just found torches that I didn't place
+[16:33:34] [Server thread/INFO]: <LazyPotatoJoe> wait
+[16:33:41] [Server thread/INFO]: <Maneus> haha I guess someone was already here before
+[16:33:46] [Server thread/INFO]: <Maneus> its kind of creepy though
+[16:33:51] [Server thread/INFO]: <LazyPotatoJoe> might be jason hahaha
+[16:33:58] [Server thread/INFO]: <LazyPotatoJoe> he's explored a ton
+[16:36:32] [Server thread/INFO]: <LazyPotatoJoe> do you have the iron
+[16:36:38] [Server thread/INFO]: <Maneus> I have a ot
+[16:36:54] [Server thread/INFO]: <Maneus> I'm not sure if it was the iron though
+[16:36:58] [Server thread/INFO]: <Maneus> I took it from a furnace
+[16:37:14] [Server thread/INFO]: <LazyPotatoJoe> i think jason took all the iron
+[16:37:23] [Server thread/INFO]: <LazyPotatoJoe> also the farm looks pretty nice
+[16:37:33] [Server thread/INFO]: <Maneus> ty
+[17:19:26] [Server thread/INFO]: Maneus lost connection: Disconnected
+[17:19:26] [Server thread/INFO]: Maneus left the game
+[17:19:35] [Server thread/INFO]: Maneus[/192.168.1.1:56511] logged in with entity id 29980 at (1144.571529617612, 79.0, 601.7934849200416)
+[17:19:35] [Server thread/INFO]: Maneus joined the game
+[17:21:53] [Server thread/INFO]: LazyPotatoJoe was slain by Enderman
+[17:22:14] [Server thread/INFO]: [LazyPotatoJoe: Teleported LazyPotatoJoe to Maneus]
+[17:56:03] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[17:56:03] [Server thread/INFO]: LazyPotatoJoe left the game
+[17:56:25] [Server thread/INFO]: Maneus lost connection: Disconnected
+[17:56:25] [Server thread/INFO]: Maneus left the game
+[17:56:58] [Server thread/INFO]: Stopping server
+[17:56:58] [Server thread/INFO]: Saving players
+[17:56:58] [Server thread/INFO]: Saving worlds
+[17:56:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:56:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:56:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:56:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:56:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:56:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:56:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:56:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:56:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
