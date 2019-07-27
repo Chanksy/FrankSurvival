@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2019-07-27 16:54:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-07-20 21:05:33 +0800"
@@ -524,6 +530,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-07-20 20:44:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-07-27 16:54:12 +0800"
     },
     "done": true
   },
@@ -1165,12 +1177,16 @@
       "minecraft:mountains": "2019-07-24 22:35:00 +0800",
       "minecraft:taiga": "2019-07-26 15:16:49 +0800",
       "minecraft:desert_hills": "2019-07-20 20:41:29 +0800",
+      "minecraft:deep_cold_ocean": "2019-07-27 16:20:28 +0800",
       "minecraft:taiga_hills": "2019-07-26 15:17:16 +0800",
       "minecraft:desert": "2019-07-20 20:42:05 +0800",
+      "minecraft:deep_frozen_ocean": "2019-07-27 16:20:38 +0800",
       "minecraft:birch_forest": "2019-07-26 23:38:10 +0800",
       "minecraft:warm_ocean": "2019-07-24 21:24:57 +0800",
+      "minecraft:deep_lukewarm_ocean": "2019-07-27 16:27:19 +0800",
       "minecraft:savanna_plateau": "2019-07-20 20:44:40 +0800",
       "minecraft:beach": "2019-07-24 21:24:35 +0800",
+      "minecraft:dark_forest": "2019-07-27 17:22:08 +0800",
       "minecraft:river": "2019-07-22 21:09:45 +0800",
       "minecraft:lukewarm_ocean": "2019-07-24 21:24:44 +0800",
       "minecraft:wooded_mountains": "2019-07-24 22:53:39 +0800",
@@ -1272,6 +1288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2019-07-27 17:02:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-20 21:48:09 +0800"
@@ -1287,6 +1309,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-07-20 21:48:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2019-07-27 16:54:12 +0800"
     },
     "done": true
   },
@@ -1660,6 +1688,7 @@
     "criteria": {
       "cooked_porkchop": "2019-07-22 21:00:04 +0800",
       "cooked_mutton": "2019-07-20 20:50:28 +0800",
+      "sweet_berries": "2019-07-27 16:24:51 +0800",
       "cooked_beef": "2019-07-20 21:36:22 +0800",
       "bread": "2019-07-20 22:54:10 +0800",
       "rotten_flesh": "2019-07-20 21:01:10 +0800",
@@ -2586,6 +2615,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-07-22 22:15:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-07-27 16:58:51 +0800"
     },
     "done": true
   },
