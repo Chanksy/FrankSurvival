@@ -1,0 +1,418 @@
+[13:58:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:58:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:58:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:58:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:58:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:58:34] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[13:58:34] [Server thread/INFO]: Loading properties
+[13:58:34] [Server thread/INFO]: Default game type: SURVIVAL
+[13:58:34] [Server thread/INFO]: Generating keypair
+[13:58:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:58:34] [Server thread/INFO]: Using default channel type
+[13:58:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:58:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:58:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:58:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:58:34] [Server thread/INFO]: Preparing level "world"
+[13:58:34] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:58:42] [Server thread/INFO]: Loaded 6 recipes
+[13:58:42] [Server thread/INFO]: Loaded 811 advancements
+[13:58:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:58:43] [Server thread/INFO]: Preparing spawn area: 0%
+[13:58:43] [Server thread/INFO]: Preparing spawn area: 0%
+[13:58:43] [Server thread/INFO]: Preparing spawn area: 0%
+[13:58:43] [Server thread/INFO]: Time elapsed: 1264 ms
+[13:58:43] [Server thread/INFO]: Done (9.383s)! For help, type "help"
+[14:01:21] [Server thread/INFO]: RichkidRich[/42.3.172.248:61431] logged in with entity id 73 at (1143.3150355303078, 62.073264977579974, 902.9816654734702)
+[14:01:21] [Server thread/INFO]: RichkidRich joined the game
+[14:01:46] [Server thread/INFO]: <RichkidRich> hello
+[14:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[14:03:22] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 12064.5, 70.0, 944.904700147921]
+[14:03:22] [Server thread/WARN]: RichkidRich moved too quickly! 10967.270078872196,0.0,0.0
+[14:03:25] [Server thread/WARN]: RichkidRich moved too quickly! 0.0,-10.806526110009003,0.0
+[14:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[14:03:26] [Server thread/INFO]: RichkidRich suffocated in a wall
+[14:03:38] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 12064.5, 66.0, 9440.5]
+[14:03:38] [Server thread/WARN]: RichkidRich moved too quickly! 11996.483103949146,0.0,9377.791941654357
+[14:03:38] [Server thread/WARN]: RichkidRich moved too quickly! 11996.483103949146,0.0,9377.791941654357
+[14:03:51] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -10.207679977454973,0.0,1.123770251597307
+[14:03:51] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -10.606208102304663,0.0,1.1405581791004806
+[14:03:51] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -11.004876125056398,0.0,1.1564304226412787
+[14:09:19] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[14:09:19] [Server thread/INFO]: RichkidRich left the game
+[14:12:51] [Server thread/INFO]: RichkidRich[/42.3.172.248:61488] logged in with entity id 1841 at (12017.51167688366, 64.0, 9437.81050187782)
+[14:12:51] [Server thread/INFO]: RichkidRich joined the game
+[14:19:38] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 1117.5, 63.0, 452.5]
+[14:19:58] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 1117.5, 63.0, -451.5]
+[14:19:58] [Server thread/WARN]: RichkidRich moved too quickly! 1.7918318185841144,1.8863021081356095,-930.3282865363392
+[14:19:58] [Server thread/WARN]: RichkidRich moved too quickly! 1.7918318185841144,1.8863021081356095,-930.3282865363392
+[14:20:14] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 1117.5, 63.0, 600.5]
+[14:20:17] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 1117.5, 63.0, -451.5]
+[14:20:17] [Server thread/WARN]: RichkidRich moved too quickly! -0.19999998807907104,0.0,-1051.800000011921
+[14:20:24] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to 1117.5, 63.0, 452.5]
+[14:20:24] [Server thread/WARN]: RichkidRich moved too quickly! 0.5191234152105153,1.7130726844903208,903.7348809569678
+[14:20:49] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[14:20:49] [Server thread/INFO]: RichkidRich left the game
+[14:28:52] [Server thread/INFO]: Maneus[/192.168.1.1:50231] logged in with entity id 4645 at (1126.9441927244661, 79.0, 622.0592055777548)
+[14:28:52] [Server thread/INFO]: Maneus joined the game
+[14:42:54] [Server thread/INFO]: Maneus lost connection: Disconnected
+[14:42:54] [Server thread/INFO]: Maneus left the game
+[14:43:24] [Server thread/INFO]: Maneus[/192.168.1.1:50245] logged in with entity id 7494 at (1111.300000011921, 79.0, 652.7311285408529)
+[14:43:24] [Server thread/INFO]: Maneus joined the game
+[14:47:54] [Server thread/INFO]: /116.48.164.125:57174 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (17 > 16)
+[14:48:11] [Server thread/INFO]: Maneus lost connection: Disconnected
+[14:48:11] [Server thread/INFO]: Maneus left the game
+[14:48:11] [Server thread/INFO]: /116.48.164.125:57175 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (17 > 16)
+[14:49:21] [Server thread/INFO]: Maneus[/192.168.1.1:50254] logged in with entity id 8632 at (901.7393618797353, 82.0, 673.6789744891312)
+[14:49:21] [Server thread/INFO]: Maneus joined the game
+[14:49:59] [Server thread/INFO]: /116.48.164.125:57178 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (17 > 16)
+[14:50:05] [Server thread/INFO]: /116.48.164.125:57179 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (17 > 16)
+[14:50:09] [Server thread/INFO]: /116.48.164.125:57180 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: The received string length is longer than maximum allowed (17 > 16)
+[14:50:12] [Server thread/INFO]: Maneus lost connection: Disconnected
+[14:50:12] [Server thread/INFO]: Maneus left the game
+[15:01:51] [Server thread/INFO]: godsbutt[/116.48.164.125:57195] logged in with entity id 9181 at (75.5, 74.0, 73.5)
+[15:01:51] [Server thread/INFO]: godsbutt joined the game
+[15:02:13] [Server thread/INFO]: Maneus[/192.168.1.1:50600] logged in with entity id 9386 at (1023.6999999880791, 72.0, 664.2104262058106)
+[15:02:13] [Server thread/INFO]: Maneus joined the game
+[15:02:16] [Server thread/INFO]: <Maneus> jordan?
+[15:02:55] [Server thread/INFO]: <godsbutt> hello yes it me
+[15:02:59] [Server thread/INFO]: <Maneus> who is it?
+[15:03:05] [Server thread/INFO]: <godsbutt> that's right
+[15:03:10] [Server thread/INFO]: <godsbutt> it is me
+[15:03:19] [Server thread/INFO]: <Maneus> have we met before?
+[15:03:24] [Server thread/INFO]: <godsbutt> where are u
+[15:03:25] [Server thread/INFO]: <Maneus> in france?
+[15:03:29] [Server thread/INFO]: <godsbutt> where's ur base
+[15:03:32] [Server thread/INFO]: [Maneus: Teleported godsbutt to Maneus]
+[15:03:35] [Server thread/INFO]: <Maneus> hello
+[15:03:36] [Server thread/INFO]: <godsbutt> oh
+[15:03:41] [Server thread/INFO]: <Maneus> this cabin was mostly build by Joe
+[15:03:44] [Server thread/INFO]: <Maneus> built*
+[15:03:51] [Server thread/INFO]: <Maneus> this is the back entrance
+[15:04:09] [Server thread/INFO]: <godsbutt> pressure plates v cool
+[15:04:11] [Server thread/INFO]: <Maneus> yeah
+[15:04:13] [Server thread/INFO]: <Maneus> can you call?
+[15:04:22] [Server thread/INFO]: <Maneus> on messenger?
+[15:04:35] [Server thread/INFO]: <godsbutt> yes but give me a mo
+[15:05:51] [Server thread/INFO]: <godsbutt> ok i can call now
+[15:08:53] [Server thread/INFO]: Chanksy[/59.149.117.196:57312] logged in with entity id 10811 at (1130.0414422792828, 79.0, 622.4562932655489)
+[15:08:53] [Server thread/INFO]: Chanksy joined the game
+[15:08:57] [Server thread/INFO]: <Chanksy> hey friends
+[15:09:00] [Server thread/INFO]: <godsbutt> greetings
+[15:16:58] [Server thread/INFO]: <Maneus> cat is nice
+[15:17:49] [Server thread/INFO]: <Maneus> sleep?
+[15:17:53] [Server thread/INFO]: godsbutt has made the advancement [Sweet Dreams]
+[15:22:39] [Server thread/INFO]: godsbutt has made the advancement [Stone Age]
+[15:22:48] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[15:22:48] [Server thread/WARN]: Chanksy moved too quickly! 140.00781935034684,9.0,-349.13134042325385
+[15:22:55] [Server thread/INFO]: <Maneus> we are lookjing for resources
+[15:23:01] [Server thread/INFO]: <Chanksy> i shall join
+[15:23:02] [Server thread/INFO]: <Maneus> has this all been explored already?
+[15:23:08] [Server thread/INFO]: <Chanksy> idk but i don't think so
+[15:23:13] [Server thread/INFO]: <Chanksy> we've only done like 3 caves
+[15:23:18] [Server thread/INFO]: <Maneus> ok
+[15:24:00] [Server thread/INFO]: godsbutt has made the advancement [Getting an Upgrade]
+[15:24:04] [Server thread/INFO]: <Maneus> we are starting from stratch btw lol
+[15:24:17] [Server thread/INFO]: <Chanksy> oh awks
+[15:24:20] [Server thread/INFO]: <Maneus> hahaha
+[15:24:38] [Server thread/INFO]: <Chanksy> aight back to the stone age boys
+[15:24:40] [Server thread/INFO]: <Maneus> just cause jordan hasn't joined before
+[15:24:46] [Server thread/INFO]: <godsbutt> lmao
+[15:34:07] [Server thread/INFO]: godsbutt has made the advancement [Isn't It Iron Pick]
+[15:44:20] [Server thread/INFO]: godsbutt has made the advancement [Monster Hunter]
+[15:57:26] [Server thread/INFO]: godsbutt was shot by Skeleton
+[15:57:32] [Server thread/INFO]: [Maneus: Teleported godsbutt to Maneus]
+[15:57:32] [Server thread/WARN]: godsbutt moved too quickly! 61.0,-1.0,25.168408707066646
+[15:57:32] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at vd.b(SourceFile:208) ~[server.jar:?]
+	at uw.a(SourceFile:897) ~[server.jar:?]
+	at vi.a(SourceFile:475) ~[server.jar:?]
+	at wc.a(SourceFile:835) ~[server.jar:?]
+	at om.a(SourceFile:126) ~[server.jar:?]
+	at om$b.a(SourceFile:18) ~[server.jar:?]
+	at ke.a(SourceFile:21) ~[server.jar:?]
+	at rk.run(SourceFile:18) ~[server.jar:?]
+	at agq.h(SourceFile:144) [server.jar:?]
+	at agu.h(SourceFile:23) [server.jar:?]
+	at agq.q(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
+	at agq.bh(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:835) [?:?]
+[15:57:36] [Server thread/INFO]: [Maneus: Teleported godsbutt to Maneus]
+[15:59:16] [Server thread/INFO]: godsbutt was slain by Cave Spider
+[15:59:23] [Server thread/INFO]: [Maneus: Teleported godsbutt to Maneus]
+[15:59:23] [Server thread/WARN]: godsbutt moved too quickly! -132.57499998807907,-66.0000002,-84.80000001192093
+[16:04:35] [Server thread/INFO]: godsbutt has made the advancement [Diamonds!]
+[16:06:43] [Server thread/INFO]: godsbutt has made the advancement [Acquire Hardware]
+[16:12:10] [Server thread/INFO]: godsbutt tried to swim in lava
+[16:12:13] [Server thread/INFO]: <Chanksy> rip
+[16:12:28] [Server thread/INFO]: [Maneus: Teleported Maneus to godsbutt]
+[16:12:28] [Server thread/WARN]: Maneus moved too quickly! 183.0879041797532,73.5,-37.29564417396807
+[16:12:28] [Server thread/WARN]: Maneus moved too quickly! 183.0879041797532,73.5,-37.29564417396807
+[16:12:42] [Server thread/INFO]: godsbutt lost connection: Disconnected
+[16:12:42] [Server thread/INFO]: godsbutt left the game
+[16:12:44] [Server thread/INFO]: godsbutt[/116.48.164.125:57513] logged in with entity id 24244 at (1134.516309289159, 79.5, 608.5109426066974)
+[16:12:44] [Server thread/INFO]: godsbutt joined the game
+[16:12:49] [Server thread/INFO]: <Maneus> it was a ploy to get home
+[16:13:04] [Server thread/INFO]: <Maneus> do we keep our stuff when we die now?
+[16:13:14] [Server thread/INFO]: <Chanksy> wat
+[16:13:18] [Server thread/INFO]: <Chanksy> wait a sec
+[16:13:18] [Server thread/INFO]: <Maneus> jordan did
+[16:13:23] [Server thread/INFO]: [Chanksy: Gamerule keepInventory is now set to: false]
+[16:13:29] [Server thread/INFO]: <Chanksy> try again
+[16:13:30] [Server thread/INFO]: <Chanksy> lmao
+[16:13:33] [Server thread/INFO]: <Maneus> hahaha
+[16:14:21] [Server thread/INFO]: <Chanksy> your iron is down here btw
+[16:14:25] [Server thread/INFO]: <Maneus> ?
+[16:14:33] [Server thread/INFO]: <Maneus> what is this?
+[16:14:34] [Server thread/INFO]: <Maneus> down here
+[16:14:34] [Server thread/INFO]: <Chanksy> stole it so it would smelt faster
+[16:14:38] [Server thread/INFO]: <Chanksy> super smelter
+[16:14:39] [Server thread/INFO]: <Maneus> ohh thanks
+[16:14:44] [Server thread/INFO]: <Chanksy> 12x faster than one furnace
+[16:14:49] [Server thread/INFO]: <Maneus> wow
+[16:14:56] [Server thread/INFO]: <Maneus> how many furnaces does it use?
+[16:14:58] [Server thread/INFO]: <Chanksy> 12
+[16:14:59] [Server thread/INFO]: <Chanksy> lmao
+[16:15:01] [Server thread/INFO]: <Maneus> ...
+[16:15:02] [Server thread/INFO]: <Maneus> lol.
+[16:15:15] [Server thread/INFO]: <Chanksy> i could extend it to be like 100 but i don't think joe would be happy with the aesthetics
+[16:15:21] [Server thread/INFO]: <Maneus> ohh right
+[16:15:51] [Server thread/INFO]: <Maneus> how do you enchant a shield?
+[16:16:13] [Server thread/INFO]: <Chanksy> you need the right enchantment
+[16:16:23] [Server thread/INFO]: <Chanksy> but you just anvil a book+shield
+[16:16:28] [Server thread/INFO]: <Maneus> ohh
+[16:17:56] [Server thread/INFO]: <Chanksy> also there's 5 stacks of beef if yall need food
+[16:17:59] [Server thread/INFO]: <Maneus> ty
+[16:18:23] [Server thread/INFO]: <Maneus> a mob trap?
+[16:18:27] [Server thread/INFO]: <Chanksy> yeah but it's kinda shit
+[16:18:35] [Server thread/INFO]: <Chanksy> idk how to get them to spawn more often
+[16:18:39] [Server thread/INFO]: <Maneus> hmm
+[16:18:46] [Server thread/INFO]: <Chanksy> it might be becuase of the mob cap
+[16:18:54] [Server thread/INFO]: <Chanksy> and us having 60 chickens
+[16:18:57] [Server thread/INFO]: <Maneus> haha
+[16:18:59] [Server thread/INFO]: <Maneus> oops
+[16:30:25] [Server thread/INFO]: godsbutt has made the advancement [Suit Up]
+[16:32:41] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:32:41] [Server thread/INFO]: Chanksy left the game
+[16:58:43] [Server thread/INFO]: RichkidRich[/223.16.167.67:61572] logged in with entity id 34612 at (1119.4707816188745, 68.0, 490.69999998807907)
+[16:58:43] [Server thread/INFO]: RichkidRich joined the game
+[16:58:47] [Server thread/INFO]: <RichkidRich> onion haseyo
+[16:58:51] [Server thread/INFO]: <Maneus> hi
+[16:58:56] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[16:58:56] [Server thread/WARN]: RichkidRich moved too quickly! -190.0941074788674,3.0,265.04987364215503
+[16:58:58] [Server thread/INFO]: <Maneus> we are building the area
+[16:59:01] [Server thread/INFO]: <RichkidRich> i have dark oak
+[16:59:09] [Server thread/INFO]: <RichkidRich> 7 stacks to be exact
+[16:59:12] [Server thread/INFO]: <Maneus> wow
+[16:59:13] [Server thread/INFO]: <Maneus> that's a lot
+[16:59:17] [Server thread/INFO]: <godsbutt> damn
+[16:59:24] [Server thread/INFO]: <Maneus> put it in the chest
+[16:59:26] [Server thread/INFO]: <Maneus> s
+[16:59:32] [Server thread/INFO]: <RichkidRich> its only 1792 dark oak planks though
+[16:59:35] [Server thread/INFO]: Chanksy[/59.149.117.196:64140] logged in with entity id 34800 at (1130.4257043082962, 79.0, 619.9668061984173)
+[16:59:35] [Server thread/INFO]: Chanksy joined the game
+[16:59:44] [Server thread/INFO]: <RichkidRich> i think we need at least 3K?
+[17:00:00] [Server thread/INFO]: <Chanksy> shenme
+[17:00:16] [Server thread/INFO]: <Maneus> we are building a temple
+[17:00:18] [Server thread/INFO]: <RichkidRich> no just talking about the dark oak i collected
+[17:00:35] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[17:00:35] [Server thread/WARN]: Chanksy moved too quickly! -204.10581742033116,-3.0,56.95176861654784
+[17:00:42] [Server thread/INFO]: <Chanksy> did yall fill this
+[17:00:48] [Server thread/INFO]: <Maneus> yeah
+[17:00:51] [Server thread/INFO]: <Chanksy> wow
+[17:00:53] [Server thread/INFO]: <Chanksy> nice hax
+[17:00:53] [Server thread/INFO]: <RichkidRich> i literally just came one
+[17:00:58] [Server thread/INFO]: <Maneus> no no hacks
+[17:01:01] [Server thread/INFO]: <Maneus> with picks and shovels
+[17:01:03] [Server thread/INFO]: <RichkidRich> wait frank tank you used fill?
+[17:01:05] [Server thread/INFO]: <RichkidRich> oh
+[17:01:33] [Server thread/INFO]: <godsbutt> tahnks jason
+[17:01:34] [Server thread/INFO]: <Maneus> what enchantment does that pick have?
+[17:01:42] [Server thread/INFO]: <Chanksy> efficiency 4
+[17:01:46] [Server thread/INFO]: <Maneus> damn
+[17:01:47] [Server thread/INFO]: <Maneus> ty
+[17:02:30] [Server thread/INFO]: <RichkidRich> i enlisted the help of a creeper
+[17:02:52] [Server thread/INFO]: godsbutt lost connection: Disconnected
+[17:02:52] [Server thread/INFO]: godsbutt left the game
+[17:03:14] [Server thread/INFO]: <Chanksy> wat
+[17:05:20] [Server thread/INFO]: <Maneus> woah
+[17:05:28] [Server thread/INFO]: <Maneus> that shovel is crazy
+[17:05:29] [Server thread/INFO]: <Chanksy> lmao yeet
+[17:05:30] [Server thread/INFO]: <RichkidRich> im quite poor in iron so im going to start building the frame
+[17:05:32] [Server thread/INFO]: <Maneus> when did you get so much diamond?
+[17:05:34] [Server thread/INFO]: <Chanksy> efficiency is nuts
+[17:05:42] [Server thread/INFO]: <Chanksy> no i just stole some that we had before
+[17:05:46] [Server thread/INFO]: <Maneus> ohh
+[17:05:50] [Server thread/INFO]: <Chanksy> and farmed nether quartz for xp
+[17:08:35] [Server thread/INFO]: <Chanksy> which direction is the house at
+[17:08:38] [Server thread/INFO]: [Maneus: Teleported Maneus to Chanksy]
+[17:08:38] [Server thread/WARN]: Maneus moved too quickly! -173.21604450668394,-4.0,70.4940827986319
+[17:08:42] [Server thread/INFO]: <Chanksy> i can build a packed ice thing
+[17:08:42] [Server thread/INFO]: <Maneus> this direction
+[17:08:46] [Server thread/INFO]: <Maneus> it's close
+[17:08:49] [Server thread/INFO]: <Maneus> ish
+[17:08:55] [Server thread/INFO]: <Chanksy> lmao ish
+[17:09:05] [Server thread/INFO]: <Maneus> like a 2 min run?
+[17:09:08] [Server thread/INFO]: <Chanksy> i followed the wrong person
+[17:09:09] [Server thread/INFO]: <Chanksy> aight
+[17:09:11] [Server thread/INFO]: <Maneus> 1 maybe?
+[17:10:06] [Server thread/INFO]: <Chanksy> underground or above ground?
+[17:10:19] [Server thread/INFO]: <Maneus> above is cooler I think
+[17:10:22] [Server thread/INFO]: <Maneus> if its practical
+[17:10:35] [Server thread/INFO]: <Chanksy> much easier to build bc no digging
+[17:10:43] [Server thread/INFO]: <Chanksy> i shall do a glass x ice combo
+[17:10:43] [Server thread/INFO]: <Maneus> ok nice
+[17:10:50] [Server thread/INFO]: <Maneus> yeah cause it's nice to look at the surroundings I feel
+[17:10:59] [Server thread/INFO]: <RichkidRich> permission to set time to day
+[17:11:03] [Server thread/INFO]: <Maneus> yeah
+[17:11:07] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
+[17:11:40] [Server thread/INFO]: Maneus lost connection: Disconnected
+[17:11:40] [Server thread/INFO]: Maneus left the game
+[17:11:42] [Server thread/INFO]: Maneus[/192.168.1.1:50734] logged in with entity id 38839 at (949.4791794866891, 76.0, 720.5307490064448)
+[17:11:42] [Server thread/INFO]: Maneus joined the game
+[17:14:47] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[17:14:47] [Server thread/WARN]: Chanksy moved too quickly! -191.52113896145886,-6.0,87.02974926405682
+[17:15:18] [Server thread/INFO]: <Chanksy> ok so boys
+[17:15:26] [Server thread/INFO]: <RichkidRich> yes
+[17:15:28] [Server thread/INFO]: <Maneus> yes
+[17:15:34] [Server thread/INFO]: <Chanksy> there's a 10 block height difference between the top floor of our house and this place
+[17:15:45] [Server thread/INFO]: <Chanksy> which is where i plan to start our high speed railway
+[17:15:54] [Server thread/INFO]: <Maneus> which is higher?
+[17:15:57] [Server thread/INFO]: <Chanksy> the house
+[17:16:03] [Server thread/INFO]: <Maneus> ok
+[17:16:06] [Server thread/INFO]: <Chanksy> are we putting a station or something here?
+[17:16:15] [Server thread/INFO]: <RichkidRich> i guess put the station under the house?
+[17:16:16] [Server thread/INFO]: <Maneus> ohh that would be cool
+[17:16:41] [Server thread/INFO]: <Maneus> or the station could be elevated
+[17:16:46] [Server thread/INFO]: <Chanksy> yeah that was what i was thinking
+[17:16:50] [Server thread/INFO]: <Maneus> that would be cool
+[17:16:54] [Server thread/INFO]: <Maneus> like in the trees
+[17:21:19] [Server thread/INFO]: asdfghjkl1608[/223.16.167.67:52534] logged in with entity id 41573 at (381.39475357873147, 96.0, 203.5309828028579)
+[17:21:19] [Server thread/INFO]: asdfghjkl1608 joined the game
+[17:21:25] [Server thread/INFO]: <Chanksy> hello friend
+[17:21:25] [Server thread/INFO]: <Maneus> kengie!
+[17:21:35] [Server thread/INFO]: [RichkidRich: Teleported asdfghjkl1608 to RichkidRich]
+[17:21:35] [Server thread/INFO]: <asdfghjkl1608> heya
+[17:25:20] [Server thread/INFO]: <RichkidRich> defebd us
+[17:25:48] [Server thread/INFO]: <Chanksy> got u
+[17:26:06] [Server thread/INFO]: <Maneus> what enchantments can go on shields?
+[17:26:46] [Server thread/INFO]: <Chanksy> mending, unbreaking
+[17:26:49] [Server thread/INFO]: <Maneus> oh
+[17:26:52] [Server thread/INFO]: <Maneus> mending would be nice
+[17:26:54] [Server thread/INFO]: <Chanksy> and curse of vanishing
+[17:27:11] [Server thread/INFO]: <Chanksy> mending+mob farm is v good
+[17:27:25] [Server thread/INFO]: <Maneus> oh yeah true
+[17:27:31] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:27:40] [Server thread/INFO]: <Chanksy> oh no
+[17:27:44] [Server thread/INFO]: <Chanksy> phantoms
+[17:32:36] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:36:51] [Server thread/INFO]: <Maneus> want to expand the mountain out more?
+[17:36:56] [Server thread/INFO]: <RichkidRich> can do
+[17:37:41] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:39:07] [Server thread/INFO]: <Maneus> hows the high speed rail going?
+[17:39:19] [Server thread/INFO]: <Chanksy> still clearing out the starting area
+[17:39:21] [Server thread/INFO]: <Maneus> ah
+[17:41:38] [Server thread/INFO]: <Maneus> where is the nearest place to get dark oak?
+[17:41:47] [Server thread/INFO]: <Chanksy> 12k, 9k
+[17:41:51] [Server thread/INFO]: <Maneus> no way...
+[17:41:57] [Server thread/INFO]: <Chanksy> lmao idk @rich where did you get ours
+[17:41:58] [Server thread/INFO]: <Chanksy> yours
+[17:42:03] [Server thread/INFO]: <RichkidRich> who do i tp
+[17:42:15] [Server thread/INFO]: <Maneus> ?
+[17:42:46] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:44:10] [Server thread/INFO]: <asdfghjkl1608> we've got a ton of dark oak here still
+[17:44:24] [Server thread/INFO]: <Maneus> ah yeah
+[17:44:29] [Server thread/INFO]: <asdfghjkl1608> and i've got planks with me too if u need
+[17:45:10] [Server thread/INFO]: <RichkidRich> jason where you at rn
+[17:45:13] [Server thread/INFO]: <Chanksy> home
+[17:45:19] [Server thread/INFO]: [RichkidRich: Teleported asdfghjkl1608 to Chanksy]
+[17:45:31] [Server thread/INFO]: <RichkidRich> jason take kengie to super smelter
+[17:45:43] [Server thread/INFO]: <RichkidRich> where the glass is
+[17:45:55] [Server thread/INFO]: <Chanksy> top chest is for input
+[17:46:00] [Server thread/INFO]: <Chanksy> bottom is output
+[17:46:05] [Server thread/INFO]: <asdfghjkl1608> what the shit
+[17:46:05] [Server thread/INFO]: <Chanksy> middle is fuel but we have plenty
+[17:46:07] [Server thread/INFO]: <Chanksy> lmao
+[17:46:15] [Server thread/INFO]: <Maneus> haha
+[17:46:40] [Server thread/INFO]: <Chanksy> this baby smelted 2 full double chests of glass in like 20 minutes
+[17:46:50] [Server thread/INFO]: <asdfghjkl1608> oh yeah i need some glaaass
+[17:47:52] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:48:35] [Server thread/INFO]: [RichkidRich: Made asdfghjkl1608 a server operator]
+[17:48:41] [Server thread/INFO]: [asdfghjkl1608: Teleported asdfghjkl1608 to RichkidRich]
+[17:48:41] [Server thread/WARN]: asdfghjkl1608 moved too quickly! -165.04913152056247,-5.0,63.70108401291327
+[17:48:41] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/49401, l='world', x=949.92, y=73.03, z=750.84]
+[17:48:48] [Server thread/INFO]: <Chanksy> chicken farm is going well
+[17:48:52] [Server thread/INFO]: <Chanksy> i reckon we have like 200 eggs
+[17:49:16] [Server thread/INFO]: <Chanksy> if we spawn any more chickens afrank's imac is gonna explode
+[17:49:21] [Server thread/INFO]: <Maneus> lol
+[17:49:23] [Server thread/INFO]: <RichkidRich> i was joking
+[17:49:54] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/49580, l='world', x=959.36, y=73.00, z=753.13]
+[17:50:58] [Server thread/INFO]: <Chanksy> pillagers
+[17:52:24] [Server thread/INFO]: <Chanksy> where should the station be
+[17:52:33] [Server thread/INFO]: <Chanksy> i need a straight line so coords would be appreciated hahah
+[17:52:33] [Server thread/INFO]: <Maneus> maybe slightly out of sight
+[17:52:48] [Server thread/INFO]: <Maneus> here?
+[17:52:56] [Server thread/INFO]: <Chanksy> aight
+[17:52:59] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:53:28] [Server thread/INFO]: <asdfghjkl1608> afrank u free lol
+[17:53:40] [Server thread/INFO]: <Maneus> you mean for later?
+[17:53:50] [Server thread/INFO]: <asdfghjkl1608> like rn what u up to
+[17:53:58] [Server thread/INFO]: <Maneus> um
+[17:54:01] [Server thread/INFO]: <Maneus> playing minecraft
+[17:54:04] [Server thread/INFO]: <RichkidRich> frank tank i fucked up
+[17:54:04] [Server thread/INFO]: <Chanksy> hahhaah
+[17:54:09] [Server thread/INFO]: <Maneus> really though
+[17:54:17] [Server thread/INFO]: <asdfghjkl1608> can u assist with renovations
+[17:54:21] [Server thread/INFO]: <Maneus> ohh lol
+[17:54:31] [Server thread/INFO]: <asdfghjkl1608> the left side is longer lmao
+[17:54:32] [Server thread/INFO]: <Maneus> what's the concept?
+[17:54:37] [Server thread/INFO]: <Maneus> hmmm damn
+[17:54:42] [Server thread/INFO]: <asdfghjkl1608> and the doors through the middle dont line up
+[17:54:50] [Server thread/INFO]: <Maneus> cut it here?
+[17:54:56] [Server thread/INFO]: <asdfghjkl1608> yeh yeh xoxo
+[17:56:21] [Server thread/INFO]: <Maneus> richard where did you get the dark oak?
+[17:56:31] [Server thread/INFO]: <RichkidRich> do you want me to tp you
+[17:56:36] [Server thread/INFO]: <Maneus> oh yeah
+[17:56:39] [Server thread/INFO]: <Maneus> is it that far place?
+[17:56:41] [Server thread/INFO]: <Maneus> hold on
+[17:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[17:57:00] [Server thread/WARN]: Maneus moved too quickly! 9.910468902470257,1.0,-2.1160788905478967
+[17:57:07] [Server thread/INFO]: <Chanksy> fuk it's a 170 x-axis offset
+[17:57:35] [Server thread/INFO]: [RichkidRich: Teleported Maneus to 12064.5, 72.0, 9440.5]
+[17:57:35] [Server thread/WARN]: Maneus moved too quickly! 10931.744531348248,-7.0,8820.060695797618
+[17:57:44] [Server thread/INFO]: <Maneus> ah ty
+[17:58:07] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[18:00:48] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[18:00:48] [Server thread/INFO]: RichkidRich left the game
+[18:03:13] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[18:08:19] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[18:09:50] [Server thread/INFO]: [Maneus: Teleported Maneus to Chanksy]
+[18:09:50] [Server thread/WARN]: Maneus moved too quickly! -10915.005093526304,23.0,-8738.595167576483
+[18:13:23] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[18:13:24] [Server thread/INFO]: asdfghjkl1608 lost connection: Timed out
+[18:13:24] [Server thread/INFO]: asdfghjkl1608 left the game
+[18:13:24] [Server thread/WARN]: handleDisconnection() called twice
+[18:13:43] [Server thread/INFO]: <Maneus> hey jason I'm going to head off
+[18:13:46] [Server thread/INFO]: <Maneus> i'll push the server
+[18:13:51] [Server thread/INFO]: <Chanksy> aight
+[18:13:52] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[18:13:52] [Server thread/INFO]: Chanksy left the game
+[18:13:53] [Server thread/INFO]: Maneus lost connection: Disconnected
+[18:13:53] [Server thread/INFO]: Maneus left the game
+[18:14:11] [Server thread/INFO]: Stopping server
+[18:14:11] [Server thread/INFO]: Saving players
+[18:14:11] [Server thread/INFO]: Saving worlds
+[18:14:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:14:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:14:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
