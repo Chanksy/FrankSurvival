@@ -1,49 +1,184 @@
-[16:38:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:38:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:38:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:38:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:38:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:38:17] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[16:38:17] [Server thread/INFO]: Loading properties
-[16:38:17] [Server thread/INFO]: Default game type: SURVIVAL
-[16:38:17] [Server thread/INFO]: Generating keypair
-[16:38:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:38:17] [Server thread/INFO]: Using default channel type
-[16:38:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:38:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:38:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:38:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:38:18] [Server thread/INFO]: Preparing level "world"
-[16:38:18] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:38:32] [Server thread/INFO]: Loaded 6 recipes
-[16:38:33] [Server thread/INFO]: Loaded 811 advancements
-[16:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:38:35] [Server thread/INFO]: Preparing spawn area: 0%
-[16:38:35] [Server thread/INFO]: Preparing spawn area: 0%
-[16:38:35] [Server thread/INFO]: Preparing spawn area: 0%
-[16:38:35] [Server thread/INFO]: Preparing spawn area: 0%
-[16:38:35] [Server thread/INFO]: Preparing spawn area: 0%
-[16:38:35] [Server thread/INFO]: Preparing spawn area: 54%
-[16:38:37] [Server thread/INFO]: Time elapsed: 3760 ms
-[16:38:37] [Server thread/INFO]: Done (18.801s)! For help, type "help"
-[16:38:45] [Server thread/INFO]: Chanksy[/127.0.0.1:64609] logged in with entity id 67 at (1128.0331532622508, 89.0, 634.098937486564)
-[16:38:45] [Server thread/INFO]: Chanksy joined the game
-[16:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[16:43:42] [Server thread/WARN]: Chanksy moved too quickly! 0.6496788113083767,3.0,9.621191340566384
-[16:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
-[17:03:44] [Server thread/WARN]: Chanksy moved too quickly! 0.33577752538906225,-0.7539862017387549,-10.083722098454473
-[17:03:57] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[17:03:57] [Server thread/INFO]: Chanksy left the game
-[17:04:03] [Server thread/INFO]: Stopping the server
-[17:04:03] [Server thread/INFO]: Stopping server
-[17:04:03] [Server thread/INFO]: Saving players
-[17:04:03] [Server thread/INFO]: Saving worlds
-[17:04:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:04:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:04:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:04:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:56:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:44] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[17:56:44] [Server thread/INFO]: Loading properties
+[17:56:44] [Server thread/INFO]: Default game type: SURVIVAL
+[17:56:44] [Server thread/INFO]: Generating keypair
+[17:56:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:56:44] [Server thread/INFO]: Using default channel type
+[17:56:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:56:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:56:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:56:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:56:45] [Server thread/INFO]: Preparing level "world"
+[17:56:45] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:56:53] [Server thread/INFO]: Loaded 6 recipes
+[17:56:53] [Server thread/INFO]: Loaded 811 advancements
+[17:56:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:56:54] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:54] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:54] [Server thread/INFO]: Preparing spawn area: 50%
+[17:56:54] [Server thread/INFO]: Time elapsed: 1128 ms
+[17:56:54] [Server thread/INFO]: Done (9.721s)! For help, type "help"
+[18:01:18] [Server thread/INFO]: Maneus[/192.168.1.1:55141] logged in with entity id 67 at (931.509510039413, 74.0, 735.8584728658174)
+[18:01:18] [Server thread/INFO]: Maneus joined the game
+[18:16:41] [Server thread/INFO]: LazyPotatoJoe[/121.211.100.77:50556] logged in with entity id 3211 at (1130.642471542775, 79.0, 618.6143969492921)
+[18:16:41] [Server thread/INFO]: LazyPotatoJoe joined the game
+[18:16:44] [Server thread/INFO]: <Maneus> hey
+[18:16:46] [Server thread/INFO]: <LazyPotatoJoe> hello
+[18:16:57] [Server thread/INFO]: <LazyPotatoJoe> soz took awhile haha
+[18:17:06] [Server thread/INFO]: <Maneus> no worries
+[18:17:10] [Server thread/INFO]: <Maneus> are you working on the cabin house?
+[18:17:23] [Server thread/INFO]: <LazyPotatoJoe> i guess so
+[18:17:35] [Server thread/INFO]: <LazyPotatoJoe> i started a top floor and left it last time hahaha
+[18:17:49] [Server thread/INFO]: <Maneus> oh is that the floor that connects to eh ice rail?
+[18:18:01] [Server thread/INFO]: <LazyPotatoJoe> oh i just saw this ice rail
+[18:18:08] [Server thread/INFO]: <Maneus> its really really fast
+[18:18:13] [Server thread/INFO]: <Maneus> but the station at the end is not complete yet
+[18:18:18] [Server thread/INFO]: <Maneus> jason's still working on it
+[18:18:32] [Server thread/INFO]: <LazyPotatoJoe> wait is runnign on ice quicker?
+[18:18:36] [Server thread/INFO]: <Maneus> using a boat
+[18:18:40] [Server thread/INFO]: <Maneus> its insane
+[18:19:06] [Server thread/INFO]: <LazyPotatoJoe> im gonna test it out
+[18:19:37] [Server thread/INFO]: <LazyPotatoJoe> holy crap that is quick
+[18:19:41] [Server thread/INFO]: <LazyPotatoJoe> where are you hahaha
+[18:19:46] [Server thread/INFO]: <Maneus> I'm at the end of the ice
+[18:19:51] [Server thread/INFO]: <Maneus> we are building a temple here
+[18:20:02] [Server thread/INFO]: <Maneus> its where the ice is supposed to lead to
+[18:20:03] [Server thread/INFO]: <LazyPotatoJoe> its so quick
+[18:20:10] [Server thread/INFO]: <Maneus> yeah right?
+[18:20:21] [Server thread/INFO]: <LazyPotatoJoe> i fell off the ice
+[18:20:33] [Server thread/INFO]: <LazyPotatoJoe> i see you
+[18:20:49] [Server thread/INFO]: <Maneus> I'm working on a roof
+[18:20:56] [Server thread/INFO]: <LazyPotatoJoe> very interesting
+[18:21:02] [Server thread/INFO]: <Maneus> i watched some grian videos
+[18:21:05] [Server thread/INFO]: <LazyPotatoJoe> eyyy
+[18:21:08] [Server thread/INFO]: <Maneus> haha
+[18:21:43] [Server thread/INFO]: <LazyPotatoJoe> not sure how im gonna return though
+[18:22:06] [Server thread/INFO]: <LazyPotatoJoe> when did all this happen?
+[18:22:11] [Server thread/INFO]: <Maneus> not too long ago
+[18:22:17] [Server thread/INFO]: <Maneus> wednesday?
+[18:22:19] [Server thread/INFO]: <Maneus> thursday
+[18:22:20] [Server thread/INFO]: <Maneus> maybe
+[18:22:21] [Server thread/INFO]: <LazyPotatoJoe> ahhh
+[18:22:36] [Server thread/INFO]: <LazyPotatoJoe> i feel like i wasnt off for very long now its like insane hahaha
+[18:22:52] [Server thread/INFO]: <Maneus> yeah we made good progress actually
+[18:23:05] [Server thread/INFO]: <Maneus> and I think we can actually link everything with the ice
+[18:23:10] [Server thread/INFO]: <Maneus> like even the really far away stuff
+[18:23:22] [Server thread/INFO]: <LazyPotatoJoe> i think i crippled myself with being a completionist
+[18:23:35] [Server thread/INFO]: <Maneus> no I don't think so
+[18:23:37] [Server thread/INFO]: <LazyPotatoJoe> so i cant work on anything except the log cabin ahahaha
+[18:23:47] [Server thread/INFO]: <Maneus> the log cabin will be really nice
+[18:24:06] [Server thread/INFO]: <LazyPotatoJoe> uh oh
+[18:24:36] [Server thread/INFO]: <Maneus> ty
+[18:24:54] [Server thread/INFO]: <LazyPotatoJoe> the lag isnt great for crossbow stuff
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.707877663679028,0.0,-10.637694284822487
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.7637909683764974,0.0,-11.799657787154842
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.8097396589635082,0.0,-12.977391553074085
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.844182203101127,0.0,-14.170144124929152
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.8656620515598661,0.0,-15.377111962790082
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.8728079122536201,0.0,-16.59744596577309
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.8649795345556868,0.0,-17.830522093093236
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.8422238766950159,0.0,-19.075983682872334
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.8052381519444225,0.0,-20.333742781717206
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.7553505855316871,0.0,-21.603948614017668
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.6945195349144342,0.0,-22.886926354017533
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! -0.6349051041493112,0.0,-24.14424456368829
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! 0.0671464592655866,0.0,-15.884221724375948
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! 0.12440015383663194,0.0,-17.09175003306109
+[18:26:55] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! 0.18050877560835943,0.0,-18.275127798604217
+[18:26:56] [Server thread/WARN]: Boat (vehicle of LazyPotatoJoe) moved too quickly! 0.23549522601479111,0.0,-19.434838031407708
+[18:28:50] [Server thread/INFO]: <LazyPotatoJoe> one issue with the icerail
+[18:28:53] [Server thread/INFO]: <Maneus> ?
+[18:29:02] [Server thread/INFO]: <LazyPotatoJoe> spawns zombies at night hahaha
+[18:29:04] [Server thread/INFO]: <Maneus> oh lol
+[18:29:07] [Server thread/INFO]: <Maneus> yeah we need to light it up
+[18:29:34] [Server thread/INFO]: <LazyPotatoJoe> hey someone let my lamma go
+[18:29:42] [Server thread/INFO]: <Maneus> oh no
+[18:29:46] [Server thread/INFO]: <Maneus> is it gone gone or just unleashed?
+[18:29:57] [Server thread/INFO]: <LazyPotatoJoe> hes scaled his way on the back mountain hahaha
+[18:30:52] [Server thread/INFO]: <LazyPotatoJoe> i dont have a proper vision for the roof
+[18:31:28] [Server thread/INFO]: <Maneus> is it going to stick above the mountain?
+[18:31:37] [Server thread/INFO]: LazyPotatoJoe was blown up by Creeper
+[18:31:42] [Server thread/INFO]: <Maneus> ah lol
+[18:31:47] [Server thread/INFO]: <LazyPotatoJoe> um
+[18:32:11] [Server thread/INFO]: <LazyPotatoJoe> theres a skeleton in my boat
+[18:39:59] [Server thread/INFO]: <LazyPotatoJoe> im gonna play some fire emblem
+[18:40:03] [Server thread/INFO]: <Maneus> oh nice
+[18:40:22] [Server thread/INFO]: <Maneus> I would do that too if I had it
+[18:40:24] [Server thread/INFO]: <Maneus> haha
+[18:40:31] [Server thread/INFO]: <LazyPotatoJoe> i played for 6 hours on the plane hahaha
+[18:40:37] [Server thread/INFO]: <LazyPotatoJoe> very good flight game
+[18:40:40] [Server thread/INFO]: <Maneus> that's right it is
+[18:40:55] [Server thread/INFO]: <LazyPotatoJoe> but ive only really just grasped how massive this game is
+[18:41:13] [Server thread/INFO]: <LazyPotatoJoe> cause the narrator keeps saying 'part one' after every story event
+[18:41:17] [Server thread/INFO]: <Maneus> ohh
+[18:41:42] [Server thread/INFO]: <Maneus> hiow may parts are there?
+[18:41:44] [Server thread/INFO]: <LazyPotatoJoe> actually are you free to call?
+[18:41:49] [Server thread/INFO]: <Maneus> yeah
+[18:41:56] [Server thread/INFO]: <LazyPotatoJoe> no clue, im trying to play this run blind lol
+[18:48:05] [Server thread/INFO]: LazyPotatoJoe fell from a high place
+[18:51:46] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[18:51:46] [Server thread/INFO]: LazyPotatoJoe left the game
+[19:26:01] [Server thread/INFO]: Maneus was slain by Zombie
+[19:36:09] [Server thread/INFO]: Chanksy[/59.149.117.196:62717] logged in with entity id 60026 at (950.0920069851717, 74.0, 728.9863614013656)
+[19:36:09] [Server thread/INFO]: Chanksy joined the game
+[19:36:11] [Server thread/INFO]: <Maneus> hey
+[19:36:13] [Server thread/INFO]: <Chanksy> hey friend
+[19:36:18] [Server thread/INFO]: <Chanksy> holy shit
+[19:36:20] [Server thread/INFO]: <Maneus> ?
+[19:36:26] [Server thread/INFO]: <Chanksy> this is magnificent
+[19:36:31] [Server thread/INFO]: <Maneus> oh :)
+[19:37:31] [Server thread/INFO]: <Chanksy> have you tried the shinkansen 2.0
+[19:37:37] [Server thread/INFO]: <Maneus> yes I have
+[19:37:40] [Server thread/INFO]: <Maneus> it is amazing
+[19:37:45] [Server thread/INFO]: <Maneus> but one problem is that it has no light
+[19:37:49] [Server thread/INFO]: <Maneus> so at night there are monsters
+[19:38:00] [Server thread/INFO]: <Chanksy> yeah i was gonna try something with redstone lamps
+[19:38:03] [Server thread/INFO]: <Chanksy> and daylight sensors
+[19:43:29] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[19:48:32] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[19:53:40] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[19:54:09] [Server thread/INFO]: LazyPotatoJoe[/121.211.100.77:50793] logged in with entity id 64361 at (1130.168938695916, 84.0, 618.666335855703)
+[19:54:09] [Server thread/INFO]: LazyPotatoJoe joined the game
+[19:58:18] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[19:58:18] [Server thread/INFO]: LazyPotatoJoe left the game
+[19:58:47] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:01:28] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[20:01:28] [Server thread/INFO]: Chanksy left the game
+[20:03:57] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:09:00] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:14:03] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:19:10] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:24:13] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:29:20] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:34:22] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:40:50] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:46:02] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:51:04] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[20:56:12] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[21:01:16] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[21:01:22] [Server thread/INFO]: [Maneus: Set the time to 13000]
+[21:01:28] [Server thread/INFO]: [Maneus: Set the time to 18000]
+[21:06:40] [Server thread/INFO]: [Maneus: Set the time to 18000]
+[21:06:43] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[21:12:25] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[21:17:35] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[21:22:38] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[21:23:58] [Server thread/INFO]: Maneus lost connection: Disconnected
+[21:23:58] [Server thread/INFO]: Maneus left the game
+[21:24:24] [Server thread/INFO]: Stopping server
+[21:24:24] [Server thread/INFO]: Saving players
+[21:24:24] [Server thread/INFO]: Saving worlds
+[21:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
