@@ -1,63 +1,77 @@
-[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:57:36] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[16:57:36] [Server thread/INFO]: Loading properties
-[16:57:36] [Server thread/INFO]: Default game type: SURVIVAL
-[16:57:36] [Server thread/INFO]: Generating keypair
-[16:57:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:57:36] [Server thread/INFO]: Using default channel type
-[16:57:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:57:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:57:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:57:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:57:37] [Server thread/INFO]: Preparing level "world"
-[16:57:37] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:58:13] [Server thread/INFO]: Loaded 6 recipes
-[16:58:14] [Server thread/INFO]: Loaded 811 advancements
-[16:58:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:19] [Server thread/INFO]: Preparing spawn area: 0%
-[16:58:19] [Server thread/INFO]: Preparing spawn area: 83%
-[16:58:22] [Server thread/INFO]: Time elapsed: 7992 ms
-[16:58:22] [Server thread/INFO]: Done (45.598s)! For help, type "help"
-[16:58:48] [Server thread/INFO]: RichkidRich[/127.0.0.1:57253] logged in with entity id 67 at (1123.6629869545263, 79.0, 638.3468872499677)
-[16:58:48] [Server thread/INFO]: RichkidRich joined the game
-[16:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[16:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14611ms or 292 ticks behind
-[17:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
-[17:08:00] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[17:08:02] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:13:06] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:17:47] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[17:18:09] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:23:16] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:28:08] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[17:28:25] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:33:29] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:37:28] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[17:38:32] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[17:40:20] [Server thread/INFO]: RichkidRich lost connection: Disconnected
-[17:40:20] [Server thread/INFO]: RichkidRich left the game
-[17:40:22] [Server thread/INFO]: Stopping the server
-[17:40:22] [Server thread/INFO]: Stopping server
-[17:40:22] [Server thread/INFO]: Saving players
-[17:40:22] [Server thread/INFO]: Saving worlds
-[17:40:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:40:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:40:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:11:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:11:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:11:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:11:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:11:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:11:26] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[22:11:26] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[22:11:26] [Server thread/INFO]: Loading properties
+[22:11:26] [Server thread/INFO]: Default game type: SURVIVAL
+[22:11:26] [Server thread/INFO]: Generating keypair
+[22:11:26] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[22:11:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:11:27] [Server thread/INFO]: Using default channel type
+[22:11:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:11:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:11:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:11:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:11:27] [Server thread/INFO]: Preparing level "world"
+[22:11:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:11:29] [Server thread/INFO]: Loaded 6 recipes
+[22:11:29] [Server thread/INFO]: Loaded 811 advancements
+[22:11:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:11:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server thread/INFO]: Preparing spawn area: 0%
+[22:11:40] [Server thread/INFO]: Time elapsed: 10689 ms
+[22:11:40] [Server thread/INFO]: Done (12.993s)! For help, type "help"
+[22:11:41] [Server thread/INFO]: Chanksy[/127.0.0.1:55613] logged in with entity id 67 at (1132.3017596703162, 79.0, 625.22183899648)
+[22:11:41] [Server thread/INFO]: Chanksy joined the game
+[22:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
+[22:45:02] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[22:45:02] [Server thread/INFO]: Chanksy left the game
+[22:45:08] [Server thread/INFO]: Stopping the server
+[22:45:08] [Server thread/INFO]: Stopping server
+[22:45:08] [Server thread/INFO]: Saving players
+[22:45:08] [Server thread/INFO]: Saving worlds
+[22:45:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:45:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:45:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:45:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:45:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:45:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:45:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:45:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:45:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
