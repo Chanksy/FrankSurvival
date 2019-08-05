@@ -1,129 +1,63 @@
-[17:22:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:22:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:22:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:22:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:22:40] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[17:22:40] [Server thread/INFO]: Loading properties
-[17:22:40] [Server thread/INFO]: Default game type: SURVIVAL
-[17:22:40] [Server thread/INFO]: Generating keypair
-[17:22:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:22:40] [Server thread/INFO]: Using default channel type
-[17:22:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:22:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:22:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:22:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:22:40] [Server thread/INFO]: Preparing level "world"
-[17:22:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:22:49] [Server thread/INFO]: Loaded 6 recipes
-[17:22:49] [Server thread/INFO]: Loaded 811 advancements
-[17:22:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:22:50] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:50] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:50] [Server thread/INFO]: Time elapsed: 930 ms
-[17:22:50] [Server thread/INFO]: Done (9.776s)! For help, type "help"
-[17:27:58] [Server thread/INFO]: Maneus[/192.168.1.1:57889] logged in with entity id 67 at (927.1836373348453, 74.0, 731.7476753932946)
-[17:27:58] [Server thread/INFO]: Maneus joined the game
-[17:28:08] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:33:12] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:38:15] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:43:17] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:48:20] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:53:27] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:58:34] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[17:59:38] [Server thread/INFO]: RichkidRich[/42.76.201.130:18012] logged in with entity id 5634 at (943.6999999880791, 74.0, 780.5667205946057)
-[17:59:38] [Server thread/INFO]: RichkidRich joined the game
-[17:59:40] [Server thread/INFO]: <Maneus> hrey
-[17:59:44] [Server thread/INFO]: <RichkidRich> onion haseyo
-[17:59:56] [Server thread/INFO]: <RichkidRich> holeeeee shit
-[18:00:00] [Server thread/INFO]: <Maneus> we have a lot of dark oak now
-[18:00:11] [Server thread/INFO]: <RichkidRich> indeed you do
-[18:00:13] [Server thread/INFO]: <RichkidRich> damn
-[18:00:27] [Server thread/INFO]: <Maneus> are you able to call?
-[18:00:29] [Server thread/INFO]: <RichkidRich> and you guys didnt use the fill command???
-[18:00:32] [Server thread/INFO]: <RichkidRich> cant right now :/
-[18:00:36] [Server thread/INFO]: <Maneus> no we didn't
-[18:00:41] [Server thread/INFO]: <Maneus> but over there it's not filled
-[18:00:44] [Server thread/INFO]: <Maneus> its just the surface
-[18:01:12] [Server thread/INFO]: <Maneus> want to keep going witht he outline?
-[18:01:13] [Server thread/INFO]: <RichkidRich> oh wow i can see jasons ice
-[18:01:17] [Server thread/INFO]: <RichkidRich> yeah sure
-[18:01:18] [Server thread/INFO]: <Maneus> yeah it's super fast
-[18:03:17] [Server thread/INFO]: <Maneus> I think the ice can even connect the original house to here
-[18:04:59] [Server thread/INFO]: <RichkidRich> do we have enough?
-[18:05:05] [Server thread/INFO]: <Maneus> enough?
-[18:05:05] [Server thread/INFO]: <RichkidRich> yeah i know its fast haha
-[18:05:11] [Server thread/INFO]: <Maneus> oh I think so
-[18:05:16] [Server thread/INFO]: <Maneus> well I'm not sure actually
-[18:05:53] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[18:07:45] [Server thread/INFO]: <RichkidRich> frank tank i cant do the symmetry can you build the frame
-[18:07:49] [Server thread/INFO]: <RichkidRich> ill handle the interios
-[18:07:54] [Server thread/INFO]: <Maneus> how should it be?
-[18:08:03] [Server thread/INFO]: <RichkidRich> i guess the same as the one on this side
-[18:08:07] [Server thread/INFO]: <Maneus> ok
-[18:11:01] [Server thread/INFO]: <Maneus> ok
-[18:11:02] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
-[18:11:06] [Server thread/INFO]: <RichkidRich> ?
-[18:11:10] [Server thread/INFO]: <Maneus> oops I was tying to set the weather
-[18:11:15] [Server thread/INFO]: <RichkidRich> haha
-[18:11:15] [Server thread/INFO]: <Maneus> lol that was the most recent thing I said
-[18:11:47] [Server thread/INFO]: <RichkidRich> so my plan here
-[18:11:51] [Server thread/INFO]: <RichkidRich> for the part im in right now
-[18:11:53] [Server thread/INFO]: <RichkidRich> is to have like
-[18:11:57] [Server thread/INFO]: <RichkidRich> the main house
-[18:12:00] [Server thread/INFO]: <RichkidRich> the bedrooms
-[18:12:04] [Server thread/INFO]: <RichkidRich> all that stuff
-[18:12:08] [Server thread/INFO]: <Maneus> sounds good
-[18:12:12] [Server thread/INFO]: <RichkidRich> do we want it to look like the front
-[18:12:25] [Server thread/INFO]: <RichkidRich> cause i think it will be taller
-[18:12:27] [Server thread/INFO]: <RichkidRich> most likely
-[18:12:30] [Server thread/INFO]: <Maneus> maybe similar stile but yeah taller
-[18:12:34] [Server thread/INFO]: <RichkidRich> yeah same stile
-[18:13:04] [Server thread/INFO]: <RichkidRich> leave the dirt
-[18:13:09] [Server thread/INFO]: <Maneus> ?
-[18:13:12] [Server thread/INFO]: <RichkidRich> its just to keep symmetry haha
-[18:13:17] [Server thread/INFO]: <Maneus> oh haha
-[18:16:09] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:20:15] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[18:20:46] [Server thread/INFO]: <RichkidRich> frank tank can you grab me a shovel
-[18:20:51] [Server thread/INFO]: <Maneus> yeahw
-[18:21:11] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:21:14] [Server thread/INFO]: <Maneus> behind you
-[18:21:22] [Server thread/INFO]: <RichkidRich> tyty
-[18:23:34] [Server thread/INFO]: <RichkidRich> i might go back and enchant this shovel
-[18:23:40] [Server thread/INFO]: <RichkidRich> since its diamond
-[18:23:42] [Server thread/INFO]: <Maneus> ah
-[18:25:03] [Server thread/INFO]: <RichkidRich> that was a lot faster than i expected haha
-[18:25:07] [Server thread/INFO]: <Maneus> hahaha
-[18:25:29] [Server thread/INFO]: <RichkidRich> when i tried it on the glacier it felt like a lot less distance XD
-[18:26:15] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:27:02] [Server thread/INFO]: <RichkidRich> how do i get higher efficiency on the shovel
-[18:27:08] [Server thread/INFO]: <RichkidRich> i can get unbreaking ii
-[18:27:18] [Server thread/INFO]: <RichkidRich> oh wait not enough levels....
-[18:27:19] [Server thread/INFO]: <Maneus> I think it refreshes when you enchant something else
-[18:27:21] [Server thread/INFO]: <Maneus> oh yeah
-[18:29:13] [Server thread/WARN]: RichkidRich moved wrongly!
-[18:29:26] [Server thread/INFO]: <RichkidRich> i need levels
-[18:29:28] [Server thread/INFO]: [RichkidRich: Set the time to 13000]
-[18:29:33] [Server thread/INFO]: <Maneus> :)
-[18:31:45] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:32:48] [Server thread/INFO]: <RichkidRich> o gtg
-[18:32:51] [Server thread/INFO]: <RichkidRich> have fun :)
-[18:32:52] [Server thread/INFO]: <Maneus> oh cya
-[18:32:55] [Server thread/INFO]: RichkidRich lost connection: Disconnected
-[18:32:55] [Server thread/INFO]: RichkidRich left the game
-[18:36:56] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:41:59] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:47:02] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:52:04] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[18:57:07] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:02:10] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:07:15] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:12:26] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:17:33] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:22:39] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:27:47] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:32:49] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:38:17] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:43:19] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[19:44:08] [Server thread/INFO]: Maneus lost connection: Disconnected
-[19:44:08] [Server thread/INFO]: Maneus left the game
+[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:57:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:57:36] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:57:36] [Server thread/INFO]: Loading properties
+[16:57:36] [Server thread/INFO]: Default game type: SURVIVAL
+[16:57:36] [Server thread/INFO]: Generating keypair
+[16:57:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:57:36] [Server thread/INFO]: Using default channel type
+[16:57:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:57:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:57:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:57:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:57:37] [Server thread/INFO]: Preparing level "world"
+[16:57:37] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:58:13] [Server thread/INFO]: Loaded 6 recipes
+[16:58:14] [Server thread/INFO]: Loaded 811 advancements
+[16:58:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:19] [Server thread/INFO]: Preparing spawn area: 0%
+[16:58:19] [Server thread/INFO]: Preparing spawn area: 83%
+[16:58:22] [Server thread/INFO]: Time elapsed: 7992 ms
+[16:58:22] [Server thread/INFO]: Done (45.598s)! For help, type "help"
+[16:58:48] [Server thread/INFO]: RichkidRich[/127.0.0.1:57253] logged in with entity id 67 at (1123.6629869545263, 79.0, 638.3468872499677)
+[16:58:48] [Server thread/INFO]: RichkidRich joined the game
+[16:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[16:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14611ms or 292 ticks behind
+[17:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
+[17:08:00] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
+[17:08:02] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:13:06] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:17:47] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
+[17:18:09] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:23:16] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:28:08] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
+[17:28:25] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:33:29] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:37:28] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
+[17:38:32] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:40:20] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[17:40:20] [Server thread/INFO]: RichkidRich left the game
+[17:40:22] [Server thread/INFO]: Stopping the server
+[17:40:22] [Server thread/INFO]: Stopping server
+[17:40:22] [Server thread/INFO]: Saving players
+[17:40:22] [Server thread/INFO]: Saving worlds
+[17:40:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:40:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:40:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:40:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
