@@ -1,151 +1,51 @@
-[18:23:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:23:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:23:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:23:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:23:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:23:11] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:23:11] [Server thread/INFO]: Loading properties
-[18:23:11] [Server thread/INFO]: Default game type: SURVIVAL
-[18:23:11] [Server thread/INFO]: Generating keypair
-[18:23:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:23:11] [Server thread/INFO]: Using default channel type
-[18:23:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:23:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:23:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:23:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:23:11] [Server thread/INFO]: Preparing level "world"
-[18:23:11] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:23:18] [Server thread/INFO]: Loaded 6 recipes
-[18:23:18] [Server thread/INFO]: Loaded 811 advancements
-[18:23:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:23:19] [Server thread/INFO]: Preparing spawn area: 0%
-[18:23:19] [Server thread/INFO]: Preparing spawn area: 0%
-[18:23:19] [Server thread/INFO]: Preparing spawn area: 76%
-[18:23:19] [Server thread/INFO]: Time elapsed: 1084 ms
-[18:23:19] [Server thread/INFO]: Done (8.453s)! For help, type "help"
-[18:23:50] [Server thread/INFO]: Chanksy[/59.149.117.196:56999] logged in with entity id 67 at (1108.8631387843484, 88.55000001192093, 695.6875)
-[18:23:50] [Server thread/INFO]: Chanksy joined the game
-[18:28:22] [Server thread/INFO]: Maneus[/192.168.1.1:51235] logged in with entity id 1066 at (943.8779843012335, 74.0, 752.8863132384846)
-[18:28:22] [Server thread/INFO]: Maneus joined the game
-[18:28:48] [Server thread/INFO]: RichkidRich[/42.76.253.212:22427] logged in with entity id 1198 at (949.0515696725838, 74.0, 747.9631816031301)
-[18:28:48] [Server thread/INFO]: RichkidRich joined the game
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -10.047326927771564,0.0,-0.05402505256529366
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -11.640705172039475,0.0,-0.06153136156854089
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -13.211567133433732,0.0,-0.06862601292129966
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -14.760160396032006,0.0,-0.07531496984199748
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -16.286729820492837,0.0,-0.08160412998279298
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -17.655652825558377,-0.03999999910593033,-0.08693959060758516
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.11810494794986,-0.11999999731779099,-0.09141767842095305
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.113115383531067,-0.23999999463558197,-0.09512508745467585
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.10363514932135,-0.3999999910593033,-0.09813984236438955
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.090113250939567,-0.5999999865889549,-0.10053216530934606
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.072953824165666,-0.8399999812245369,-0.10236477790954268
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.052520560458333,-1.1199999749660492,-0.10369460797210195
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.034130623608917,-1.4399999678134918,-0.10489145499673214
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.017579680882932,-1.7999999597668648,-0.10596861729027296
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -18.00268383282412,-2.199999950826168,-0.10693806332881195
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -17.989277569926344,-2.6399999409914017,-0.10781056474036177
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -17.977211933637932,-3.1199999302625656,-0.10859581599004287
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -17.966352861266046,-3.63999991863966,-0.10930254209597479
-[18:33:21] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -9.525397633548096,-4.1999999061226845,-0.06383753917668855
-[18:34:03] [Server thread/INFO]: RichkidRich was slain by Phantom
-[18:34:16] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
-[18:34:50] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[18:37:21] [Server thread/INFO]: [Chanksy: Gave 1 [Command Block] to RichkidRich]
-[18:42:28] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[18:42:28] [Server thread/INFO]: Chanksy left the game
-[18:43:56] [Server thread/INFO]: <RichkidRich> frank tank can you hear me
-[18:43:59] [Server thread/INFO]: <Maneus> no
-[18:44:06] [Server thread/INFO]: <Maneus> lol
-[18:44:30] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[18:47:47] [Server thread/INFO]: [RichkidRich: Gave 64 [Scaffolding] to RichkidRich]
-[18:54:04] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[18:55:08] [Server thread/INFO]: RichkidRich lost connection: Disconnected
-[18:55:08] [Server thread/INFO]: RichkidRich left the game
-[19:06:58] [Server thread/INFO]: Maneus lost connection: Disconnected
-[19:06:58] [Server thread/INFO]: Maneus left the game
-[19:34:23] [Server thread/INFO]: RichkidRich[/125.224.232.166:58425] logged in with entity id 9164 at (968.5505636256999, 85.0, 750.9866914154346)
-[19:34:23] [Server thread/INFO]: RichkidRich joined the game
-[19:35:16] [Server thread/INFO]: RichkidRich lost connection: Timed out
-[19:35:16] [Server thread/INFO]: RichkidRich left the game
-[19:35:34] [Server thread/INFO]: RichkidRich[/125.224.232.166:58428] logged in with entity id 9610 at (968.5505636256999, 85.0, 750.9866914154346)
-[19:35:34] [Server thread/INFO]: RichkidRich joined the game
-[19:36:27] [Server thread/INFO]: RichkidRich lost connection: Timed out
-[19:36:27] [Server thread/INFO]: RichkidRich left the game
-[19:37:13] [Server thread/INFO]: RichkidRich[/42.76.253.212:19290] logged in with entity id 10033 at (968.5450561452644, 85.0, 751.2019279520783)
-[19:37:13] [Server thread/INFO]: RichkidRich joined the game
-[19:38:06] [Server thread/INFO]: [RichkidRich: Gave 1 [Acacia Boat] to RichkidRich]
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-10.521850213453604
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-11.777581596531832
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-13.019499962538816
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-14.247757254352791
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-15.457612156528057
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-16.64930332943993
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-17.823095693640425
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.71979489319517
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.715148988669057
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.706906801482887
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.695930161017372
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.68293294814282
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.66851239921857
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.653172943821005
-[19:38:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 0.0,0.0,-18.637344737529133
-[19:38:28] [Server thread/INFO]: [RichkidRich: Set the time to 13000]
-[19:38:47] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[19:49:46] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 10.379012024494841,0.0,-0.06227317155980927
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 11.620849138073936,0.0,-0.0747524877081105
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 12.853058042331895,0.0,-0.0900514235565879
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 14.075552058461653,0.0,-0.10838506138384219
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 15.288171961143917,0.0,-0.13001439616652988
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 16.513226869257323,0.0,-0.1819952067480699
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 17.74699073110969,0.0,-0.2666885584560532
-[20:08:20] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! 18.109379604174364,0.0,-0.3863042485386359
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40437649117234
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.40424175512669
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.416222521508985
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.42807149972964
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.43979013945534
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.45137987440671
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.4628421225334
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.474178286187566
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.48538975229553
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.49647789252765
-[20:08:28] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.50744406346564
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.518289606769144
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.529015849339316
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.53962410348163
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.550115667066166
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.560491823686334
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.5707538428162
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.57961035916583
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.57961035916583
-[20:08:29] [Server thread/WARN]: Boat (vehicle of RichkidRich) moved too quickly! -6.35680784123565,0.0,56.57961035916583
-[20:11:00] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[20:11:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/15352, l='world', x=1136.80, y=79.00, z=667.37]
-[20:20:27] [Server thread/INFO]: [RichkidRich: Set the time to 1000]
-[20:24:55] [Server thread/INFO]: RichkidRich lost connection: Disconnected
-[20:24:55] [Server thread/INFO]: RichkidRich left the game
-[20:42:07] [Server thread/INFO]: Maneus[/192.168.1.1:51362] logged in with entity id 17450 at (-28.306808179087067, 86.0, -170.1485328425815)
-[20:42:07] [Server thread/INFO]: Maneus joined the game
-[20:42:28] [Server thread/INFO]: Maneus lost connection: Disconnected
-[20:42:28] [Server thread/INFO]: Maneus left the game
-[20:44:57] [Server thread/INFO]: Stopping server
-[20:44:57] [Server thread/INFO]: Saving players
-[20:44:57] [Server thread/INFO]: Saving worlds
-[20:44:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:44:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:44:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/39837, l='world', x=1136.80, y=79.00, z=666.70]
+[00:02:21] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[00:07:25] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[00:07:56] [Server thread/INFO]: <Maneus> lol jason
+[00:07:59] [Server thread/INFO]: <Maneus> what are you doing?
+[00:08:03] [Server thread/INFO]: <Chanksy> i do what i want
+[00:08:08] [Server thread/INFO]: [RichkidRich: Gave 1 [Command Block] to RichkidRich]
+[00:08:21] [Server thread/INFO]: [RichkidRich: Gave 1 [Daylight Detector] to RichkidRich]
+[00:08:37] [Server thread/INFO]: [RichkidRich: Gamerule commandBlockOutput is now set to: true]
+[00:09:56] [Server thread/INFO]: <Maneus> jason!
+[00:09:59] [Server thread/INFO]: <Chanksy> what up
+[00:10:02] [Server thread/INFO]: <Maneus> wat are you doing?
+[00:10:08] [Server thread/INFO]: <Chanksy> nothing lmao
+[00:10:11] [Server thread/INFO]: <Chanksy> bothering richard
+[00:10:17] [Server thread/INFO]: <Maneus> it looks like you've lost your mind
+[00:10:24] [Server thread/INFO]: <RichkidRich> oh i can still hit
+[00:10:27] [Server thread/INFO]: <Chanksy> i'm about to if this kid keeps hitting me
+[00:10:34] [Server thread/INFO]: <Chanksy> holy shit
+[00:10:39] [Server thread/INFO]: <Chanksy> you can 2-man a boat
+[00:10:43] [Server thread/INFO]: <Maneus> yeah I guess
+[00:11:04] [Server thread/INFO]: <Chanksy> this is immense fun
+[00:11:22] [Server thread/INFO]: <Chanksy> goodbye friend
+[00:11:38] [Server thread/INFO]: <Maneus> ah
+[00:11:43] [Server thread/INFO]: <Chanksy> thx rich
+[00:12:18] [Server thread/INFO]: <Chanksy> oi
+[00:12:42] [Server thread/INFO]: <Maneus> ah
+[00:12:45] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[00:13:50] [Server thread/INFO]: <RichkidRich> goodbye
+[00:13:52] [Server thread/INFO]: <Maneus> goodbye
+[00:13:54] [Server thread/INFO]: <Chanksy> oh
+[00:13:56] [Server thread/INFO]: <Chanksy> bye
+[00:13:58] [Server thread/INFO]: <Maneus> i'll push now
+[00:14:00] [Server thread/INFO]: <Maneus> it's late
+[00:14:01] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[00:14:01] [Server thread/INFO]: Chanksy left the game
+[00:14:03] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[00:14:03] [Server thread/INFO]: RichkidRich left the game
+[00:14:04] [Server thread/INFO]: Maneus lost connection: Disconnected
+[00:14:04] [Server thread/INFO]: Maneus left the game
+[00:14:37] [Server thread/INFO]: Stopping server
+[00:14:37] [Server thread/INFO]: Saving players
+[00:14:37] [Server thread/INFO]: Saving worlds
+[00:14:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:14:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:14:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
