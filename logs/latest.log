@@ -1,47 +1,101 @@
-[14:38:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:38:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:38:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:38:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:38:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:38:56] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[14:38:56] [Server thread/INFO]: Loading properties
-[14:38:56] [Server thread/INFO]: Default game type: SURVIVAL
-[14:38:56] [Server thread/INFO]: Generating keypair
-[14:38:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:38:56] [Server thread/INFO]: Using default channel type
-[14:38:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:38:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:38:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:38:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:38:56] [Server thread/INFO]: Preparing level "world"
-[14:38:56] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:39:02] [Server thread/INFO]: Loaded 6 recipes
-[14:39:02] [Server thread/INFO]: Loaded 811 advancements
-[14:39:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:39:03] [Server thread/INFO]: Preparing spawn area: 0%
-[14:39:03] [Server thread/INFO]: Preparing spawn area: 0%
-[14:39:03] [Server thread/INFO]: Time elapsed: 988 ms
-[14:39:03] [Server thread/INFO]: Done (7.268s)! For help, type "help"
-[14:44:21] [Server thread/INFO]: Chanksy[/127.0.0.1:55242] logged in with entity id 67 at (1129.1498569513824, 90.0, 644.3473605227101)
-[14:44:21] [Server thread/INFO]: Chanksy joined the game
-[14:44:23] [Server thread/INFO]: [Chanksy: Teleported Chanksy to 918.5, 82.0, 750.5]
-[14:44:23] [Server thread/WARN]: Chanksy moved too quickly! -210.6498569513824,-8.0,106.15263947728988
-[14:44:23] [Server thread/WARN]: Chanksy moved too quickly! -210.6498569513824,-8.0,106.15263947728988
-[14:44:23] [Server thread/WARN]: Chanksy moved too quickly! -210.6498569513824,-8.0,106.15263947728988
-[14:44:31] [Server thread/INFO]: [Chanksy: Set own game mode to Creative Mode]
-[14:46:00] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
-[15:17:57] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[15:17:57] [Server thread/INFO]: Chanksy left the game
-[15:18:03] [Server thread/INFO]: Stopping the server
-[15:18:03] [Server thread/INFO]: Stopping server
-[15:18:03] [Server thread/INFO]: Saving players
-[15:18:03] [Server thread/INFO]: Saving worlds
-[15:18:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:18:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:18:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:20:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:20:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:20:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:20:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:20:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:20:14] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[15:20:14] [Server thread/INFO]: Loading properties
+[15:20:14] [Server thread/INFO]: Default game type: SURVIVAL
+[15:20:14] [Server thread/INFO]: Generating keypair
+[15:20:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:20:14] [Server thread/INFO]: Using default channel type
+[15:20:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:20:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:20:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:20:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:20:14] [Server thread/INFO]: Preparing level "world"
+[15:20:14] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:20:22] [Server thread/INFO]: Loaded 6 recipes
+[15:20:22] [Server thread/INFO]: Loaded 811 advancements
+[15:20:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:20:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:20:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:20:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:20:23] [Server thread/INFO]: Time elapsed: 1362 ms
+[15:20:23] [Server thread/INFO]: Done (9.306s)! For help, type "help"
+[15:21:32] [Server thread/INFO]: Chanksy[/59.149.117.196:55465] logged in with entity id 67 at (1093.5859034416926, 78.0, 633.1323262663824)
+[15:21:32] [Server thread/INFO]: Chanksy joined the game
+[15:21:37] [Server thread/INFO]: <Chanksy> hello
+[15:23:57] [Server thread/INFO]: Maneus[/192.168.1.1:50850] logged in with entity id 746 at (941.559236955962, 74.0, 735.1197221938114)
+[15:23:57] [Server thread/INFO]: Maneus joined the game
+[15:24:29] [Server thread/INFO]: Maneus lost connection: Disconnected
+[15:24:29] [Server thread/INFO]: Maneus left the game
+[15:24:31] [Server thread/INFO]: Maneus[/192.168.1.1:50859] logged in with entity id 940 at (947.9881283564612, 74.0, 734.1204001817241)
+[15:24:31] [Server thread/INFO]: Maneus joined the game
+[15:26:21] [Server thread/INFO]: <Maneus> what are you working on?
+[15:26:28] [Server thread/INFO]: <Chanksy> i want to make a tree farm
+[15:26:32] [Server thread/INFO]: <Maneus> oh
+[15:26:34] [Server thread/INFO]: <Maneus> is it automatic?
+[15:26:41] [Server thread/INFO]: <Maneus> i couldn't be right?
+[15:26:46] [Server thread/INFO]: <Chanksy> there's an auto one but it needs lots of slime
+[15:26:54] [Server thread/INFO]: <Maneus> ohh ok
+[15:27:01] [Server thread/INFO]: <Maneus> I haven't seen a single slime
+[15:27:02] [Server thread/INFO]: <Chanksy> and richard has yet to build his slime farm
+[15:27:10] [Server thread/INFO]: <Chanksy> yeah idek how to find slime chunks
+[15:28:28] [Server thread/INFO]: <Maneus> do I just keep pressing the button?
+[15:28:34] [Server thread/INFO]: <Chanksy> no it's auto after the first press
+[15:28:37] [Server thread/INFO]: <Maneus> oh
+[15:28:39] [Server thread/INFO]: <Maneus> oops
+[15:28:45] [Server thread/INFO]: <Chanksy> there's a comparator that checks hahaha
+[15:33:36] [Server thread/INFO]: <Maneus> i don't think the comparator is working
+[15:33:53] [Server thread/INFO]: <Chanksy> awks
+[15:33:56] [Server thread/INFO]: <Maneus> I see it turn on
+[15:34:00] [Server thread/INFO]: <Maneus> at the back
+[15:34:06] [Server thread/INFO]: <Maneus> but its doesn't activate anything
+[15:34:15] [Server thread/INFO]: <Maneus> did it break?
+[15:34:29] [Server thread/INFO]: <Chanksy> yes
+[15:34:32] [Server thread/INFO]: <Maneus> ah
+[15:35:14] [Server thread/INFO]: <Maneus> it didn't send the carts that time
+[15:35:22] [Server thread/INFO]: <Maneus> the top one didn't go
+[15:35:38] [Server thread/INFO]: <Chanksy> i'm so lost
+[15:36:00] [Server thread/INFO]: <Maneus> should the repeater be facing the block?
+[15:36:04] [Server thread/INFO]: <Maneus> with the cart
+[15:36:40] [Server thread/INFO]: <Maneus> ah
+[15:36:41] [Server thread/INFO]: <Chanksy> sick
+[15:36:49] [Server thread/INFO]: <Maneus> nice
+[15:36:56] [Server thread/INFO]: <Maneus> thanks
+[15:37:12] [Server thread/INFO]: <Chanksy> i feel like extending it
+[15:37:21] [Server thread/INFO]: <Maneus> is there anything in that direction?
+[15:37:26] [Server thread/INFO]: <Chanksy> not that i know of
+[15:37:38] [Server thread/INFO]: <Chanksy> oh there's an ocean
+[15:37:40] [Server thread/INFO]: <Chanksy> shit
+[15:37:46] [Server thread/INFO]: <Maneus> oh but how far is it?
+[15:41:41] [Server thread/INFO]: <Chanksy> oh
+[15:41:42] [Server thread/INFO]: <Maneus> ah
+[15:47:31] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[15:47:31] [Server thread/WARN]: Chanksy moved too quickly! -194.81322305706328,-5.0,142.6553723726813
+[15:47:31] [Server thread/WARN]: Chanksy moved too quickly! -194.81322305706328,-5.0,142.6553723726813
+[15:47:33] [Server thread/INFO]: <Maneus> ?
+[15:47:38] [Server thread/INFO]: <Chanksy> nothin
+[15:56:51] [Server thread/INFO]: <Chanksy> brb
+[15:56:52] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[15:56:52] [Server thread/INFO]: Chanksy left the game
+[16:04:42] [Server thread/INFO]: Chanksy[/59.149.117.196:56292] logged in with entity id 9661 at (1153.87560845663, 70.0, 617.4570256198164)
+[16:04:42] [Server thread/INFO]: Chanksy joined the game
+[16:58:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/23910, l='world', x=1135.49, y=79.00, z=667.80]
+[17:02:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/24910, l='world', x=1134.20, y=79.00, z=666.47]
+[17:10:03] [Server thread/INFO]: <Maneus> what do you think of the pathway between buildings?
+[17:10:37] [Server thread/INFO]: <Chanksy> it's a beaut
+[17:10:45] [Server thread/INFO]: <Chanksy> is this side gonna stay open?
+[17:10:50] [Server thread/INFO]: <Maneus> yeah I was thinking that
+[17:10:54] [Server thread/INFO]: <Chanksy> yeah perf
+[17:10:56] [Server thread/INFO]: <Maneus> so that the interior is all open
+[17:13:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/27763, l='world', x=1134.20, y=79.00, z=665.64]
+[17:16:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/28313, l='world', x=1134.81, y=79.00, z=667.37]
+[17:18:08] [Server thread/INFO]: <Maneus> alright I'm heading off for a bit
+[17:18:12] [Server thread/INFO]: <Chanksy> aight
+[17:18:12] [Server thread/INFO]: <Maneus> i'll push
+[17:18:15] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:18:15] [Server thread/INFO]: Chanksy left the game
+[17:18:17] [Server thread/INFO]: Maneus lost connection: Disconnected
+[17:18:17] [Server thread/INFO]: Maneus left the game
