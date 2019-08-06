@@ -99,3 +99,15 @@
 [17:18:15] [Server thread/INFO]: Chanksy left the game
 [17:18:17] [Server thread/INFO]: Maneus lost connection: Disconnected
 [17:18:17] [Server thread/INFO]: Maneus left the game
+[17:19:09] [Server thread/INFO]: Stopping server
+[17:19:09] [Server thread/INFO]: Saving players
+[17:19:09] [Server thread/INFO]: Saving worlds
+[17:19:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
