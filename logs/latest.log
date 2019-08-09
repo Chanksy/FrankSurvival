@@ -1,79 +1,152 @@
-[14:16:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:16:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:16:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:16:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:16:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:16:46] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[14:16:46] [Server thread/INFO]: Loading properties
-[14:16:46] [Server thread/INFO]: Default game type: SURVIVAL
-[14:16:46] [Server thread/INFO]: Generating keypair
-[14:16:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:16:46] [Server thread/INFO]: Using default channel type
-[14:16:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:16:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:16:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:16:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:16:47] [Server thread/INFO]: Preparing level "world"
-[14:16:47] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:17:01] [Server thread/INFO]: Loaded 6 recipes
-[14:17:01] [Server thread/INFO]: Loaded 811 advancements
-[14:17:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:17:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:17:05] [Server thread/INFO]: Preparing spawn area: 68%
-[14:17:07] [Server thread/INFO]: Time elapsed: 5148 ms
-[14:17:07] [Server thread/INFO]: Done (19.984s)! For help, type "help"
-[14:17:43] [Server thread/INFO]: Chanksy[/127.0.0.1:59549] logged in with entity id 67 at (1129.2774148073836, 79.0, 622.5301362137308)
-[14:17:44] [Server thread/INFO]: Chanksy joined the game
-[14:18:12] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[14:18:12] [Server thread/INFO]: Chanksy left the game
-[14:27:14] [Server thread/INFO]: Chanksy[/127.0.0.1:49339] logged in with entity id 501 at (1119.9242568893178, 80.0, 648.3081261489025)
-[14:27:14] [Server thread/INFO]: Chanksy joined the game
-[14:38:14] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
-[14:44:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5134, l='world', x=1134.20, y=79.00, z=665.65]
-[14:47:17] [Server thread/INFO]: [@: Set the weather to clear]
-[14:49:07] [Server thread/INFO]: [Chanksy: Set the time to 2385342]
-[15:24:13] [Server thread/INFO]: Chanksy has made the advancement [Hot Stuff]
-[15:32:06] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[15:32:06] [Server thread/INFO]: Chanksy left the game
-[15:32:08] [Server thread/INFO]: Chanksy[/127.0.0.1:61528] logged in with entity id 17321 at (1248.1055221157378, 5.0, 104.69999998807907)
-[15:32:08] [Server thread/INFO]: Chanksy joined the game
-[15:50:47] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[15:50:47] [Server thread/INFO]: Chanksy left the game
-[15:50:49] [Server thread/INFO]: Chanksy[/127.0.0.1:54321] logged in with entity id 22542 at (1213.866633931142, 11.0, 177.12942940949648)
-[15:50:49] [Server thread/INFO]: Chanksy joined the game
-[17:10:22] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[17:10:22] [Server thread/INFO]: Chanksy left the game
-[17:11:30] [Server thread/INFO]: Chanksy[/127.0.0.1:54106] logged in with entity id 37803 at (971.617563082969, 11.0, 134.63019053624393)
-[17:11:30] [Server thread/INFO]: Chanksy joined the game
-[17:38:06] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[17:38:06] [Server thread/INFO]: Chanksy left the game
-[17:39:55] [Server thread/INFO]: Chanksy[/127.0.0.1:54517] logged in with entity id 43117 at (856.5613172076971, 17.0, -10.680912014663512)
-[17:39:55] [Server thread/INFO]: Chanksy joined the game
-[17:46:41] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[17:46:41] [Server thread/INFO]: Chanksy left the game
-[17:48:02] [Server thread/INFO]: Chanksy[/127.0.0.1:49925] logged in with entity id 44331 at (889.497930028978, 55.0, 34.394439532216154)
-[17:48:02] [Server thread/INFO]: Chanksy joined the game
-[17:54:29] [Server thread/INFO]: [@: Set the weather to clear]
-[18:01:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/47665, l='world', x=1135.54, y=79.00, z=667.80]
-[18:05:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/48144, l='world', x=1136.37, y=79.00, z=665.20]
-[18:07:47] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
-[18:08:44] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[18:08:44] [Server thread/INFO]: Chanksy left the game
-[18:08:50] [Server thread/INFO]: Stopping the server
-[18:08:50] [Server thread/INFO]: Stopping server
-[18:08:50] [Server thread/INFO]: Saving players
-[18:08:50] [Server thread/INFO]: Saving worlds
-[18:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[18:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[18:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:08:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[18:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:49:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:49:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:49:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:49:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:49:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:49:47] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[15:49:47] [Server thread/INFO]: Loading properties
+[15:49:47] [Server thread/INFO]: Default game type: SURVIVAL
+[15:49:47] [Server thread/INFO]: Generating keypair
+[15:49:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:49:47] [Server thread/INFO]: Using default channel type
+[15:49:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:49:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:49:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:49:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:49:47] [Server thread/INFO]: Preparing level "world"
+[15:49:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:49:56] [Server thread/INFO]: Loaded 6 recipes
+[15:49:57] [Server thread/INFO]: Loaded 811 advancements
+[15:49:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:49:59] [Server thread/INFO]: Preparing spawn area: 0%
+[15:49:59] [Server thread/INFO]: Preparing spawn area: 0%
+[15:49:59] [Server thread/INFO]: Preparing spawn area: 0%
+[15:49:59] [Server thread/INFO]: Preparing spawn area: 0%
+[15:49:59] [Server thread/INFO]: Preparing spawn area: 0%
+[15:50:03] [Server thread/INFO]: Time elapsed: 5886 ms
+[15:50:03] [Server thread/INFO]: Done (16.136s)! For help, type "help"
+[15:50:14] [Server thread/INFO]: Chanksy[/127.0.0.1:56592] logged in with entity id 67 at (908.634047419311, 77.0, 583.6999999880791)
+[15:50:14] [Server thread/INFO]: Chanksy joined the game
+[15:59:10] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[15:59:10] [Server thread/INFO]: Chanksy left the game
+[15:59:11] [Server thread/INFO]: Chanksy[/127.0.0.1:57121] logged in with entity id 2765 at (944.6999999880791, 77.0, 584.6029239828216)
+[15:59:11] [Server thread/INFO]: Chanksy joined the game
+[16:01:54] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:01:54] [Server thread/INFO]: Chanksy left the game
+[16:01:56] [Server thread/INFO]: Chanksy[/127.0.0.1:57284] logged in with entity id 4172 at (945.8768061173871, 74.0, 577.6921507830831)
+[16:01:56] [Server thread/INFO]: Chanksy joined the game
+[16:02:13] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:02:13] [Server thread/INFO]: Chanksy left the game
+[16:02:15] [Server thread/INFO]: Chanksy[/127.0.0.1:57306] logged in with entity id 4685 at (949.8397950970344, 74.0, 585.3094375819786)
+[16:02:15] [Server thread/INFO]: Chanksy joined the game
+[16:02:43] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:02:43] [Server thread/INFO]: Chanksy left the game
+[16:02:44] [Server thread/INFO]: Chanksy[/127.0.0.1:57337] logged in with entity id 5287 at (955.1815024457889, 69.0, 577.6164259236318)
+[16:02:44] [Server thread/INFO]: Chanksy joined the game
+[16:05:04] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:05:04] [Server thread/INFO]: Chanksy left the game
+[16:05:05] [Server thread/INFO]: Chanksy[/127.0.0.1:57475] logged in with entity id 6511 at (952.6688713038459, 72.04289683901332, 584.9130885869165)
+[16:05:05] [Server thread/INFO]: Chanksy joined the game
+[16:05:32] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:05:32] [Server thread/INFO]: Chanksy left the game
+[16:05:34] [Server thread/INFO]: Chanksy[/127.0.0.1:57508] logged in with entity id 6893 at (947.9433062677116, 71.0, 577.6360429456371)
+[16:05:34] [Server thread/INFO]: Chanksy joined the game
+[16:10:45] [Server thread/INFO]: [@: Set the weather to clear]
+[16:13:33] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:13:33] [Server thread/INFO]: Chanksy left the game
+[16:13:36] [Server thread/INFO]: Chanksy[/127.0.0.1:57971] logged in with entity id 9899 at (941.3170489689797, 79.0, 584.4495643614948)
+[16:13:36] [Server thread/INFO]: Chanksy joined the game
+[16:15:10] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:15:10] [Server thread/INFO]: Chanksy left the game
+[16:17:47] [Server thread/INFO]: Chanksy[/127.0.0.1:58287] logged in with entity id 10580 at (941.8355088765294, 79.0, 582.9378257534265)
+[16:17:47] [Server thread/INFO]: Chanksy joined the game
+[16:24:10] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:24:10] [Server thread/INFO]: Chanksy left the game
+[16:24:11] [Server thread/INFO]: Chanksy[/127.0.0.1:58666] logged in with entity id 13060 at (952.470708564703, 35.0, 586.2262616162054)
+[16:24:11] [Server thread/INFO]: Chanksy joined the game
+[16:27:11] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/14384, l='world', x=909.87, y=78.00, z=595.88]
+[16:29:28] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:29:28] [Server thread/INFO]: Chanksy left the game
+[16:29:29] [Server thread/INFO]: Chanksy[/127.0.0.1:58987] logged in with entity id 15061 at (950.1080499496634, 35.0, 584.4395493820107)
+[16:29:29] [Server thread/INFO]: Chanksy joined the game
+[16:35:40] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[16:35:40] [Server thread/INFO]: Chanksy left the game
+[16:36:44] [Server thread/INFO]: Chanksy[/127.0.0.1:59488] logged in with entity id 16964 at (928.5372434076394, 79.0, 612.4044542609101)
+[16:36:44] [Server thread/INFO]: Chanksy joined the game
+[16:40:04] [Server thread/WARN]: Chanksy moved too quickly! 0.0,10.124112145408262,0.0
+[16:50:45] [Server thread/INFO]: [@: Set the weather to clear]
+[17:10:45] [Server thread/INFO]: [@: Set the weather to clear]
+[17:21:50] [Server thread/WARN]: Chanksy moved wrongly!
+[17:21:52] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:21:52] [Server thread/INFO]: Chanksy left the game
+[17:21:54] [Server thread/INFO]: Chanksy[/127.0.0.1:62204] logged in with entity id 29290 at (947.9865113029645, 77.0, 592.441689564196)
+[17:21:54] [Server thread/INFO]: Chanksy joined the game
+[17:24:28] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:24:28] [Server thread/INFO]: Chanksy left the game
+[17:24:57] [Server thread/INFO]: Chanksy[/127.0.0.1:62394] logged in with entity id 30428 at (938.9878176938892, 78.0, 580.4441180960059)
+[17:24:57] [Server thread/INFO]: Chanksy joined the game
+[17:30:45] [Server thread/INFO]: [@: Set the weather to clear]
+[17:47:00] [Server thread/INFO]: [@: Set the weather to clear]
+[18:01:26] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/40755, l='world', x=908.13, y=80.94, z=595.13]
+[18:02:51] [Server thread/INFO]: [Chanksy: Set the weather to clear]
+[18:07:00] [Server thread/INFO]: [@: Set the weather to clear]
+[18:12:18] [Server thread/INFO]: [Chanksy: Set the weather to clear]
+[18:13:41] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[18:13:41] [Server thread/INFO]: Chanksy left the game
+[18:13:43] [Server thread/INFO]: Chanksy[/127.0.0.1:65295] logged in with entity id 44254 at (942.313389694177, 61.0, 576.0617657341974)
+[18:13:43] [Server thread/INFO]: Chanksy joined the game
+[18:17:20] [Server thread/INFO]: [@: Set the weather to clear]
+[18:22:22] [Server thread/INFO]: [@: Set the weather to clear]
+[18:27:00] [Server thread/INFO]: [@: Set the weather to clear]
+[18:28:20] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[18:28:20] [Server thread/INFO]: Chanksy left the game
+[18:28:21] [Server thread/INFO]: Chanksy[/127.0.0.1:49770] logged in with entity id 48990 at (944.1901866698151, 85.0, 591.2632955565363)
+[18:28:21] [Server thread/INFO]: Chanksy joined the game
+[18:28:27] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[18:28:27] [Server thread/INFO]: Chanksy left the game
+[18:28:27] [Server thread/INFO]: Chanksy[/127.0.0.1:49779] logged in with entity id 49334 at (944.1901866698151, 81.0, 591.2632955565363)
+[18:28:27] [Server thread/INFO]: Chanksy joined the game
+[18:30:34] [Server thread/WARN]: Chanksy moved wrongly!
+[18:37:38] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[18:37:38] [Server thread/INFO]: Chanksy left the game
+[18:37:48] [Server thread/INFO]: Chanksy[/127.0.0.1:50333] logged in with entity id 52448 at (953.0018091368581, 59.0, 587.3308915198868)
+[18:37:48] [Server thread/INFO]: Chanksy joined the game
+[18:47:00] [Server thread/INFO]: [@: Set the weather to clear]
+[19:07:00] [Server thread/INFO]: [@: Set the weather to clear]
+[19:27:00] [Server thread/INFO]: [@: Set the weather to clear]
+[19:47:00] [Server thread/INFO]: [@: Set the weather to clear]
+[20:03:14] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[20:03:14] [Server thread/INFO]: Chanksy left the game
+[20:03:16] [Server thread/INFO]: Chanksy[/127.0.0.1:55818] logged in with entity id 77795 at (956.8660701680524, 26.0, 587.1055477182053)
+[20:03:16] [Server thread/INFO]: Chanksy joined the game
+[20:03:25] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[20:03:25] [Server thread/INFO]: Chanksy left the game
+[20:03:26] [Server thread/INFO]: Chanksy[/127.0.0.1:55835] logged in with entity id 78108 at (956.8660701680524, 26.0, 587.1055477182053)
+[20:03:26] [Server thread/INFO]: Chanksy joined the game
+[20:15:14] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[20:15:14] [Server thread/INFO]: Chanksy left the game
+[20:16:08] [Server thread/INFO]: Chanksy[/127.0.0.1:56893] logged in with entity id 81525 at (941.3601020943029, 78.0, 584.3916726799021)
+[20:16:08] [Server thread/INFO]: Chanksy joined the game
+[20:27:00] [Server thread/INFO]: [@: Set the weather to clear]
+[20:45:35] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/90138, l='world', x=908.13, y=80.94, z=595.88]
+[20:47:00] [Server thread/INFO]: [@: Set the weather to clear]
+[21:27:00] [Server thread/INFO]: [@: Set the weather to clear]
+[21:38:43] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[21:38:43] [Server thread/INFO]: Chanksy left the game
+[21:38:45] [Server thread/INFO]: Chanksy[/127.0.0.1:63274] logged in with entity id 106273 at (947.8587708038133, 6.0, 579.3335940463214)
+[21:38:45] [Server thread/INFO]: Chanksy joined the game
+[21:43:55] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[21:43:55] [Server thread/INFO]: Chanksy left the game
+[21:44:06] [Server thread/INFO]: Stopping the server
+[21:44:06] [Server thread/INFO]: Stopping server
+[21:44:06] [Server thread/INFO]: Saving players
+[21:44:06] [Server thread/INFO]: Saving worlds
+[21:44:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:44:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:44:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:44:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:44:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:44:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:44:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:44:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:44:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
