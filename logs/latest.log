@@ -1,125 +1,42 @@
-[00:00:51] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.01888532687598854,3.0,-10.226339163558578
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.05078452730253957,3.0,-10.766519582683713
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.08318385438110454,4.0,-11.306670637870184
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.11585078925963899,5.0,-11.846805980998624
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.1490701693783194,5.0,-12.386907604907265
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.18501570478656504,6.0,-12.926827003153903
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.22444011392235552,6.0,-13.466494429835393
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.2665433198114897,7.0,-14.005959882749949
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.3104884724771182,7.0,-14.54528268444301
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.3538086212320195,8.0,-15.084661549524753
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.3963855531299032,8.0,-15.624102367922205
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.44219389532304376,8.0,-16.163269248228744
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.5006343819507038,8.0,-16.701047071881476
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.585448066537765,9.0,-17.23461627776919
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.6934784547822801,9.0,-17.763772178380577
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.8139316382628294,10.0,-18.290566607330447
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 0.9410320117904121,10.0,-18.816097459877028
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.0716891641814072,10.0,-19.34095219788287
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.2042494780278048,10.0,-19.86544516047843
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.3378281356237949,10.0,-20.389744544265113
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.471157119442978,10.0,-20.914143263845062
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.6007923877157282,10.0,-21.4394705897123
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.7276766381726247,10.0,-21.965478006462945
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.8511146307164381,10.0,-22.492304597590874
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 1.9703064737834666,11.0,-23.020100959857245
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 2.0856456395665646,11.0,-23.548752511185057
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 2.1977187035047336,11.0,-24.078110833482697
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 2.307665975823511,11.0,-24.607924290545498
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 2.4156717856910745,12.0,-25.138142885140496
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 2.628632183325635,12.0,-25.626362191033422
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 2.8947550321656763,12.0,-26.09434796827145
-[00:02:16] [Server thread/WARN]: Horse (vehicle of Chanksy) moved too quickly! 3.1849498459116603,12.0,-26.554656441579027
-[00:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
-[00:03:04] [Server thread/INFO]: [Chanksy: Teleported Chanksy to godsbutt]
-[00:05:56] [Server thread/INFO]: [@: Set the weather to clear]
-[00:10:58] [Server thread/INFO]: [@: Set the weather to clear]
-[00:15:22] [Server thread/INFO]: [@: Set the weather to clear]
-[00:20:08] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:20:08] [Server thread/INFO]: Chanksy left the game
-[00:20:30] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[00:24:26] [Server thread/INFO]: Chanksy[/59.149.117.196:57352] logged in with entity id 33566 at (942.6638059968857, 78.0, 583.2259167907313)
-[00:24:26] [Server thread/INFO]: Chanksy joined the game
-[00:25:18] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! -0.3809189604605763,0.0,11.421570538713354
-[00:25:32] [Server thread/INFO]: [@: Set the weather to clear]
-[00:30:34] [Server thread/INFO]: [@: Set the weather to clear]
-[00:30:35] [Server thread/INFO]: Maneus has made the advancement [Cover Me With Diamonds]
-[00:35:07] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:35:07] [Server thread/INFO]: Chanksy left the game
-[00:35:22] [Server thread/INFO]: [@: Set the weather to clear]
-[00:35:46] [Server thread/INFO]: Chanksy[/59.149.117.196:58038] logged in with entity id 38148 at (945.0170516522335, 7.0, 585.0130297290992)
-[00:35:46] [Server thread/INFO]: Chanksy joined the game
-[00:37:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.0,0.0,10.73489336785235
-[00:37:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.0,0.0,11.732741096316204
-[00:37:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.0,0.0,12.759612521236022
-[00:37:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.0,0.0,13.815188382601264
-[00:37:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.0,0.0,14.89915293225431
-[00:39:21] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:39:21] [Server thread/INFO]: Chanksy left the game
-[00:40:08] [Server thread/INFO]: Chanksy[/59.149.117.196:58309] logged in with entity id 39947 at (948.1609358802584, 7.0, 587.3960070398784)
-[00:40:08] [Server thread/INFO]: Chanksy joined the game
-[00:40:36] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[00:44:29] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:44:29] [Server thread/INFO]: Chanksy left the game
-[00:44:46] [Server thread/INFO]: Chanksy[/59.149.117.196:58599] logged in with entity id 42017 at (952.7897451732911, 7.0, 586.008749207282)
-[00:44:46] [Server thread/INFO]: Chanksy joined the game
-[00:45:06] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:45:06] [Server thread/INFO]: Chanksy left the game
-[00:45:22] [Server thread/INFO]: Chanksy[/59.149.117.196:58654] logged in with entity id 42239 at (954.6979364064663, 7.0, 587.8526630539546)
-[00:45:22] [Server thread/INFO]: Chanksy joined the game
-[00:45:37] [Server thread/INFO]: [@: Set the weather to clear]
-[00:47:17] [Server thread/WARN]: Maneus moved wrongly!
-[00:50:39] [Server thread/INFO]: [@: Set the weather to clear]
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.1500054737271057,0.0,-10.208121134390353
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.21545530079743003,0.0,-11.470351880745284
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.29641586687330346,0.0,-12.755257177394583
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.3931883640520937,0.0,-14.062374473484624
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.5054314226856604,0.0,-15.39153591772913
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.6321677623125197,0.0,-16.742854752963126
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.7717840788084231,0.0,-18.116675549951424
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 0.9226774010307963,0.0,-19.513276731554015
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 1.083257785093565,0.0,-20.93287218324508
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 1.2519545897430362,0.0,-22.37561201890219
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 1.4272152032522172,0.0,-23.84158561432423
-[00:52:17] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 1.5084138228544361,0.0,-16.361519659453165
-[00:55:22] [Server thread/INFO]: [@: Set the weather to clear]
-[01:00:37] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[01:03:25] [Server thread/WARN]: Boat (vehicle of Maneus) moved too quickly! 11.383824879193071,0.0,0.0
-[01:05:39] [Server thread/INFO]: [@: Set the weather to clear]
-[01:10:41] [Server thread/INFO]: [@: Set the weather to clear]
-[01:15:22] [Server thread/INFO]: [@: Set the weather to clear]
-[01:19:27] [Server thread/INFO]: godsbutt fell from a high place
-[01:19:44] [Server thread/INFO]: [Maneus: Teleported godsbutt to Maneus]
-[01:19:44] [Server thread/WARN]: godsbutt moved too quickly! -25.42761866832825,18.0,-42.67548516414331
-[01:19:47] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
-[01:20:03] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/55749, l='world', x=909.06, y=78.00, z=595.13]
-[01:20:29] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[01:25:31] [Server thread/INFO]: [@: Set the weather to clear]
-[01:25:33] [Server thread/INFO]: [Maneus: Set the weather to clear]
-[01:28:26] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[01:28:26] [Server thread/INFO]: Chanksy left the game
-[01:28:44] [Server thread/INFO]: Chanksy[/59.149.117.196:61239] logged in with entity id 58736 at (940.2348831090377, 78.0, 581.3287089356363)
-[01:28:44] [Server thread/INFO]: Chanksy joined the game
-[01:30:35] [Server thread/INFO]: [@: Set the weather to clear]
-[01:34:46] [Server thread/INFO]: <Maneus> I'm going to bed
-[01:34:48] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[01:34:48] [Server thread/INFO]: Chanksy left the game
-[01:34:55] [Server thread/INFO]: Maneus lost connection: Disconnected
-[01:34:55] [Server thread/INFO]: Maneus left the game
-[01:34:57] [Server thread/INFO]: <godsbutt> same fam
-[01:35:08] [Server thread/INFO]: godsbutt lost connection: Disconnected
-[01:35:08] [Server thread/INFO]: godsbutt left the game
-[01:35:42] [Server thread/INFO]: Stopping the server
-[01:35:42] [Server thread/INFO]: Stopping server
-[01:35:42] [Server thread/INFO]: Saving players
-[01:35:42] [Server thread/INFO]: Saving worlds
-[01:35:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:35:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:35:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:46:25] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[00:46:25] [Server thread/INFO]: Chanksy left the game
+[00:47:04] [Server thread/INFO]: Chanksy[/127.0.0.1:53891] logged in with entity id 116117 at (967.4058767254878, 33.0, 594.0388897160584)
+[00:47:04] [Server thread/INFO]: Chanksy joined the game
+[00:47:24] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[00:47:24] [Server thread/INFO]: Chanksy left the game
+[00:47:25] [Server thread/INFO]: Chanksy[/127.0.0.1:53900] logged in with entity id 116549 at (964.3874176164923, 30.5, 595.4644647612959)
+[00:47:25] [Server thread/INFO]: Chanksy joined the game
+[00:47:26] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[00:47:26] [Server thread/INFO]: Chanksy left the game
+[00:47:53] [Server thread/INFO]: Chanksy[/127.0.0.1:53918] logged in with entity id 116723 at (964.3874176164923, 30.5, 595.4644647612959)
+[00:47:53] [Server thread/INFO]: Chanksy joined the game
+[00:48:22] [Server thread/INFO]: [@: Set the weather to clear]
+[00:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[00:50:59] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[00:50:59] [Server thread/INFO]: Chanksy left the game
+[00:52:17] [Server thread/INFO]: Chanksy[/127.0.0.1:54024] logged in with entity id 117777 at (949.673975599528, 32.037862255897906, 581.9197806342951)
+[00:52:17] [Server thread/INFO]: Chanksy joined the game
+[00:53:47] [Server thread/WARN]: Chanksy moved too quickly! -10.089683021124415,-0.41999998688697815,-0.27207051446066544
+[00:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[00:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[01:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[01:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[01:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[01:40:46] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/134926, l='world', x=909.87, y=78.00, z=595.88]
+[01:43:48] [Server thread/WARN]: Chanksy moved too quickly! 7.73879358251213,-6.3729404916861085,-2.8224973617345768
+[01:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
+[01:44:35] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[01:44:35] [Server thread/INFO]: Chanksy left the game
+[01:44:44] [Server thread/INFO]: Stopping the server
+[01:44:44] [Server thread/INFO]: Stopping server
+[01:44:44] [Server thread/INFO]: Saving players
+[01:44:44] [Server thread/INFO]: Saving worlds
+[01:44:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:44:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:44:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
