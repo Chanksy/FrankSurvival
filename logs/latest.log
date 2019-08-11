@@ -1,42 +1,443 @@
-[00:46:25] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:46:25] [Server thread/INFO]: Chanksy left the game
-[00:47:04] [Server thread/INFO]: Chanksy[/127.0.0.1:53891] logged in with entity id 116117 at (967.4058767254878, 33.0, 594.0388897160584)
-[00:47:04] [Server thread/INFO]: Chanksy joined the game
-[00:47:24] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:47:24] [Server thread/INFO]: Chanksy left the game
-[00:47:25] [Server thread/INFO]: Chanksy[/127.0.0.1:53900] logged in with entity id 116549 at (964.3874176164923, 30.5, 595.4644647612959)
-[00:47:25] [Server thread/INFO]: Chanksy joined the game
-[00:47:26] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:47:26] [Server thread/INFO]: Chanksy left the game
-[00:47:53] [Server thread/INFO]: Chanksy[/127.0.0.1:53918] logged in with entity id 116723 at (964.3874176164923, 30.5, 595.4644647612959)
-[00:47:53] [Server thread/INFO]: Chanksy joined the game
-[00:48:22] [Server thread/INFO]: [@: Set the weather to clear]
-[00:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
-[00:50:59] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[00:50:59] [Server thread/INFO]: Chanksy left the game
-[00:52:17] [Server thread/INFO]: Chanksy[/127.0.0.1:54024] logged in with entity id 117777 at (949.673975599528, 32.037862255897906, 581.9197806342951)
-[00:52:17] [Server thread/INFO]: Chanksy joined the game
-[00:53:47] [Server thread/WARN]: Chanksy moved too quickly! -10.089683021124415,-0.41999998688697815,-0.27207051446066544
-[00:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
-[00:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
-[01:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
-[01:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
-[01:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
-[01:40:46] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/134926, l='world', x=909.87, y=78.00, z=595.88]
-[01:43:48] [Server thread/WARN]: Chanksy moved too quickly! 7.73879358251213,-6.3729404916861085,-2.8224973617345768
-[01:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
-[01:44:35] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[01:44:35] [Server thread/INFO]: Chanksy left the game
-[01:44:44] [Server thread/INFO]: Stopping the server
-[01:44:44] [Server thread/INFO]: Stopping server
-[01:44:44] [Server thread/INFO]: Saving players
-[01:44:44] [Server thread/INFO]: Saving worlds
-[01:44:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:15:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:15:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:15:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:15:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:15:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:15:59] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[11:15:59] [Server thread/INFO]: Loading properties
+[11:15:59] [Server thread/INFO]: Default game type: SURVIVAL
+[11:15:59] [Server thread/INFO]: Generating keypair
+[11:15:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:15:59] [Server thread/INFO]: Using default channel type
+[11:15:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:15:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:15:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:15:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:15:59] [Server thread/INFO]: Preparing level "world"
+[11:15:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:16:07] [Server thread/INFO]: Loaded 6 recipes
+[11:16:07] [Server thread/INFO]: Loaded 811 advancements
+[11:16:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:16:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:08] [Server thread/INFO]: Preparing spawn area: 80%
+[11:16:08] [Server thread/INFO]: Time elapsed: 1046 ms
+[11:16:08] [Server thread/INFO]: Done (8.893s)! For help, type "help"
+[11:19:59] [Server thread/INFO]: Chanksy[/59.149.117.196:53041] logged in with entity id 67 at (939.9574010255704, 78.0, 584.1611678168172)
+[11:19:59] [Server thread/INFO]: Chanksy joined the game
+[11:20:02] [Server thread/INFO]: [@: Set the weather to clear]
+[11:20:07] [Server thread/INFO]: RichkidRich[/223.141.93.81:18163] logged in with entity id 375 at (931.0774130113429, 74.0, 771.7325963446298)
+[11:20:07] [Server thread/INFO]: RichkidRich joined the game
+[11:20:08] [Server thread/INFO]: LazyPotatoJoe[/121.211.100.77:50315] logged in with entity id 426 at (932.711537687407, 74.0, 738.6398444454425)
+[11:20:08] [Server thread/INFO]: LazyPotatoJoe joined the game
+[11:20:08] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
+[11:20:16] [Server thread/INFO]: <RichkidRich> hello friends
+[11:20:20] [Server thread/INFO]: <Chanksy> hello
+[11:20:24] [Server thread/INFO]: <LazyPotatoJoe> hello
+[11:20:25] [Server thread/INFO]: <RichkidRich> where is joe
+[11:20:29] [Server thread/INFO]: <LazyPotatoJoe> temple
+[11:20:33] [Server thread/INFO]: <RichkidRich> ahhh
+[11:20:41] [Server thread/INFO]: <RichkidRich> yes
+[11:20:41] [Server thread/INFO]: <Chanksy> yes
+[11:20:55] [Server thread/INFO]: <Chanksy> lmao far out
+[11:20:58] [Server thread/INFO]: <RichkidRich> arigatou
+[11:21:01] [Server thread/INFO]: <Chanksy> what an aussie lad
+[11:21:30] [Server thread/INFO]: <RichkidRich> i forgot what i was doing last time
+[11:21:40] [Server thread/INFO]: <Chanksy> i thought you ran out of shit to do
+[11:21:51] [Server thread/INFO]: <RichkidRich> theres a teleporter
+[11:21:58] [Server thread/INFO]: <RichkidRich> come to me
+[11:22:11] [Server thread/INFO]: <RichkidRich> i mean you can yeah
+[11:22:33] [Server thread/INFO]: <RichkidRich> wrong building haha
+[11:22:55] [Server thread/INFO]: [@: Teleported RichkidRich to 1145.5, 75.0, 642.5]
+[11:22:59] [Server thread/INFO]: [@: Teleported LazyPotatoJoe to 1145.5, 75.0, 642.5]
+[11:23:06] [Server thread/INFO]: <RichkidRich> yasss
+[11:23:30] [Server thread/INFO]: <RichkidRich> theres lag hahahaha
+[11:23:43] [Server thread/WARN]: RichkidRich moved too quickly! -5.8410718163447655,-1.252203340253729,-8.093978023226441
+[11:24:20] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Chanksy]
+[11:24:22] [Server thread/INFO]: <Chanksy> fam is there a murder all phantoms button
+[11:24:30] [Server thread/INFO]: <RichkidRich> i can make one
+[11:24:49] [Server thread/INFO]: <Chanksy> lmao it's empty as shit tho
+[11:24:58] [Server thread/INFO]: <Chanksy> <3
+[11:25:02] [Server thread/WARN]: RichkidRich moved too quickly! -0.5883838685070941,-1.7531999805212024,-10.016659597436387
+[11:25:14] [Server thread/INFO]: <Chanksy> if you wanna see something properly impressive come to the slime farm
+[11:25:26] [Server thread/INFO]: [Chanksy: Teleported LazyPotatoJoe to RichkidRich]
+[11:25:47] [Server thread/INFO]: <RichkidRich> BRUH
+[11:25:47] [Server thread/INFO]: [Chanksy: Teleported Chanksy to LazyPotatoJoe]
+[11:25:47] [Server thread/WARN]: Chanksy moved too quickly! -43.017169142907846,43.5,18.02340984351372
+[11:25:47] [Server thread/WARN]: Chanksy moved too quickly! -43.017169142907846,43.5,18.02340984351372
+[11:25:49] [Server thread/INFO]: <RichkidRich> IM LEVEL 77
+[11:25:55] [Server thread/INFO]: <Chanksy> hahahahah
+[11:26:05] [Server thread/INFO]: <Chanksy> ur welcome for keeping the server running for like 10 hours
+[11:26:10] [Server thread/INFO]: <RichkidRich> THE CHESTS FILLED UP
+[11:26:12] [Server thread/INFO]: <RichkidRich> THE CHESTS FILLED UP
+[11:26:14] [Server thread/INFO]: <RichkidRich> WTF
+[11:26:17] [Server thread/INFO]: <Chanksy> hahahahahahah
+[11:26:21] [Server thread/INFO]: <RichkidRich> we need to extend it
+[11:26:23] [Server thread/INFO]: <Chanksy> what do we do
+[11:26:26] [Server thread/INFO]: <Chanksy> burn it all
+[11:26:27] [Server thread/INFO]: <RichkidRich> this is an exp farm @joe
+[11:26:33] [Server thread/INFO]: <Chanksy> empty your inv and burn it all
+[11:26:38] [Server thread/INFO]: <Chanksy> 0 tick pistons
+[11:26:50] [Server thread/INFO]: <RichkidRich> but its overfilled hahahaha
+[11:27:00] [Server thread/INFO]: <RichkidRich> jason i ned chests and hoppers
+[11:27:11] [Server thread/INFO]: <Chanksy> I NEED THAT PHANTOM KILLER
+[11:27:16] [Server thread/INFO]: <Chanksy> HOLY SHIT IT NEVER ENDS
+[11:27:18] [Server thread/INFO]: <Chanksy> u die
+[11:27:23] [Server thread/INFO]: <RichkidRich> ill trade you a phantom killer for lots of chests and hoppers
+[11:27:26] [Server thread/INFO]: <Chanksy> ok
+[11:27:31] [Server thread/INFO]: <RichkidRich> okat one sec
+[11:28:23] [Server thread/INFO]: <Chanksy> work on the pagoda?
+[11:28:23] [Server thread/INFO]: <RichkidRich> make stuff haha
+[11:28:26] [Server thread/INFO]: <RichkidRich> oooo pagod
+[11:29:28] [Server thread/INFO]: <RichkidRich> sure
+[11:29:30] [Server thread/INFO]: <Chanksy> go ahead
+[11:29:33] [Server thread/INFO]: [RichkidRich: Gave 1 [Command Block] to RichkidRich]
+[11:30:27] [Server thread/INFO]: <Chanksy> bless
+[11:30:29] [Server thread/INFO]: <RichkidRich> bless
+[11:31:22] [Server thread/INFO]: Maneus[/192.168.1.1:50137] logged in with entity id 5054 at (946.9795800265231, 81.0, 701.6320777491505)
+[11:31:22] [Server thread/INFO]: Maneus joined the game
+[11:31:27] [Server thread/INFO]: <Chanksy> indeed
+[11:31:34] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[11:32:10] [Server thread/INFO]: <RichkidRich> yes
+[11:32:11] [Server thread/INFO]: <Chanksy> yes
+[11:32:16] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[11:32:30] [Server thread/INFO]: <RichkidRich> ignore the creative i need to make jasons phantom killer by programming the block
+[11:34:52] [Server thread/INFO]: [RichkidRich: Set the time to 13000]
+[11:34:53] [Server thread/INFO]: [@: Set the weather to clear]
+[11:35:17] [Server thread/INFO]: [@: Killed 6 entities]
+[11:35:21] [Server thread/INFO]: [@: Killed Phantom]
+[11:35:29] [Server thread/INFO]: <RichkidRich> its manual though
+[11:35:33] [Server thread/INFO]: <Chanksy> lmao
+[11:35:57] [Server thread/INFO]: <Chanksy> jesus fuck
+[11:36:07] [Server thread/INFO]: [@: Killed Phantom]
+[11:36:21] [Server thread/INFO]: [@: Killed Phantom]
+[11:36:47] [Server thread/INFO]: [@: Killed 3 entities]
+[11:36:50] [Server thread/INFO]: [@: Killed Phantom]
+[11:36:51] [Server thread/INFO]: [@: Killed Phantom]
+[11:36:53] [Server thread/INFO]: <RichkidRich> its auto now
+[11:36:55] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:01] [Server thread/INFO]: <Chanksy> <3
+[11:37:01] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Chanksy]
+[11:37:04] [Server thread/INFO]: <RichkidRich> observe
+[11:37:06] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:07] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:08] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:09] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:09] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:10] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:11] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:13] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:13] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:14] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:15] [Server thread/INFO]: [@: Killed Phantom]
+[11:37:15] [Server thread/INFO]: <Chanksy> yes boys
+[11:37:27] [Server thread/INFO]: <RichkidRich> no thats me manually spawning them
+[11:37:37] [Server thread/INFO]: <RichkidRich> yeah so normall when it spawns three phantoms
+[11:37:40] [Server thread/INFO]: <RichkidRich> itll kill all three
+[11:37:49] [Server thread/INFO]: <Chanksy> oh the skeleton horses
+[11:37:57] [Server thread/INFO]: <Chanksy> i got some when i was making the farm
+[11:38:00] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/8341, l='world', x=909.87, y=78.00, z=595.64]
+[11:38:06] [Server thread/INFO]: <RichkidRich> yeah
+[11:38:10] [Server thread/INFO]: [@: Killed 2 entities]
+[11:38:23] [Server thread/INFO]: <RichkidRich> jason dug it
+[11:38:24] [Server thread/INFO]: <Chanksy> wat
+[11:38:25] [Server thread/INFO]: [@: Killed Phantom]
+[11:38:32] [Server thread/INFO]: <Chanksy> wait where
+[11:38:32] [Server thread/INFO]: [RichkidRich: Set own game mode to Survival Mode]
+[11:38:34] [Server thread/INFO]: [@: Killed Phantom]
+[11:38:46] [Server thread/INFO]: <RichkidRich> frank tank im level 77
+[11:38:51] [Server thread/INFO]: <RichkidRich> jason left the server on for 10 hours
+[11:38:56] [Server thread/INFO]: <RichkidRich> and all the chests filled
+[11:39:07] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to LazyPotatoJoe]
+[11:39:09] [Server thread/INFO]: <RichkidRich> follow me
+[11:39:22] [Server thread/INFO]: <RichkidRich> no im talking to joe haha
+[11:39:36] [Server thread/INFO]: <RichkidRich> so first you press the lever
+[11:39:43] [Server thread/INFO]: [@: Killed 2 entities]
+[11:39:44] [Server thread/INFO]: <RichkidRich> then you take the green dye out of the furnace
+[11:39:58] [Server thread/INFO]: <RichkidRich> and then when youre done you pull the lever again
+[11:40:01] [Server thread/INFO]: <LazyPotatoJoe> all the furnaces?
+[11:40:09] [Server thread/INFO]: <RichkidRich> any or all yeah
+[11:40:16] [Server thread/INFO]: <RichkidRich> the longer you leave it the more exp
+[11:40:21] [Server thread/INFO]: <LazyPotatoJoe> ohhhhh
+[11:40:24] [Server thread/INFO]: <RichkidRich> so in this case jason left it for 10 hours
+[11:40:27] [Server thread/INFO]: <RichkidRich> so i went from level 22 to 77
+[11:40:30] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[11:40:36] [Server thread/INFO]: <LazyPotatoJoe> im level 15 from 3 wtf
+[11:40:50] [Server thread/INFO]: <LazyPotatoJoe> do i get xp if i take it from teh chest
+[11:40:52] [Server thread/INFO]: <Chanksy> and that was like 10 minutes of green dye making
+[11:40:58] [Server thread/INFO]: <RichkidRich> no only from the furnace
+[11:41:04] [Server thread/INFO]: <RichkidRich> the chests stops the furnace from over filling
+[11:41:15] [Server thread/INFO]: <LazyPotatoJoe> christ
+[11:41:26] [Server thread/INFO]: <RichkidRich> jason hoppers
+[11:41:29] [Server thread/INFO]: <RichkidRich> i need hoppers
+[11:41:39] [Server thread/INFO]: <Chanksy> i was working on chests
+[11:41:44] [Server thread/INFO]: <RichkidRich> i have the chests haha
+[11:41:50] [Server thread/INFO]: <Chanksy> fucks sake
+[11:41:58] [Server thread/INFO]: <Chanksy> well i need chests for hoppers anyway
+[11:42:30] [Server thread/INFO]: <Chanksy> are 104 chests enough
+[11:42:38] [Server thread/INFO]: <RichkidRich> if yo uhave enough hoppers yes
+[11:43:03] [Server thread/INFO]: [@: Killed Phantom]
+[11:43:56] [Server thread/INFO]: <Chanksy> most definitely
+[11:44:03] [Server thread/INFO]: <Chanksy> go ahead
+[11:44:08] [Server thread/INFO]: <Chanksy> rich i have 64 hoppers
+[11:44:11] [Server thread/INFO]: <Chanksy> like 120
+[11:44:33] [Server thread/INFO]: <Chanksy> no
+[11:44:43] [Server thread/INFO]: <RichkidRich> tp and give me the hoppers and chests when you good
+[11:44:44] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[11:44:48] [Server thread/INFO]: <RichkidRich> oh
+[11:44:50] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Cover Me With Diamonds]
+[11:44:54] [Server thread/INFO]: <RichkidRich> tyty
+[11:45:20] [Server thread/INFO]: <Chanksy> rich why can't you make it horizontal
+[11:45:32] [Server thread/INFO]: [@: Set the weather to clear]
+[11:46:32] [Server thread/INFO]: <RichkidRich> yeah we have plenty
+[11:47:04] [Server thread/INFO]: <RichkidRich> oh i found a mine
+[11:47:06] [Server thread/INFO]: <Maneus> are we going to dig the walls on the roof?
+[11:47:15] [Server thread/INFO]: <Maneus> or keep[ the shape
+[11:47:50] [Server thread/INFO]: <Maneus> no
+[11:47:54] [Server thread/INFO]: <Chanksy> hahahahaha
+[11:48:38] [Server thread/INFO]: <RichkidRich> damn a silverfish
+[11:48:51] [Server thread/INFO]: <RichkidRich> i hate them in real life alot
+[11:49:01] [Server thread/INFO]: <Chanksy> wow you've seen an irl silverfish
+[11:50:34] [Server thread/INFO]: [@: Set the weather to clear]
+[11:50:53] [Server thread/INFO]: <RichkidRich> i suggest we turn off the phantom killer during the day
+[11:51:00] [Server thread/INFO]: <Chanksy> yeah can you
+[11:51:08] [Server thread/INFO]: <RichkidRich> its running the kill command in a for loop
+[11:51:11] [Server thread/INFO]: <Chanksy> but it checks every game tick
+[11:53:21] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[11:53:21] [Server thread/INFO]: LazyPotatoJoe left the game
+[11:53:32] [Server thread/INFO]: <RichkidRich> i need more chests
+[11:53:44] [Server thread/INFO]: <Chanksy> one sec
+[11:53:58] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/16066, l='world', x=909.06, y=78.00, z=595.32]
+[11:54:05] [Server thread/INFO]: [@: Set the weather to clear]
+[11:54:28] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[11:54:45] [Server thread/INFO]: <Chanksy> give any excess back
+[11:54:47] [Server thread/INFO]: <RichkidRich> tyty
+[11:56:18] [Server thread/INFO]: [Chanksy: Set own game mode to Spectator Mode]
+[11:56:48] [Server thread/INFO]: <Chanksy> you're like 12 blocks away from bedrock hahha
+[11:56:57] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
+[11:57:02] [Server thread/INFO]: <Chanksy> you're like 12 blocks away from bedrock hahha
+[11:57:05] [Server thread/INFO]: <Chanksy> oops
+[11:57:06] [Server thread/INFO]: <RichkidRich> good haha
+[11:57:07] [Server thread/INFO]: [Chanksy: Set own game mode to Spectator Mode]
+[11:57:22] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
+[11:58:42] [Server thread/INFO]: [@: Killed 3 entities]
+[11:58:52] [Server thread/INFO]: Maneus lost connection: Disconnected
+[11:58:52] [Server thread/INFO]: Maneus left the game
+[11:58:54] [Server thread/INFO]: Maneus[/192.168.1.1:50209] logged in with entity id 18662 at (1128.2102251585284, 84.0, 619.8835254630677)
+[11:58:54] [Server thread/INFO]: Maneus joined the game
+[11:59:11] [Server thread/INFO]: <RichkidRich> i wonder if theres such a thing as an iron farm
+[11:59:16] [Server thread/INFO]: <Chanksy> yes
+[11:59:20] [Server thread/INFO]: <Chanksy> with iron golems
+[11:59:27] [Server thread/INFO]: <Chanksy> no idea
+[11:59:30] [Server thread/INFO]: <Chanksy> :)
+[11:59:57] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[12:00:10] [Server thread/INFO]: <RichkidRich> and bedrock
+[12:00:11] [Server thread/INFO]: [@: Killed 3 entities]
+[12:00:12] [Server thread/INFO]: <RichkidRich> here we are
+[12:00:29] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/19464, l='world', x=909.87, y=78.00, z=595.88]
+[12:01:41] [Server thread/INFO]: [@: Killed 2 entities]
+[12:01:43] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/20114, l='world', x=1119.80, y=77.00, z=661.48]
+[12:02:46] [Server thread/INFO]: [@: Killed 2 entities]
+[12:03:12] [Server thread/INFO]: <RichkidRich> so we have 33 ish chests now
+[12:03:17] [Server thread/INFO]: <RichkidRich> double chests
+[12:03:27] [Server thread/INFO]: <RichkidRich> how much green dye is that
+[12:03:56] [Server thread/INFO]: <Chanksy> let's just go with a lot
+[12:04:04] [Server thread/INFO]: <Chanksy> why is it odd
+[12:04:16] [Server thread/INFO]: <RichkidRich> ish
+[12:04:19] [Server thread/INFO]: <RichkidRich> its a very rough count
+[12:04:25] [Server thread/INFO]: <Chanksy> oh wait double
+[12:04:41] [Server thread/INFO]: <RichkidRich> but also its generating exp faster than the hoppers can store them
+[12:04:53] [Server thread/INFO]: <Chanksy> yeah i was trying to fix that
+[12:04:59] [Server thread/INFO]: [@: Set the weather to clear]
+[12:05:00] [Server thread/INFO]: <Chanksy> hence the double chest of bamboo
+[12:05:53] [Server thread/INFO]: <Chanksy> wait why didn't you use a smoker
+[12:06:01] [Server thread/INFO]: <RichkidRich> idk what that is
+[12:06:10] [Server thread/INFO]: <RichkidRich> but also the tut used a furnace
+[12:06:21] [Server thread/INFO]: <RichkidRich> so maybe smokers dont store the exp idk
+[12:07:17] [Server thread/INFO]: <Chanksy> nvm they don't smelt in there
+[12:07:22] [Server thread/INFO]: <RichkidRich> ?
+[12:09:36] [Server thread/INFO]: LazyPotatoJoe[/121.211.100.77:50462] logged in with entity id 23508 at (1121.2827450774134, 84.0, 625.7341128370155)
+[12:09:36] [Server thread/INFO]: LazyPotatoJoe joined the game
+[12:09:40] [Server thread/INFO]: <Chanksy> hello
+[12:09:46] [Server thread/INFO]: <LazyPotatoJoe> greetings
+[12:09:47] [Server thread/INFO]: <RichkidRich> the chest hole i made is dangerous
+[12:09:58] [Server thread/INFO]: <Chanksy> make it not
+[12:10:01] [Server thread/INFO]: [@: Set the weather to clear]
+[12:10:09] [Server thread/INFO]: <RichkidRich> cba
+[12:10:17] [Server thread/INFO]: <RichkidRich> if you die there you dont deserve the exp
+[12:10:37] [Server thread/INFO]: <RichkidRich> its a straight drop to bedrock
+[12:10:48] [Server thread/INFO]: <Chanksy> watch this
+[12:10:56] [Server thread/INFO]: <Chanksy> lmao
+[12:10:57] [Server thread/INFO]: <Chanksy> yeet
+[12:11:07] [Server thread/INFO]: <RichkidRich> im going to go enchant and finally get diamond shit
+[12:11:20] [Server thread/INFO]: <Chanksy> you missed 8 diamonds
+[12:11:25] [Server thread/INFO]: <Chanksy> literally bottom floor
+[12:11:28] [Server thread/INFO]: <RichkidRich> oh hahahah
+[12:12:36] [Server thread/INFO]: <Chanksy> i've been jumping for a solid 2 minutes
+[12:12:41] [Server thread/INFO]: <Chanksy> fuck this hole
+[12:14:05] [Server thread/INFO]: [@: Set the weather to clear]
+[12:14:25] [Server thread/INFO]: <Chanksy> yall when are we storming the enderdragon
+[12:14:30] [Server thread/INFO]: <Chanksy> we have enough to open the portal
+[12:14:32] [Server thread/INFO]: LazyPotatoJoe has made the advancement [Enchanter]
+[12:14:36] [Server thread/INFO]: <Chanksy> or 10 beds ;)
+[12:14:41] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to LazyPotatoJoe]
+[12:14:48] [Server thread/INFO]: <Chanksy> sure
+[12:14:54] [Server thread/INFO]: <Chanksy> what for?
+[12:14:55] [Server thread/INFO]: [@: Killed 3 entities]
+[12:15:04] [Server thread/INFO]: <Chanksy> ohhh shit
+[12:15:06] [Server thread/INFO]: <Chanksy> yes
+[12:15:09] [Server thread/INFO]: <RichkidRich> brb
+[12:16:07] [Server thread/INFO]: [@: Killed 2 entities]
+[12:17:35] [Server thread/INFO]: [@: Killed 3 entities]
+[12:19:09] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[12:19:34] [Server thread/INFO]: [@: Killed Phantom]
+[12:20:42] [Server thread/INFO]: [@: Killed 2 entities]
+[12:22:36] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
+[12:23:04] [Server thread/INFO]: <Chanksy> rich would you like some proper water elevators installed in the temple
+[12:23:19] [Server thread/INFO]: <Chanksy> super quicc
+[12:24:11] [Server thread/INFO]: [@: Set the weather to clear]
+[12:26:26] [Server thread/INFO]: <Chanksy> oh shit it's an odd number
+[12:27:20] [Server thread/INFO]: <RichkidRich> i want the water elevator to only be one column though
+[12:27:33] [Server thread/INFO]: <Chanksy> what about 2 but one goes up one down
+[12:27:40] [Server thread/INFO]: <RichkidRich> sure
+[12:29:13] [Server thread/INFO]: [@: Set the weather to clear]
+[12:30:17] [Server thread/INFO]: [@: Teleported Chanksy to 1145.5, 75.0, 642.5]
+[12:31:06] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
+[12:32:02] [Server thread/INFO]: <RichkidRich> wtf
+[12:32:06] [Server thread/INFO]: <Chanksy> wat
+[12:32:30] [Server thread/INFO]: <RichkidRich> oi
+[12:32:37] [Server thread/INFO]: <Maneus> ?
+[12:34:05] [Server thread/INFO]: [@: Set the weather to clear]
+[12:35:21] [Server thread/INFO]: [@: Teleported Chanksy to 1145.5, 75.0, 642.5]
+[12:35:41] [Server thread/INFO]: <RichkidRich> yesss im shiny
+[12:35:50] [Server thread/INFO]: <Chanksy> that took far too long
+[12:35:57] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
+[12:35:57] [Server thread/INFO]: <RichkidRich> no i had to go do some other things lmao
+[12:37:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34317, l='world', x=1136.80, y=79.00, z=667.80]
+[12:37:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34317, l='world', x=1136.80, y=79.00, z=667.80]
+[12:39:10] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[12:41:29] [Server thread/INFO]: [@: Killed 3 entities]
+[12:41:58] [Server thread/INFO]: [@: Teleported Chanksy to 1145.5, 75.0, 642.5]
+[12:42:29] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
+[12:43:09] [Server thread/INFO]: [@: Killed 7 entities]
+[12:44:12] [Server thread/INFO]: [@: Set the weather to clear]
+[12:44:16] [Server thread/INFO]: [Maneus: Teleported Maneus to LazyPotatoJoe]
+[12:44:16] [Server thread/WARN]: Maneus moved too quickly! 230.107996555024,17.0,-99.54392291397687
+[12:47:59] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[12:47:59] [Server thread/WARN]: Chanksy moved too quickly! -16.140242312340092,3.0,-45.902754620196674
+[12:48:45] [Server thread/INFO]: <Chanksy> there's another double chest
+[12:48:49] [Server thread/INFO]: [Chanksy: Teleported Chanksy to LazyPotatoJoe]
+[12:48:49] [Server thread/WARN]: Chanksy moved too quickly! 204.6450890344214,10.0,-148.77347168316794
+[12:49:14] [Server thread/INFO]: [@: Set the weather to clear]
+[12:49:24] [Server thread/INFO]: <Chanksy> i just have nothing to do
+[12:49:48] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[12:49:48] [Server thread/WARN]: Chanksy moved too quickly! -178.12360384946987,-5.0,103.21653929879767
+[12:50:51] [Server thread/INFO]: <RichkidRich> iron farm jason
+[12:50:56] [Server thread/INFO]: <Chanksy> you do it
+[12:51:05] [Server thread/INFO]: <Chanksy> check imessage
+[12:53:52] [Server thread/INFO]: <Chanksy> ree
+[12:53:54] [Server thread/INFO]: <Chanksy> wya
+[12:54:05] [Server thread/INFO]: [@: Set the weather to clear]
+[12:54:55] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[12:54:55] [Server thread/WARN]: Chanksy moved too quickly! -17.774265648829555,5.0,-55.60342364317046
+[12:55:28] [Server thread/INFO]: <Chanksy> lmao i thought you slapped me
+[12:55:31] [Server thread/INFO]: <Maneus> haha
+[12:55:46] [Server thread/INFO]: <Chanksy> also help i need some executive decisionmaking
+[12:55:50] [Server thread/INFO]: <Maneus> yes
+[12:56:11] [Server thread/INFO]: <Maneus> ohh nice
+[12:56:12] [Server thread/INFO]: <Chanksy> should the glass be glass
+[12:56:14] [Server thread/INFO]: <Chanksy> or like
+[12:56:15] [Server thread/INFO]: <Chanksy> fence
+[12:56:20] [Server thread/INFO]: <Chanksy> or wood
+[12:56:22] [Server thread/INFO]: <Chanksy> idk
+[12:56:25] [Server thread/INFO]: <Maneus> or gold
+[12:56:28] [Server thread/INFO]: <Chanksy> or gold
+[12:56:36] [Server thread/INFO]: <Maneus> hmm maybe that's too flashy though
+[12:56:40] [Server thread/INFO]: <Chanksy> hahah
+[12:56:42] [Server thread/INFO]: <Maneus> woah this is nice
+[12:56:55] [Server thread/INFO]: <Chanksy> might not need the magma tbh
+[12:57:15] [Server thread/INFO]: <Maneus> I think it's cooler with it
+[12:57:37] [Server thread/INFO]: <Maneus> or lapis maybe?
+[12:57:39] [Server thread/INFO]: <Maneus> since it's blue
+[12:57:59] [Server thread/INFO]: <Maneus> but glass does look nice too
+[12:58:07] [Server thread/INFO]: <Maneus> or maybe that's too blue
+[12:58:12] [Server thread/INFO]: <Maneus> white wool maybe?
+[12:58:41] [Server thread/INFO]: <Maneus> or yeah maybe just wood
+[12:59:09] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[12:59:31] [Server thread/INFO]: <Chanksy> i did a wood/glass hybrid
+[12:59:41] [Server thread/INFO]: [Maneus: Teleported Maneus to Chanksy]
+[12:59:41] [Server thread/WARN]: Maneus moved too quickly! 13.889984153081173,-5.0,67.47473413389844
+[12:59:58] [Server thread/INFO]: <Maneus> yeah that's cool
+[13:00:03] [Server thread/INFO]: [@: Teleported Maneus to 1145.5, 75.0, 642.5]
+[13:00:06] [Server thread/INFO]: <Maneus> oops
+[13:00:08] [Server thread/INFO]: <Chanksy> lmao
+[13:00:15] [Server thread/INFO]: [Maneus: Teleported Maneus to Chanksy]
+[13:00:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45302, l='world', x=1136.58, y=79.00, z=665.20]
+[13:00:50] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[13:01:22] [Server thread/INFO]: [@: Killed 3 entities]
+[13:04:11] [Server thread/INFO]: [@: Set the weather to clear]
+[13:07:22] [Server thread/INFO]: [Chanksy: Teleported Chanksy to LazyPotatoJoe]
+[13:07:56] [Server thread/INFO]: <Chanksy> he's ded
+[13:08:03] [Server thread/INFO]: <Maneus> richard what are you making?
+[13:09:13] [Server thread/INFO]: [@: Set the weather to clear]
+[13:10:42] [Server thread/INFO]: LazyPotatoJoe lost connection: Disconnected
+[13:10:42] [Server thread/INFO]: LazyPotatoJoe left the game
+[13:11:59] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/50675, l='world', x=1136.48, y=79.00, z=665.20]
+[13:12:47] [Server thread/INFO]: <Chanksy> wait is the wood meant to be spruce
+[13:12:54] [Server thread/INFO]: <Maneus> no
+[13:12:56] [Server thread/INFO]: <Chanksy> i thought dark oak
+[13:12:59] [Server thread/INFO]: <Chanksy> lmao
+[13:13:06] [Server thread/INFO]: <Chanksy> all this is spruce tho
+[13:13:14] [Server thread/INFO]: <Chanksy> aight
+[13:14:05] [Server thread/INFO]: [@: Set the weather to clear]
+[13:14:43] [Server thread/INFO]: <Chanksy> oooh ok
+[13:14:47] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/51555, l='world', x=909.87, y=78.00, z=595.14]
+[13:14:53] [Server thread/INFO]: <Chanksy> lmao yeah
+[13:16:48] [Server thread/INFO]: <Chanksy> stone and wood i think
+[13:17:02] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/52304, l='world', x=909.63, y=78.00, z=595.03]
+[13:19:08] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[13:20:34] [Server thread/INFO]: [@: Killed 3 entities]
+[13:22:40] [Server thread/INFO]: <Chanksy> brb
+[13:24:10] [Server thread/INFO]: [@: Set the weather to clear]
+[13:25:01] [Server thread/WARN]: Maneus moved wrongly!
+[13:25:01] [Server thread/WARN]: Maneus moved wrongly!
+[13:25:19] [Server thread/WARN]: Maneus moved wrongly!
+[13:28:29] [Server thread/INFO]: <Maneus> 941 67 726
+[13:29:12] [Server thread/INFO]: [@: Set the weather to clear]
+[13:34:05] [Server thread/INFO]: [@: Set the weather to clear]
+[13:35:53] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[13:35:53] [Server thread/INFO]: RichkidRich left the game
+[13:39:12] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[13:41:37] [Server thread/INFO]: <Maneus> 932 702
+[13:41:44] [Server thread/INFO]: <Maneus> 937 702
+[13:43:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/61965, l='world', x=1136.01, y=79.00, z=667.39]
+[13:44:14] [Server thread/INFO]: [@: Set the weather to clear]
+[13:44:28] [Server thread/INFO]: <Chanksy> brb lunch
+[13:49:16] [Server thread/INFO]: [@: Set the weather to clear]
+[13:54:05] [Server thread/INFO]: [@: Set the weather to clear]
+[13:59:09] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[14:04:11] [Server thread/INFO]: [@: Set the weather to clear]
+[14:09:13] [Server thread/INFO]: [@: Set the weather to clear]
+[14:11:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71853, l='world', x=1134.68, y=79.00, z=666.77]
+[14:11:57] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/71853, l='world', x=1134.68, y=79.00, z=666.77]
+[14:14:05] [Server thread/INFO]: [@: Set the weather to clear]
+[14:18:22] [Server thread/INFO]: [@: Killed 3 entities]
+[14:18:50] [Server thread/INFO]: <Maneus> I'm going to head off
+[14:18:54] [Server thread/INFO]: <Chanksy> oh aight
+[14:18:56] [Server thread/INFO]: <Maneus> i'll push now
+[14:19:03] [Server thread/INFO]: Maneus lost connection: Disconnected
+[14:19:03] [Server thread/INFO]: Maneus left the game
+[14:19:17] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[14:19:17] [Server thread/INFO]: Chanksy left the game
+[14:19:17] [Server thread/INFO]: Stopping server
+[14:19:17] [Server thread/INFO]: Saving players
+[14:19:17] [Server thread/INFO]: Saving worlds
+[14:19:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:19:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:19:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:19:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:19:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:19:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:19:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:19:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:19:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

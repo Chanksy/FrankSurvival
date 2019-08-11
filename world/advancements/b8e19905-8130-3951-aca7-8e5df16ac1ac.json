@@ -1379,6 +1379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-11 13:15:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-07-20 20:44:36 +0800"
@@ -2576,6 +2582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-11 13:15:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-07-20 21:48:09 +0800"
@@ -2627,6 +2639,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_green_dye": "2019-08-03 20:40:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-08-11 12:12:20 +0800"
     },
     "done": true
   },
@@ -2918,6 +2936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-11 13:15:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-07-20 20:50:47 +0800"
@@ -2951,6 +2975,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-07-20 20:44:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-11 13:15:51 +0800"
     },
     "done": true
   },
@@ -3005,6 +3035,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-07-20 21:08:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-11 13:18:04 +0800"
     },
     "done": true
   },
@@ -3095,6 +3131,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2019-08-08 00:46:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-08-11 12:12:20 +0800"
     },
     "done": true
   },
