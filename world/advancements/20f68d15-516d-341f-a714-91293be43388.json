@@ -669,6 +669,7 @@
       "minecraft:wither_skeleton": "2019-07-20 23:14:53 +0800",
       "minecraft:husk": "2019-07-24 21:27:39 +0800",
       "minecraft:silverfish": "2019-08-11 11:48:30 +0800",
+      "minecraft:enderman": "2019-08-14 22:18:34 +0800",
       "minecraft:zombie": "2019-07-20 20:49:48 +0800",
       "minecraft:zombie_villager": "2019-07-20 20:49:39 +0800"
     },
@@ -1316,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2019-08-14 21:44:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-07-24 22:58:56 +0800",
@@ -1476,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-08-14 21:44:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-07-22 21:55:38 +0800"
@@ -1599,6 +1612,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-07-20 20:53:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2019-08-14 21:44:17 +0800"
     },
     "done": true
   },
@@ -1743,6 +1762,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-07-24 21:49:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-14 21:42:31 +0800"
     },
     "done": true
   },
@@ -3126,6 +3151,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-07-24 21:49:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-14 21:42:31 +0800"
     },
     "done": true
   },
