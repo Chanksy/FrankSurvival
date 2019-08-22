@@ -1,61 +1,229 @@
-[13:51:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:51:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:51:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:51:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:51:11] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[13:51:11] [Server thread/INFO]: Loading properties
-[13:51:11] [Server thread/INFO]: Default game type: SURVIVAL
-[13:51:11] [Server thread/INFO]: Generating keypair
-[13:51:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:51:12] [Server thread/INFO]: Using default channel type
-[13:51:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:51:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:51:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:51:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:51:15] [Server thread/INFO]: Preparing level "world"
-[13:51:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:51:17] [Server thread/INFO]: Loaded 6 recipes
-[13:51:17] [Server thread/INFO]: Loaded 811 advancements
-[13:51:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[13:51:28] [Server thread/INFO]: Preparing spawn area: 76%
-[13:51:28] [Server thread/INFO]: Time elapsed: 9557 ms
-[13:51:28] [Server thread/INFO]: Done (12.774s)! For help, type "help"
-[13:52:45] [Server thread/INFO]: Chanksy[/127.0.0.1:62628] logged in with entity id 66 at (1037.2840226658946, 150.0, 649.1690037895812)
-[13:52:45] [Server thread/INFO]: Chanksy joined the game
-[13:54:22] [Server thread/INFO]: [@: Set the weather to clear]
-[13:56:33] [Server thread/WARN]: Chanksy moved too quickly! -10.386171750012636,0.07840000152587834,-0.2887391721766335
-[13:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4908ms or 98 ticks behind
-[13:59:29] [Server thread/INFO]: [@: Set the weather to clear]
-[14:01:35] [Server thread/WARN]: Chanksy moved too quickly! -9.544736152825067,-1.0,2.854293933879717
-[14:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[14:03:59] [Server thread/INFO]: [@: Set the weather to clear]
-[14:09:34] [Server thread/INFO]: [Chanksy: Set own game mode to Creative Mode]
-[14:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
-[14:13:15] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
-[14:15:24] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[14:15:24] [Server thread/INFO]: Chanksy left the game
-[14:42:27] [Server thread/INFO]: Chanksy[/127.0.0.1:63960] logged in with entity id 6643 at (1123.5017371657527, 10.0, 623.459040372065)
-[14:42:27] [Server thread/INFO]: Chanksy joined the game
-[14:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
-[15:02:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9069, l='world', x=1134.77, y=79.00, z=665.88]
-[15:04:21] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[15:04:21] [Server thread/INFO]: Chanksy left the game
+[15:57:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:57:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:57:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:57:05] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[15:57:05] [Server thread/INFO]: Loading properties
+[15:57:05] [Server thread/INFO]: Default game type: SURVIVAL
+[15:57:05] [Server thread/INFO]: Generating keypair
+[15:57:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:57:06] [Server thread/INFO]: Using default channel type
+[15:57:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:57:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:57:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:57:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:57:06] [Server thread/INFO]: Preparing level "world"
+[15:57:06] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:57:14] [Server thread/INFO]: Loaded 6 recipes
+[15:57:14] [Server thread/INFO]: Loaded 811 advancements
+[15:57:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:57:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:57:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:57:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:57:16] [Server thread/INFO]: Time elapsed: 1798 ms
+[15:57:16] [Server thread/INFO]: Done (9.887s)! For help, type "help"
+[16:10:16] [Server thread/INFO]: Chanksy[/59.149.117.196:50131] logged in with entity id 66 at (1130.7582287171444, 79.0, 623.3445371000026)
+[16:10:16] [Server thread/INFO]: Chanksy joined the game
+[16:14:49] [Server thread/INFO]: [@: Set the weather to clear]
+[16:16:22] [Server thread/INFO]: [@: Set the weather to clear]
+[16:16:48] [Server thread/INFO]: Maneus[/192.168.1.1:59640] logged in with entity id 2476 at (1070.743166749398, 78.0, 676.3839435654609)
+[16:16:48] [Server thread/INFO]: Maneus joined the game
+[16:17:46] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/2870, l='world', x=909.06, y=78.00, z=595.13]
+[16:17:53] [Server thread/INFO]: [@: Killed Phantom]
+[16:18:41] [Server thread/INFO]: RichkidRich[/119.237.46.107:63849] logged in with entity id 3278 at (1059.1949867022709, 77.0, 680.8243185779033)
+[16:18:41] [Server thread/INFO]: RichkidRich joined the game
+[16:18:58] [Server thread/INFO]: [@: Killed 3 entities]
+[16:21:32] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[16:21:37] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[16:23:00] [Server thread/INFO]: [@: Killed 2 entities]
+[16:23:57] [Server thread/INFO]: [@: Killed 3 entities]
+[16:24:33] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/6935, l='world', x=909.06, y=78.00, z=595.95]
+[16:25:41] [Server thread/INFO]: [@: Killed Phantom]
+[16:26:12] [Server thread/INFO]: [RichkidRich: Set own game mode to Survival Mode]
+[16:26:38] [Server thread/INFO]: [@: Set the weather to clear]
+[16:26:42] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[16:31:43] [Server thread/INFO]: [@: Set the weather to clear]
+[16:31:45] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[16:36:02] [Server thread/WARN]: Fetching packet for removed entity atx['White Concrete'/14256, l='world', x=1127.43, y=77.88, z=706.59]
+[16:36:22] [Server thread/INFO]: [@: Set the weather to clear]
+[16:38:00] [Server thread/INFO]: [@: Killed 3 entities]
+[16:41:28] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[16:42:44] [Server thread/INFO]: [@: Killed 3 entities]
+[16:45:42] [Server thread/INFO]: [@: Killed Phantom]
+[16:45:55] [Server thread/INFO]: [Chanksy: Set own game mode to Creative Mode]
+[16:46:29] [Server thread/INFO]: [@: Set the weather to clear]
+[16:47:18] [Server thread/WARN]: Chanksy moved too quickly! -0.12985910321094707,-2.580018596943745,9.957810078491548
+[16:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[16:48:14] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
+[16:49:10] [Server thread/INFO]: <RichkidRich> what was that
+[16:49:23] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[16:51:33] [Server thread/INFO]: [@: Set the weather to clear]
+[16:56:24] [Server thread/INFO]: [@: Set the weather to clear]
+[16:59:12] [Server thread/INFO]: [@: Killed 3 entities]
+[17:01:36] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:03:13] [Server thread/INFO]: [@: Killed Phantom]
+[17:05:14] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:05:14] [Server thread/INFO]: Chanksy left the game
+[17:05:16] [Server thread/INFO]: Chanksy[/59.149.117.196:51437] logged in with entity id 27791 at (937.0723908122483, 65.0, 434.3132619192985)
+[17:05:16] [Server thread/INFO]: Chanksy joined the game
+[17:06:07] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:06:07] [Server thread/INFO]: Chanksy left the game
+[17:06:09] [Server thread/INFO]: Chanksy[/59.149.117.196:51459] logged in with entity id 28649 at (925.3376464788483, 69.0, 430.32860146506715)
+[17:06:09] [Server thread/INFO]: Chanksy joined the game
+[17:06:19] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:06:19] [Server thread/INFO]: Chanksy left the game
+[17:06:20] [Server thread/INFO]: Chanksy[/59.149.117.196:51470] logged in with entity id 28931 at (923.323496766446, 69.0, 422.73112541293796)
+[17:06:20] [Server thread/INFO]: Chanksy joined the game
+[17:06:37] [Server thread/INFO]: [@: Set the weather to clear]
+[17:06:50] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:06:50] [Server thread/INFO]: Chanksy left the game
+[17:06:51] [Server thread/INFO]: Chanksy[/59.149.117.196:51484] logged in with entity id 29415 at (911.6999999880791, 72.0, 425.02942231882986)
+[17:06:51] [Server thread/INFO]: Chanksy joined the game
+[17:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[17:07:37] [Server thread/WARN]: Chanksy moved wrongly!
+[17:08:03] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:08:03] [Server thread/INFO]: Chanksy left the game
+[17:08:05] [Server thread/INFO]: Chanksy[/59.149.117.196:51514] logged in with entity id 30841 at (912.3120868251596, 72.0, 427.548026690365)
+[17:08:05] [Server thread/INFO]: Chanksy joined the game
+[17:08:34] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:08:34] [Server thread/INFO]: Chanksy left the game
+[17:08:35] [Server thread/INFO]: Chanksy[/59.149.117.196:51527] logged in with entity id 31396 at (898.5256095762559, 67.0, 417.68520516590144)
+[17:08:35] [Server thread/INFO]: Chanksy joined the game
+[17:09:40] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:09:40] [Server thread/INFO]: Chanksy left the game
+[17:09:42] [Server thread/INFO]: Chanksy[/59.149.117.196:51560] logged in with entity id 32737 at (891.9768091198199, 67.0, 418.1441894306117)
+[17:09:42] [Server thread/INFO]: Chanksy joined the game
+[17:10:14] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[17:11:22] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[17:11:22] [Server thread/WARN]: Chanksy moved too quickly! 70.1418095181375,3.0,-56.95520480355526
+[17:11:22] [Server thread/WARN]: Chanksy moved too quickly! 70.1418095181375,3.0,-56.95520480355526
+[17:11:42] [Server thread/INFO]: [@: Set the weather to clear]
+[17:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[17:12:47] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[17:12:47] [Server thread/WARN]: Chanksy moved too quickly! -74.30228786006023,-4.0,55.17285374148162
+[17:12:47] [Server thread/WARN]: Chanksy moved too quickly! -74.30228786006023,-4.0,55.17285374148162
+[17:15:45] [Server thread/INFO]: Chanksy lost connection: Disconnected
+[17:15:45] [Server thread/INFO]: Chanksy left the game
+[17:15:47] [Server thread/INFO]: Chanksy[/59.149.117.196:51711] logged in with entity id 35612 at (1158.6816924628463, 46.0, 892.3000000119209)
+[17:15:47] [Server thread/INFO]: Chanksy joined the game
+[17:16:29] [Server thread/INFO]: [@: Set the weather to clear]
+[17:18:56] [Server thread/INFO]: Maneus lost connection: Timed out
+[17:18:56] [Server thread/INFO]: Maneus left the game
+[17:19:00] [Server thread/INFO]: Maneus[/192.168.1.1:59692] logged in with entity id 37110 at (1042.699999988079, 88.0, 651.1736542377754)
+[17:19:00] [Server thread/INFO]: Maneus joined the game
+[17:21:29] [Server thread/INFO]: <RichkidRich> franklin
+[17:21:34] [Server thread/INFO]: <RichkidRich> youre not on the call anymore
+[17:21:44] [Server thread/INFO]: <Maneus> oh oops lol
+[17:22:06] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[17:22:07] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:23:15] [Server thread/INFO]: [@: Killed Phantom]
+[17:27:09] [Server thread/INFO]: [@: Set the weather to clear]
+[17:31:16] [Server thread/INFO]: [Maneus: Teleported Maneus to RichkidRich]
+[17:31:16] [Server thread/WARN]: Maneus moved too quickly! -30.298917329572078,12.0,-23.438577356640508
+[17:31:16] [Server thread/WARN]: Maneus moved too quickly! -30.298917329572078,12.0,-23.438577356640508
+[17:32:11] [Server thread/INFO]: [@: Set the weather to clear]
+[17:36:29] [Server thread/INFO]: [@: Set the weather to clear]
+[17:38:55] [Server thread/INFO]: [@: Killed 3 entities]
+[17:40:12] [Server thread/INFO]: [@: Killed 3 entities]
+[17:41:51] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[17:43:07] [Server thread/INFO]: [Chanksy: Set own game mode to Creative Mode]
+[17:43:24] [Server thread/INFO]: [@: Killed 6 entities]
+[17:44:01] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
+[17:46:53] [Server thread/INFO]: [@: Set the weather to clear]
+[17:49:44] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[17:49:44] [Server thread/WARN]: RichkidRich moved too quickly! -24.266490631214538,-25.0,-26.13521839170653
+[17:49:52] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[17:50:32] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[17:50:54] [Server thread/INFO]: [RichkidRich: Set own game mode to Survival Mode]
+[17:51:55] [Server thread/INFO]: [@: Set the weather to clear]
+[17:56:29] [Server thread/INFO]: [@: Set the weather to clear]
+[17:57:15] [Server thread/INFO]: [@: Killed Phantom]
+[17:58:38] [Server thread/INFO]: [Chanksy: Set own game mode to Creative Mode]
+[18:00:00] [Server thread/INFO]: [Chanksy: Set own game mode to Survival Mode]
+[18:01:09] [Server thread/INFO]: [@: Killed Phantom]
+[18:01:34] [Server thread/INFO]: [RichkidRich: Set the weather to clear]
+[18:02:17] [Server thread/INFO]: [@: Killed 2 entities]
+[18:04:46] [Server thread/INFO]: [@: Killed 3 entities]
+[18:06:36] [Server thread/INFO]: [@: Set the weather to clear]
+[18:11:38] [Server thread/INFO]: [@: Set the weather to clear]
+[18:15:29] [Server thread/INFO]: Maneus lost connection: Disconnected
+[18:15:29] [Server thread/INFO]: Maneus left the game
+[18:15:30] [Server thread/INFO]: Maneus[/192.168.1.1:59757] logged in with entity id 60798 at (1033.2154979672214, 103.0, 653.2212829822361)
+[18:15:30] [Server thread/INFO]: Maneus joined the game
+[18:16:29] [Server thread/INFO]: [@: Set the weather to clear]
+[18:17:52] [Server thread/INFO]: [@: Killed 2 entities]
+[18:19:43] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[18:19:43] [Server thread/WARN]: RichkidRich moved too quickly! -100.65320518203612,58.0,-80.04346181309268
+[18:19:50] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Chanksy]
+[18:19:50] [Server thread/WARN]: RichkidRich moved too quickly! 76.76021994401117,-38.0,2.4255140783083107
+[18:20:21] [Server thread/INFO]: [@: Teleported RichkidRich to 923.5, 80.0, 771.5]
+[18:20:29] [Server thread/INFO]: <Chanksy> ree give me your boots
+[18:20:37] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Chanksy]
+[18:20:40] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[18:20:43] [Server thread/INFO]: [@: Killed 6 entities]
+[18:21:09] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[18:21:09] [Server thread/WARN]: Chanksy moved too quickly! 21.514658721966953,-4.0,6.784280270630234
+[18:21:09] [Server thread/WARN]: Chanksy moved too quickly! 21.514658721966953,-4.0,6.784280270630234
+[18:21:09] [Server thread/INFO]: [@: Teleported RichkidRich to 923.5, 80.0, 771.5]
+[18:21:11] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
+[18:21:26] [Server thread/INFO]: <RichkidRich> ty
+[18:21:34] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[18:21:38] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[18:21:45] [Server thread/INFO]: [@: Killed 6 entities]
+[18:23:04] [Server thread/INFO]: [@: Killed 4 entities]
+[18:24:55] [Server thread/INFO]: [@: Killed 2 entities]
+[18:25:14] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Chanksy]
+[18:26:36] [Server thread/INFO]: [@: Set the weather to clear]
+[18:30:01] [Server thread/INFO]: Chanksy has made the advancement [A Throwaway Joke]
+[18:31:38] [Server thread/INFO]: [@: Set the weather to clear]
+[18:35:11] [Server thread/INFO]: <Chanksy> ree do you have white dye
+[18:35:29] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[18:36:29] [Server thread/INFO]: [@: Set the weather to clear]
+[18:37:26] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[18:37:26] [Server thread/WARN]: Chanksy moved too quickly! -105.1173755675029,34.200000047683716,-116.15467597666498
+[18:37:26] [Server thread/WARN]: Chanksy moved too quickly! -105.1173755675029,34.200000047683716,-116.15467597666498
+[18:37:28] [Server thread/INFO]: <RichkidRich> i need hoppers
+[18:37:34] [Server thread/INFO]: <Chanksy> i need white fricking dye
+[18:37:39] [Server thread/INFO]: <RichkidRich> lets trade
+[18:37:42] [Server thread/INFO]: <RichkidRich> i have dye
+[18:37:46] [Server thread/INFO]: <Chanksy> sec
+[18:38:24] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[18:38:24] [Server thread/WARN]: Chanksy moved too quickly! 10.781395580075923,-31.0,138.95051393557299
+[18:38:27] [Server thread/INFO]: [@: Killed 2 entities]
+[18:38:33] [Server thread/INFO]: <RichkidRich> tyty
+[18:38:44] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[18:38:44] [Server thread/WARN]: Chanksy moved too quickly! -75.73735750694618,33.0,-81.7847519254342
+[18:38:46] [Server thread/INFO]: <RichkidRich> oh do you ahve wood
+[18:38:48] [Server thread/INFO]: <RichkidRich> or chests
+[18:39:00] [Server thread/INFO]: <Chanksy> yes
+[18:39:21] [Server thread/INFO]: [Chanksy: Teleported Chanksy to RichkidRich]
+[18:39:31] [Server thread/INFO]: [Chanksy: Teleported Chanksy to Maneus]
+[18:39:31] [Server thread/WARN]: Chanksy moved too quickly! -67.15597358615605,37.0,-82.10677926426047
+[18:39:33] [Server thread/INFO]: <RichkidRich> tyty
+[18:40:06] [Server thread/INFO]: [@: Killed 3 entities]
+[18:41:36] [Server thread/INFO]: [Maneus: Set the weather to clear]
+[18:41:40] [Server thread/INFO]: [@: Killed 2 entities]
+[18:41:42] [Server thread/INFO]: [RichkidRich: Teleported RichkidRich to Maneus]
+[18:41:42] [Server thread/WARN]: RichkidRich moved too quickly! -100.45876026448445,54.0,-120.05178363410118
+[18:42:45] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[18:42:45] [Server thread/INFO]: RichkidRich left the game
+[18:42:54] [Server thread/INFO]: Maneus lost connection: Disconnected
+[18:42:54] [Server thread/INFO]: Maneus left the game
+[18:43:30] [Server thread/INFO]: [@: Killed 2 entities]
+[18:45:12] [Server thread/INFO]: [@: Killed 2 entities]
+[18:56:03] [Server thread/INFO]: [@: Teleported Chanksy to 923.5, 80.0, 771.5]
+[19:16:29] [Server thread/INFO]: [@: Set the weather to clear]
+[19:20:35] [Server thread/INFO]: [Server] I'm going to close then push
+[19:20:51] [Server thread/INFO]: Stopping server
+[19:20:51] [Server thread/INFO]: Saving players
+[19:20:51] [Server thread/INFO]: Saving worlds
+[19:20:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:20:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:20:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
