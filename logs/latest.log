@@ -1,115 +1,126 @@
-[11:47:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:47:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:47:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:47:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:47:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:47:55] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[11:47:55] [Server thread/INFO]: Loading properties
-[11:47:55] [Server thread/INFO]: Default game type: SURVIVAL
-[11:47:55] [Server thread/INFO]: Generating keypair
-[11:47:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:47:56] [Server thread/INFO]: Using default channel type
-[11:48:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:48:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:48:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:48:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:48:00] [Server thread/INFO]: Preparing level "world"
-[11:48:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:48:02] [Server thread/INFO]: Loaded 6 recipes
-[11:48:03] [Server thread/INFO]: Loaded 811 advancements
-[11:48:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:48:06] [Server thread/INFO]: Preparing spawn area: 0%
-[11:48:06] [Server thread/INFO]: Preparing spawn area: 0%
-[11:48:06] [Server thread/INFO]: Preparing spawn area: 0%
-[11:48:06] [Server thread/INFO]: Preparing spawn area: 0%
-[11:48:06] [Server thread/INFO]: Preparing spawn area: 0%
-[11:48:06] [Server thread/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[11:48:14] [Server thread/INFO]: Preparing spawn area: 8%
-[11:48:15] [Server thread/INFO]: Time elapsed: 11487 ms
-[11:48:15] [Server thread/INFO]: Done (14.725s)! For help, type "help"
-[11:48:42] [Server thread/INFO]: Chanksy[/127.0.0.1:50271] logged in with entity id 66 at (1128.1050347457526, 79.0, 625.1547496075019)
-[11:48:42] [Server thread/INFO]: Chanksy joined the game
-[11:49:22] [Server thread/INFO]: [@: Set the weather to clear]
-[11:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4526ms or 90 ticks behind
-[12:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
-[12:04:11] [Server thread/INFO]: [@: Killed 2 entities]
-[12:05:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8730, l='world', x=1136.73, y=79.00, z=665.30]
-[12:05:45] [Server thread/INFO]: [@: Teleported Chanksy to 1176.5, 77.0, 695.5]
-[12:05:49] [Server thread/INFO]: [@: Teleported Chanksy to 1176.5, 77.0, 695.5]
-[12:05:54] [Server thread/INFO]: [@: Successfully filled 6 blocks]
-[12:05:56] [Server thread/INFO]: [@: Successfully filled 6 blocks]
-[12:06:03] [Server thread/INFO]: [@: Teleported Chanksy to 1176.5, 77.0, 695.5]
-[12:06:13] [Server thread/INFO]: [@: Successfully filled 6 blocks]
-[12:06:15] [Server thread/INFO]: [@: Successfully filled 6 blocks]
-[12:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
-[12:33:50] [Server thread/INFO]: [@: Successfully filled 6 blocks]
-[12:33:52] [Server thread/INFO]: [@: Successfully filled 6 blocks]
-[12:34:04] [Server thread/INFO]: [@: Killed 3 entities]
-[12:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
-[12:46:36] [Server thread/INFO]: [@: Set the weather to clear]
-[13:06:36] [Server thread/INFO]: [@: Set the weather to clear]
-[13:11:38] [Server thread/INFO]: [@: Set the weather to clear]
-[13:16:40] [Server thread/INFO]: [@: Set the weather to clear]
-[13:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
-[13:20:53] [Server thread/INFO]: [@: Set the weather to clear]
-[13:25:55] [Server thread/INFO]: [@: Set the weather to clear]
-[13:30:57] [Server thread/INFO]: [@: Set the weather to clear]
-[13:33:13] [Server thread/INFO]: [@: Set the weather to clear]
-[13:38:15] [Server thread/INFO]: [@: Set the weather to clear]
-[13:43:17] [Server thread/INFO]: [@: Set the weather to clear]
-[13:47:18] [Server thread/INFO]: [@: Set the weather to clear]
-[13:58:36] [Server thread/WARN]: Chanksy moved too quickly! -10.005758590822097,-1.766367993957516,-1.3765174561316371
-[13:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
-[14:20:12] [Server thread/INFO]: [@: Set the weather to clear]
-[14:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[14:41:51] [Server thread/INFO]: [@: Set the weather to clear]
-[14:48:41] [Server thread/WARN]: Chanksy moved too quickly! -9.535173524935772,-1.1661092609382138,-3.7053525133711673
-[14:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
-[14:53:44] [Server thread/WARN]: Chanksy moved too quickly! 8.89180675697719,1.0,-4.537574361931377
-[14:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
-[14:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
-[15:03:49] [Server thread/WARN]: Chanksy moved too quickly! -9.022395172948336,0.0,-4.773643768050192
-[15:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
-[15:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
-[15:18:04] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[15:18:04] [Server thread/INFO]: Chanksy left the game
-[15:18:05] [Server thread/INFO]: Chanksy[/127.0.0.1:51075] logged in with entity id 119169 at (975.5314209131399, 76.0, 593.2038414068642)
-[15:18:05] [Server thread/INFO]: Chanksy joined the game
-[15:18:24] [Server thread/INFO]: [@: Set the weather to clear]
-[15:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
-[15:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
-[15:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[15:30:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/122951, l='world', x=1134.43, y=79.00, z=667.28]
-[15:34:50] [Server thread/INFO]: [@: Teleported Chanksy to 1176.5, 77.0, 695.5]
-[15:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
-[16:39:16] [Server thread/INFO]: Chanksy lost connection: Disconnected
-[16:39:16] [Server thread/INFO]: Chanksy left the game
-[17:01:18] [Server thread/INFO]: Stopping the server
-[17:01:18] [Server thread/INFO]: Stopping server
-[17:01:18] [Server thread/INFO]: Saving players
-[17:01:18] [Server thread/INFO]: Saving worlds
-[17:01:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:01:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:01:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:56:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:56:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:56:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:56:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:56:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:56:42] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:56:42] [Server thread/INFO]: Loading properties
+[18:56:42] [Server thread/INFO]: Default game type: SURVIVAL
+[18:56:42] [Server thread/INFO]: Generating keypair
+[18:56:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:56:42] [Server thread/INFO]: Using default channel type
+[18:56:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:56:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:56:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:56:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:56:43] [Server thread/INFO]: Preparing level "world"
+[18:56:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:57:04] [Server thread/INFO]: Loaded 6 recipes
+[18:57:05] [Server thread/INFO]: Loaded 811 advancements
+[18:57:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:57:07] [Server thread/INFO]: Preparing spawn area: 75%
+[18:57:08] [Server thread/INFO]: Time elapsed: 2713 ms
+[18:57:08] [Server thread/INFO]: Done (24.917s)! For help, type "help"
+[18:57:13] [Server thread/INFO]: RichkidRich[/127.0.0.1:58631] logged in with entity id 66 at (1227.6839177742747, 50.0, 642.9903833358746)
+[18:57:13] [Server thread/INFO]: RichkidRich joined the game
+[18:57:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[18:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23071ms or 461 ticks behind
+[18:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7787ms or 155 ticks behind
+[18:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
+[18:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
+[18:59:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[18:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[18:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3859ms or 77 ticks behind
+[19:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5310ms or 106 ticks behind
+[19:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
+[19:00:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4021ms or 80 ticks behind
+[19:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
+[19:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
+[19:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[19:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2707ms or 54 ticks behind
+[19:02:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[19:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[19:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4281ms or 85 ticks behind
+[19:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4937ms or 98 ticks behind
+[19:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
+[19:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9457ms or 189 ticks behind
+[19:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4401ms or 88 ticks behind
+[19:04:32] [Server thread/INFO]: [RichkidRich: Set own game mode to Spectator Mode]
+[19:04:38] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[19:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3270ms or 65 ticks behind
+[19:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
+[19:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3752ms or 75 ticks behind
+[19:05:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[19:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[19:06:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
+[19:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5568ms or 111 ticks behind
+[19:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5409ms or 108 ticks behind
+[19:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
+[19:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5243ms or 104 ticks behind
+[19:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6327ms or 126 ticks behind
+[19:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5477ms or 109 ticks behind
+[19:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[19:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[19:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4775ms or 95 ticks behind
+[19:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4903ms or 98 ticks behind
+[19:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6759ms or 135 ticks behind
+[19:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6994ms or 139 ticks behind
+[19:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7751ms or 155 ticks behind
+[19:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5415ms or 108 ticks behind
+[19:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
+[19:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5901ms or 118 ticks behind
+[19:26:08] [Server thread/INFO]: [RichkidRich: Set own game mode to Spectator Mode]
+[19:26:51] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[19:28:28] [Server thread/INFO]: [RichkidRich: Gave 1 [Command Block] to RichkidRich]
+[19:29:09] [Server thread/INFO]: [@: Teleported RichkidRich to 1211.5, 73.0, 675.5]
+[19:29:19] [Server thread/INFO]: [RichkidRich: Set own game mode to Spectator Mode]
+[19:29:31] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[19:30:33] [Server thread/INFO]: [@: Teleported RichkidRich to 1211.5, 74.0, 675.5]
+[19:32:08] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:32:19] [Server thread/INFO]: [@: Successfully filled 1 blocks]
+[19:32:21] [Server thread/INFO]: [@: Successfully filled 1 blocks]
+[19:32:28] [Server thread/INFO]: [RichkidRich: Set own game mode to Spectator Mode]
+[19:32:33] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[19:36:23] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:36:34] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:36:41] [Server thread/INFO]: [RichkidRich: Set own game mode to Spectator Mode]
+[19:36:47] [Server thread/INFO]: [RichkidRich: Set own game mode to Creative Mode]
+[19:38:50] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:38:51] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:38:55] [Server thread/INFO]: [@: Teleported RichkidRich to 1176.5, 77.0, 695.5]
+[19:40:11] [Server thread/INFO]: [@: Killed 2 entities]
+[19:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[19:42:05] [Server thread/INFO]: RichkidRich has made the advancement [Bring Home the Beacon]
+[19:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[19:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[19:49:36] [Server thread/INFO]: [@: Teleported RichkidRich to 1145.5, 75.0, 642.5]
+[19:49:58] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:50:00] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:50:01] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:50:03] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:50:05] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:50:07] [Server thread/INFO]: [@: Successfully filled 6 blocks]
+[19:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[19:53:34] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:54:23] [Server thread/INFO]: [RichkidRich] RichkidRich found the button!
+[19:54:48] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:54:51] [Server thread/INFO]: RichkidRich lost connection: Disconnected
+[19:54:51] [Server thread/INFO]: RichkidRich left the game
+[19:54:55] [Server thread/INFO]: Stopping the server
+[19:54:55] [Server thread/INFO]: Stopping server
+[19:54:55] [Server thread/INFO]: Saving players
+[19:54:55] [Server thread/INFO]: Saving worlds
+[19:54:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:54:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:54:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:54:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
